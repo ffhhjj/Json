@@ -1,0 +1,58 @@
+[
+  {
+    "surah_no" : 107,
+    "total_ayah" : 7,
+    "name" : "Surah e AL-Maoon",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِ",
+        "Urdu" : "کیا دیکھا آپ نے اسے جو جھٹلاتا ہے جزا کو",
+        "English" : "Have you seen he who belied the Recompense ?"
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَ",
+        "Urdu" : "تو یہ وہ شخص ہے جو دھکے دیتا ہے یتیم کو",
+        "English" : "Then he is the one who drives away the Orphan."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "وَلَا يَحُضُّ عَلٰي طَعَامِ الْمِسْكِيْنِ",
+        "Urdu" : "اور نہیں ترغیب دیتا مسکین کو کھانا کھلانے پر",
+        "English" : "And does not induce others to feed the needy."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "فَوَيْلٌ لِّلْمُصَلِّيْنَ",
+        "Urdu" : "پس ہلاکت ہے ان نمازیوں کے لیے",
+        "English" : "Then woe to those prayer performers."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَ",
+        "Urdu" : "وہ جواپنی نماز سے غفلت کرنے والے ہیں",
+        "English" : "Who are heedless of their prayers."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "الَّذِيْنَ هُمْ يُرَاۗءُوْنَ",
+        "Urdu" : "اور وہ جو دکھلاوا کرتے ہیں",
+        "English" : "Those who make a display (of their deeds)."
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : "وَيَمْنَعُوْنَ الْمَاعُوْنَ",
+        "Urdu" : "اور روکتے ہیں عام استعمال کی چیزیں",
+        "English" : "And do not let others ask for small utilities."
+      }
+    ]
+  }
+]

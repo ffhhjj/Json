@@ -1,0 +1,49 @@
+{
+  "surah_no": 1,
+  "total_ayah" : 7,
+  "name": "Surah e Fateha",
+  "detail": [
+    {
+      "ayet_no" : 0,
+      "arbi": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْم",
+      "Urdu": "شروع اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے ",
+      "English": " In the Name of Allah, the Most Beneficent, the Most Merciful."
+    },
+    {
+      "ayet_no": 1,
+      "arbi": "اَلْحَمْدُ  لِلّٰهِ رَبِّ الْعٰلَمِيْنَ ",
+      "Urdu": "سب تعریفیں اللہ کے لیے ہیں جو تمام جہانوں کا رب ہے ",
+      "English": "Praise be to Allah, Lord of the World."
+    },
+    {
+      "ayet_no": 2,
+      "arbi": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "Urdu": "نہایت رحم کرنے والا ہے، بڑا مہربان ",
+      "English": "The Most Beneficent, the Most Merciful."
+    },
+    {
+      "ayet_no": 3,
+      "arbi": "مَالِكِ يَوْمِ الدِّينِ",
+      "Urdu": "روز جزا کا مالک ہے ",
+      "English": "The Only Owner (and the Only Ruling Judge) of the Day of Recompense (i.e. the Day of Resurrection)."
+    },
+    {
+      "ayet_no": 4,
+      "arbi": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُ    ",
+      "Urdu": "صرف تیری ہی ہم عبادت کرتے ہیں اور صرف تجھ سے ہی ہم مدد مانگتے ہیں ",
+      "English": "The alone do we worship and of Thee alone do we seek help."
+    },
+    {
+      "ayet_no": 5,
+      "arbi": "اِھْدِنَا الصِّرَاطَ الْمُسْتَـقِيْمَ    ",
+      "Urdu": "ہمیں ہدایت دے سیدھے راستے کی ",
+      "English": "Take us on the straight path."
+    },
+    {
+      "ayet_no": 6,
+      "arbi": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۗلِّيْنَ          ",
+      "Urdu": "ان لوگوں کا راستہ جن پر تونے انعام کیا نہ غضب کیا گیا ان پر اور نہ وہ گمراہ ہوئے ",
+      "English": "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray."
+    }
+  ]
+}

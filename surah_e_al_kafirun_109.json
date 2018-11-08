@@ -1,0 +1,52 @@
+[
+  {
+    "surah_no" : 109,
+    "total_ayah" : 6,
+    "name" : "Surah e AL-Kafirun",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَ",
+        "Urdu" : "آپ کہہ دیجیے اے کافرو!",
+        "English" : "Say : O ye that reject Faith!"
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "لَآ اَعْبُدُ مَا تَعْبُدُوْنَ",
+        "Urdu" : "نہیں میں عبادت کرتا جس کی تم عبادت کرتے ہو",
+        "English" : "Neither do I worship what you worship."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُ",
+        "Urdu" : "اور نہ تم عبادت کرنے والے ہو اس کی جس کی میں عبادت کرتا ہوں",
+        "English" : "Nor do you worship Whom I worship."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "وَلَآ اَنَا عَابِدٌ مَّا عَبَدْتُّمْ",
+        "Urdu" : "اور نہ میں عبادت کرنے والا ہوں جس کی تم نے عبادت کی ہے",
+        "English" : "And neither will I ever worship what you worship."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُ",
+        "Urdu" : "اور نہ تم عبادت کرنے والے ہو جس کی میں عبادت کرتا ہوں",
+        "English" : "Nor will you worship Whom I worship."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ",
+        "Urdu" : "تمہارے لیے تمہارادین اور میرے لیے میرا دین",
+        "English" : "For you is your religion, and for me is mine."
+      }
+    ]
+  }
+]

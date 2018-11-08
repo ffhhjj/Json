@@ -1,0 +1,82 @@
+[
+  {
+    "surah_no" : 100,
+    "total_ayah" : 11,
+    "name" : "Surah e AL-Adiyaat",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "وَالْعٰدِيٰتِ ضَبْحًا",
+        "Urdu" : "قسم ہے دوڑنے والے (گھوڑوں کی) ہانپ کر",
+        "English" : "By the (steeds) that run, with panting (breath),"
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "فَالْمُوْرِيٰتِ قَدْحًا",
+        "Urdu" : "پھر آگ نکالنے والوں کی سم مار کر",
+        "English" : "And striking off fire by dashing their hoofs."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "فَالْمُغِيْرٰتِ صُبْحًا",
+        "Urdu" : "پھر حملہ کرنے والوں کی صبح کے وقت",
+        "English" : "And by oath of those who raid at dawn."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "فَاَثَرْنَ بِهٖ نَقْعًا",
+        "Urdu" : "پھر وہ اڑاتے ہیں اس وقت غبار",
+        "English" : "So there upon raising dust."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "فَوَسَطْنَ بِهٖ جَمْعًا",
+        "Urdu" : "پھر جا گھستے ہیں اس وقت دشمن کی کسی جماعت میں",
+        "English" : "And cleaving their way therein into the host,"
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ",
+        "Urdu" : "بے شک انسان اپنے رب کا یقینا بہت ناشکرا ہے",
+        "English" : "Verily man is Unto his Lord ungrateful."
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : "وَاِنَّهٗ عَلٰي ذٰلِكَ لَشَهِيْدٌ",
+        "Urdu" : "اور بے شک وہ اس پر یقینا خود گواہ ہے",
+        "English" : "And indeed he himself is a witness to it."
+      },
+      {
+        "ayet_no" : 8,
+        "arbi" : "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ",
+        "Urdu" : "اور بیشک وہ مال کی محبت میں یقینا بہت سخت ہے",
+        "English" : "Surely he is passionate in his love for good things."
+      },
+      {
+        "ayet_no" : 9,
+        "arbi" : "اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِي الْقُبُوْرِ",
+        "Urdu" : "تو کیا نہیں جانتا وہ جب نکال باہر کیا جائے گا جو کچھ قبروں میں ہے",
+        "English" : "Know he not - when that which is in the graves, shall be ransacked ?"
+      },
+      {
+        "ayet_no" : 10,
+        "arbi" : "وَحُصِّلَ مَا فِي الصُّدُوْرِ",
+        "Urdu" : "اور ظاہر کردیا جائے گا جو کچھ سینوں میں ہے",
+        "English" : "And the hearts' contents shall be brought into the open ?"
+      },
+      {
+        "ayet_no" : 11,
+        "arbi" : "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ",
+        "Urdu" : "بے شک ان کا رب ان سے اس دن یقینا خوب خبردار ہوگا",
+        "English" : "Surely your Lord, that day, is fully aware of them."
+      }
+    ]
+  }
+]

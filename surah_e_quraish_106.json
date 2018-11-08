@@ -1,0 +1,40 @@
+[
+  {
+    "surah_no" : 106,
+    "total_ayah" : 4,
+    "name" : "Surah e Quraish",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "لِاِيْلٰفِ قُرَيْشٍ",
+        "Urdu" : "قریش کو الفت دلانے کے لیے",
+        "English" : "Because of giving alliances to the Quraish."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۗءِ وَالصَّيْفِ",
+        "Urdu" : "ان کو الفت دلانے کیلئے سردی اور گرمی کے سفر پر",
+        "English" : "(We) gave them alliances during both their travels of winter and summer."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِ",
+        "Urdu" : "تو چاہیے کہ وہ عبادت کریں اس گھر کے رب کی",
+        "English" : "They should therefore worship the Lord of this House."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ڏ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ",
+        "Urdu" : "جس نے کھانادیا انہیں بھوک سے بچاکر اور امن دیا انہیں خوف سے بچا کر",
+        "English" : "Who provided them against destitution and gave them security against fear."
+      }
+    ]
+  }
+]

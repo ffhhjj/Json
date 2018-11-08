@@ -1,0 +1,46 @@
+[
+  {
+    "surah_no" : 105,
+    "total_ayah" : 5,
+    "name" : "Surah e AL-Feel",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيْلِ",
+        "Urdu" : "کیا نہیں دیکھا تونے کیا سلوک کیا تیرے رب نے ہاتھی والوں کے ساتھ",
+        "English" : "Have you not seen how Allah dealt with the companions of the Elephant ?"
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِيْ تَضْلِيْلٍ",
+        "Urdu" : "کیا نہیں کردیا ان کی چال کو بے کار میں",
+        "English" : "Did He not put their scheme into ruin ?"
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "وَّاَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَابِيْلَ",
+        "Urdu" : "اور بھیجے ان پر پرندے جھنڈ کے جھنڈ",
+        "English" : "And He sent against them flocks of birds."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "تَرْمِيْهِمْ بِحِـجَارَةٍ مِّنْ سِجِّيْلٍ",
+        "Urdu" : "جو پھینکتے تھے ان پر کنکریاں کھنگر کی",
+        "English" : "Striking them against stones of baked clay."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "فَجَعَلَهُمْ كَعَصْفٍ مَّاْكُوْلٍ",
+        "Urdu" : "پھر کردیا انہیں کھائے ہوئے بھس کی طرح",
+        "English" : "So He made them like the leftover devoured leaves of farms ?"
+      }
+    ]
+  }
+]

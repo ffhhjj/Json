@@ -1,0 +1,592 @@
+[
+  {
+    "surah_no" : 56,
+    "total_ayah" : 96,
+    "name" : "Surah e AL-Waqiah",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "اِذَا وَقَعَتِ الْوَاقِعَةُ",
+        "Urdu" : "جب واقع ہو جائے گی وہ ہو پڑنے والی",
+        "English" : "When there happen Event."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+        "Urdu" : "تو اس وقت اس کے پیش انے کو کوئی جھٹلانے والا نہیں ہوگا ف۱",
+        "English" : "There is about its happening no lie."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "خَافِضَةٌ رَّافِعَةٌ",
+        "Urdu" : "وہ پست و بلند کر دینے والی ہوگی ف۲",
+        "English" : "(That Hour) will lower (some) and raise (some others) high."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "اِذَا رُجَّتِ الْاَرْضُ رَجًّا",
+        "Urdu" : "جب کہ لرز اٹھے گی یہ (ٹھوس) زمین تھر تھرا کر",
+        "English" : "When the earth will be shaken with a terrible shake."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "وَّبُسَّتِ الْجِبَالُ بَسًّا",
+        "Urdu" : "اور ریزہ ریزہ ہوجائیں گے یہ (دیو ہیکل) پہاڑ ٹوٹ کر",
+        "English" : "And the mountains are crumbled, crumbled."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "فَكَانَتْ هَبَاۗءً مُّنْۢبَثًّا",
+        "Urdu" : "پھر یہ ہوجائیں گے ایک غبارِ پراگندہ",
+        "English" : "So that they will become floating dust particles."
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : "وَّكُنْتُمْ اَزْوَاجًا ثَلٰثَةً",
+        "Urdu" : "اور تم لوگ اس وقت تقسیم ہو جاؤ گے تین مختلف گروہوں میں",
+        "English" : "And you (all) will be in three kinds (i.e. separate groups)."
+      },
+      {
+        "ayet_no" : 8,
+        "arbi" : "فَاَصْحٰبُ الْمَيْمَنَةِ ڏ مَآ اَصْحٰبُ الْمَيْمَنَةِ",
+        "Urdu" : "سودائیں بازو والے کیا کہنے ان دائیں بازو والوں کے",
+        "English" : "So those on the Right Hand (i.e. those who will be given their Records in their right hands), Who will be those on the Right Hand? (As a respect for them, because they will enter Paradise)."
+      },
+      {
+        "ayet_no" : 9,
+        "arbi" : "وَاَصْحٰبُ الْمَشْـَٔــمَةِ ڏ مَآ اَصْحٰبُ الْمَشْــَٔــمَةِ",
+        "Urdu" : "اور بائیں بازو والے کیسے بدنصیب (اور بدحال) ہوں گے وہ بائیں بازو والے",
+        "English" : "And those on the Left Hand (i.e. those who will be given their Record in their left hands), Who will be those on the Left Hand? (As a disgrace for them, because they will enter Hell)."
+      },
+      {
+        "ayet_no" : 10,
+        "arbi" : "وَالسّٰبِقُوْنَ السّٰبِقُوْنَ",
+        "Urdu" : "اور جو سبقت لے گئے تو وہ سبقت لے گئے",
+        "English" : "And the Foremost are the foremost."
+      },
+      {
+        "ayet_no" : 11,
+        "arbi" : "اُولٰۗىِٕكَ الْمُقَرَّبُوْنَ",
+        "Urdu" : "یہ وہ (خوش نصیب) ہیں جن کو نوازا گیا ہوگا قرب (خاص) سے",
+        "English" : "These will be those nearest to Allah."
+      },
+      {
+        "ayet_no" : 12,
+        "arbi" : "فِيْ جَنّٰتِ النَّعِيْمِ",
+        "Urdu" : "یہ رہ بس رہے ہوں گے نعمتوں بھری عظیم الشان جنتوں میں",
+        "English" : "In Gardens of Delight."
+      },
+      {
+        "ayet_no" : 13,
+        "arbi" : "ثُـلَّةٌ مِّنَ الْاَوَّلِيْنَ",
+        "Urdu" : "ایک بڑا گروہ ہوگا اگلوں میں سے",
+        "English" : "A multitude from the ancients."
+      },
+      {
+        "ayet_no" : 14,
+        "arbi" : "وَقَلِيْلٌ مِّنَ الْاٰخِرِيْنَ",
+        "Urdu" : "اور تھوڑے پچھلوں میں سے ف۳",
+        "English" : "And a few from the later generations."
+      },
+      {
+        "ayet_no" : 15,
+        "arbi" : "عَلٰي سُرُرٍ مَّوْضُوْنَةٍ",
+        "Urdu" : "(برا جمان ہوں گے یہ) سونے کی تاروں سے بنے ہوئے عظیم الشان تختوں پر",
+        "English" : "On couches in wrought with gold."
+      },
+      {
+        "ayet_no" : 16,
+        "arbi" : "مُّتَّكِـــِٕيْنَ عَلَيْهَا مُتَقٰبِلِيْنَ",
+        "Urdu" : "(نہایت آرام و سکون سے) ان پر ٹیک لگائے آمنے سامنے بیٹھے ہوں گے",
+        "English" : "Reclining thereon facing each other."
+      },
+      {
+        "ayet_no" : 17,
+        "arbi" : "يَــطُوْفُ عَلَيْهِمْ وِلْدَانٌ مُّخَلَّدُوْنَ",
+        "Urdu" : "ان کے پاس ایسے لڑکے آمد و رفت کر رہے ہوں گے جو سدا لڑکے ہی رہیں گے",
+        "English" : "There shall go round Unto them youths ever-young."
+      },
+      {
+        "ayet_no" : 18,
+        "arbi" : "بِاَكْوَابٍ وَّاَبَارِيْقَ ڏ وَكَاْسٍ مِّنْ مَّعِيْنٍ",
+        "Urdu" : "پیالے اور جگ اٹھائے اور ایسے جامہائے شراب لئے ہوں جن کو بھرا گیا ہوگا بہتے ہوئے چشمے سے",
+        "English" : "With goblets and ewers and a cup of limpid drink."
+      },
+      {
+        "ayet_no" : 19,
+        "arbi" : "لَّا يُصَدَّعُوْنَ عَنْهَا وَلَا يُنْزِفُوْنَ",
+        "Urdu" : "نہ تو اس سے ان کے سر چکرائیں گے اور نہ ہی ان کی عقلوں میں کوئی فتور آئے گا",
+        "English" : "Whereby there shall be neither headiness nor will they be inebriated."
+      },
+      {
+        "ayet_no" : 20,
+        "arbi" : "وَفَاكِهَةٍ مِّمَّا يَتَخَيَّرُوْنَ",
+        "Urdu" : "نیز وہ ان کے سامنے طرح طرح کے ایسے پھل لئے پھر رہے ہوں گے جنہیں وہ خود پسند کریں گے",
+        "English" : "And with fruit from that which they choose."
+      },
+      {
+        "ayet_no" : 21,
+        "arbi" : "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُوْنَ",
+        "Urdu" : "اور ان پرندوں کا گوشت بھی جس کی وہ خواہش کریں گے",
+        "English" : "And with flesh of fowls from that Which they desire."
+      },
+      {
+        "ayet_no" : 22,
+        "arbi" : "وَحُوْرٌ عِيْنٌ",
+        "Urdu" : "اور ان کے لئے خوبصورت انکھوں والی عظیم الشان حوریں ہوں گی",
+        "English" : "And there will be fair ones large eyed."
+      },
+      {
+        "ayet_no" : 23,
+        "arbi" : "كَاَمْثَالِ اللُّؤْلُـہ الْمَكْنُوْنِ",
+        "Urdu" : "(صفائی اور نفاست میں) چھپا کر رکھے گئے موتیوں جیسی",
+        "English" : "The likes Unto pearls hidden."
+      },
+      {
+        "ayet_no" : 24,
+        "arbi" : "جَزَاۗءًۢ بِمَا كَانُوْا يَعْمَلُوْنَ",
+        "Urdu" : "(یہ سب کچھ) ان کے ان اعمال کے بدلے میں ہوگا جو وہ (زندگی بھر) کرتے رہے تھے",
+        "English" : "A recompense for that which they have been working."
+      },
+      {
+        "ayet_no" : 25,
+        "arbi" : "لَا يَسْمَعُوْنَ فِيْهَا لَغْوًا وَّلَا تَاْثِيْمًا",
+        "Urdu" : "وہ نہ تو وہاں کوئی بےکار بات سنیں گے اور نہ ہی کوئی گناہ کی بات",
+        "English" : "Therein they hear no vain or sinful discourse."
+      },
+      {
+        "ayet_no" : 26,
+        "arbi" : "اِلَّا قِيْلًا سَلٰمًا سَلٰمًا",
+        "Urdu" : "بس سلام ہی سلام کی آواز سنائی دے گی ف۱",
+        "English" : "(Naught) but the saying: Peace, (and again) Peace."
+      },
+      {
+        "ayet_no" : 27,
+        "arbi" : "وَاَصْحٰبُ الْيَمِيْنِ ڏ مَآ اَصْحٰبُ الْيَمِيْنِ",
+        "Urdu" : "اور دائیں بازو والے کیا ہی خوش نصیب ہوں گے وہ دائیں بازو والے",
+        "English" : "And those on the Right Hand, Who will be those on the Right Hand ?"
+      },
+      {
+        "ayet_no" : 28,
+        "arbi" : "فِيْ سِدْرٍ مَّخْضُوْدٍ",
+        "Urdu" : "(جو رہیں گے) بےخار بیریوں میں",
+        "English" : "(They will be) amid lot-trees with no thorns,"
+      },
+      {
+        "ayet_no" : 29,
+        "arbi" : "وَّطَلْحٍ مَّنْضُوْدٍ",
+        "Urdu" : "تہ بہ تہ چڑھے ہوئے کیلوں میں",
+        "English" : "And plantains laden with fruit."
+      },
+      {
+        "ayet_no" : 30,
+        "arbi" : "وَّظِلٍّ مَّمْدُوْدٍ",
+        "Urdu" : "لمبے لمبے سایوں میں",
+        "English" : "And a shade ever-spread."
+      },
+      {
+        "ayet_no" : 31,
+        "arbi" : "وَّمَاۗءٍ مَّسْكُوْبٍ",
+        "Urdu" : "ہر دم رواں پانی میں",
+        "English" : "And water ever flowing."
+      },
+      {
+        "ayet_no" : 32,
+        "arbi" : "وَّفَاكِهَةٍ كَثِيْرَةٍ",
+        "Urdu" : "اور طرح طرح کے ایسے با افراط پھلوں میں",
+        "English" : "And fruit abundant."
+      },
+      {
+        "ayet_no" : 33,
+        "arbi" : "لَّا مَقْطُوْعَةٍ وَّلَا مَمْنُوْعَةٍ",
+        "Urdu" : "جو نہ کبھی ختم ہونگے اور نہ ان میں کوئی روک ٹوک ہوگی",
+        "English" : "Neither ending nor forbidden."
+      },
+      {
+        "ayet_no" : 34,
+        "arbi" : "وَّفُرُشٍ مَّرْفُوْعَةٍ",
+        "Urdu" : "بلند (مرتبہ و شان کے) بچھونوں میں",
+        "English" : "And carpets raised."
+      },
+      {
+        "ayet_no" : 35,
+        "arbi" : "اِنَّآ اَنْشَاْنٰهُنَّ اِنْشَاۗءً",
+        "Urdu" : "بلاشبہ ہم (جنتیوں کو ملنے والی) ان عورتوں کو بالکل ایک ایسی نئی اٹھان دیں گے",
+        "English" : "Verily, We have created them (maidens) of special creation."
+      },
+      {
+        "ayet_no" : 36,
+        "arbi" : "فَجَــعَلْنٰهُنَّ اَبْكَارًا",
+        "Urdu" : "کہ انہیں کنواری بنا دیں گے",
+        "English" : "And have made them virgins."
+      },
+      {
+        "ayet_no" : 37,
+        "arbi" : "عُرُبًا اَتْرَابًا",
+        "Urdu" : "دل لبھانے والیاں ہم عمر",
+        "English" : "Loving, of equal age."
+      },
+      {
+        "ayet_no" : 38,
+        "arbi" : "لِّاَصْحٰبِ الْيَمِيْنِ",
+        "Urdu" : "یہ سب کچھ دائیں بازو والوں کے لئے ہوگا",
+        "English" : "For the fellows on the right hand."
+      },
+      {
+        "ayet_no" : 39,
+        "arbi" : "ثُلَّةٌ مِّنَ الْاَوَّلِيْنَ",
+        "Urdu" : "بہت سے پہلوں میں سے ہوں گے",
+        "English" : "A multitude from the ancients."
+      },
+      {
+        "ayet_no" : 40,
+        "arbi" : "وَثُلَّةٌ مِّنَ الْاٰخِرِيْنَ",
+        "Urdu" : "اور بہت سے پچھلوں میں سے",
+        "English" : "And a multitude from the later generations."
+      },
+      {
+        "ayet_no" : 41,
+        "arbi" : "وَاَصْحٰبُ الشِّمَالِ ڏ مَآ اَصْحٰبُ الشِّمَالِ",
+        "Urdu" : "اور بائیں بازو والے کتنے ہی بدنصیب ہوں گے بائیں بازو والے",
+        "English" : "And those on the Left Hand Who will be those on the Left Hand ?"
+      },
+      {
+        "ayet_no" : 42,
+        "arbi" : "فِيْ سَمُوْمٍ وَّحَمِيْمٍ",
+        "Urdu" : "وہ لو کی لپٹ اور کھولتے ہوئے پانی میں ہوں گے",
+        "English" : "Amidst scorching wind and scalding water."
+      },
+      {
+        "ayet_no" : 43,
+        "arbi" : "وَّظِلٍّ مِّنْ يَّحْمُوْمٍ",
+        "Urdu" : "اور ایک نہایت ہی ہولناک سیاہ دھوئیں کے سائے میں ف۱",
+        "English" : "And the shade of black smoke."
+      },
+      {
+        "ayet_no" : 44,
+        "arbi" : "لَّا بَارِدٍ وَّلَا كَرِيْمٍ",
+        "Urdu" : "جو نہ ٹھنڈا ہوگا نہ آرام دہ",
+        "English" : "Neither cool nor pleasant."
+      },
+      {
+        "ayet_no" : 45,
+        "arbi" : "اِنَّهُمْ كَانُوْا قَبْلَ ذٰلِكَ مُتْرَفِيْنَ",
+        "Urdu" : "بیشک یہ لوگ اس سے پہلے (دنیا میں)اپنی خوشحالی میں مگن رہا کرتے تھے",
+        "English" : "Verily they have been heretofore affluent."
+      },
+      {
+        "ayet_no" : 46,
+        "arbi" : "وَكَانُوْا يُصِرُّوْنَ عَلَي الْحِنْثِ الْعَظِيْمِ",
+        "Urdu" : "اور یہ (کفر و شرک کے) اس سب سے بڑے گناہ پر اصرار کرتے تھے",
+        "English" : "And they have been persisting in the heinous offence."
+      },
+      {
+        "ayet_no" : 47,
+        "arbi" : "وَكَانُوْا يَقُوْلُوْنَ ڏ اَىِٕذَا مِتْنَا وَكُنَّا تُرَابًا وَّعِظَامًا ءَاِنَّا لَمَبْعُوْثُوْنَ",
+        "Urdu" : "اور یہ لوگ (بڑے تعجب سے اور استہزا کے طور پر) کہا کرتے تھے کہ کیا جب ہم مر کر مٹی ہوجائیں گے اور ہڈیوں کا پنجر بن کر رہ جائیں گے تو کیا واقعی ایسی حالت میں ہم دوبارہ اٹھا کھڑے کیے جائیں گے ؟",
+        "English" : "And they were wont to say: when we have died and become dust and bones, shall we, then, verily be raised ?"
+      },
+      {
+        "ayet_no" : 48,
+        "arbi" : "اَوَاٰبَاۗؤُنَا الْاَوَّلُوْنَ",
+        "Urdu" : "اور کیا ہمارے وہ باپ دادا بھی جو ہم سے بھی کہیں پہلے گزر چکے ہیں ؟ ف۲",
+        "English" : "And also our forefathers ?"
+      },
+      {
+        "ayet_no" : 49,
+        "arbi" : "قُلْ اِنَّ الْاَوَّلِيْنَ وَالْاٰخِرِيْنَ",
+        "Urdu" : "(ان سے) کہو کہ ہاں بلاشبہ اگلوں اور پچھلوں سب نے",
+        "English" : "Say (O Muhammad): [(Yes) verily, those of old, and those of later times]."
+      },
+      {
+        "ayet_no" : 50,
+        "arbi" : "لَمَجْمُوْعُوْنَ ڏ اِلٰى مِيْقَاتِ يَوْمٍ مَّعْلُوْمٍ",
+        "Urdu" : "بہرحال اکٹھے ہو کر رہنا ہے مقرر دن کے طے شدہ وقت میں",
+        "English" : "Are going to be assembled on the appointed time of a Day Known."
+      },
+      {
+        "ayet_no" : 51,
+        "arbi" : "ثُمَّ اِنَّكُمْ اَيُّهَا الضَّاۗلُّوْنَ الْمُكَذِّبُوْنَ",
+        "Urdu" : "پھر تم سب کو اے گمراہو جھٹلانے والو",
+        "English" : "Then verily ye, O you erring, denying people."
+      },
+      {
+        "ayet_no" : 52,
+        "arbi" : "لَاٰكِلُوْنَ مِنْ شَجَرٍ مِّنْ زَقُّوْمٍ",
+        "Urdu" : "بہرحال کھانا ہے زقوم کے ایک نہایت ہی ہولناک (اور کریہہ المنظر) درخت سے",
+        "English" : "You verily will eat of the trees of Zaqqm."
+      },
+      {
+        "ayet_no" : 53,
+        "arbi" : "فَمَالِــــُٔـوْنَ مِنْهَا الْبُطُوْنَ",
+        "Urdu" : "پھر (کھانا بھی اتنا اور اس قدر کہ) تمہیں اسی سے بھرنا ہوگا اپنے پیٹوں کو",
+        "English" : "And shall fill therewith your bellies."
+      },
+      {
+        "ayet_no" : 54,
+        "arbi" : "فَشٰرِبُوْنَ عَلَيْهِ مِنَ الْحَمِيْمِ",
+        "Urdu" : "پھر تم نے اس پر پینا ہوگا (وہاں کے) اس کھولتے پانی سے",
+        "English" : "And shall be drinkers thereon of boiling water."
+      },
+      {
+        "ayet_no" : 55,
+        "arbi" : "فَشٰرِبُوْنَ شُرْبَ الْهِيْمِ",
+        "Urdu" : "پھر تمہارا یہ پینا بھی ایسے ہوگا جیسے تونس لگے ہوئے اونٹ پیتے ہیں",
+        "English" : "Drinkers even as the drinking of thirsty camels."
+      },
+      {
+        "ayet_no" : 56,
+        "arbi" : "ھٰذَا نُزُلُهُمْ يَوْمَ الدِّيْنِ",
+        "Urdu" : "یہ ہوگی (حق و ہدایت کے نور سے محروم) ان لوگوں کی مہمانی بدلے کے اس دن",
+        "English" : "This shall be their entertainment on the Day of Requital."
+      },
+      {
+        "ayet_no" : 57,
+        "arbi" : "نَحْنُ خَلَقْنٰكُمْ فَلَوْلَا تُصَدِّقُوْنَ",
+        "Urdu" : "ہم ہی نے پیدا کیا ہے تم سب کو (اپنی قدرت کاملہ اور حکمت بالغہ سے) پھر تم لوگ تصدیق کیوں نہیں کرتے ؟",
+        "English" : "We! it is We Who created you: wherefore confess you not ?"
+      },
+      {
+        "ayet_no" : 58,
+        "arbi" : "اَفَرَءَيْتُمْ مَّا تُمْـنُوْنَ",
+        "Urdu" : "اچھا یہ تو بتاؤ کہ یہ منی جو تم گراتے ہو",
+        "English" : "Then tell Me (about) the human semen that you emit."
+      },
+      {
+        "ayet_no" : 59,
+        "arbi" : "ءَاَنْتُمْ تَخْلُقُوْنَهٗٓ اَمْ نَحْنُ الْخٰلِقُوْنَ",
+        "Urdu" : "کیا تم اس سے بچہ پیدا کرتے ہو یا ہم ہی ہیں پیدا کرنے والے ؟",
+        "English" : "Is it you who create it, or are We the Creator ?"
+      },
+      {
+        "ayet_no" : 60,
+        "arbi" : "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوْقِيْنَ",
+        "Urdu" : "ہم ہی نے مقدر کیا تمہارے درمیان تمہاری موت کو اور ہم اس سے عاجز نہیں ہیں",
+        "English" : "We have appointed (the times of) death among you, and We cannot be frustrated"
+      },
+      {
+        "ayet_no" : 61,
+        "arbi" : "عَلٰٓي اَنْ نُّبَدِّلَ اَمْثَالَكُمْ وَنُنْشِـىَٔـكُمْ فِيْ مَا لَا تَعْلَمُوْنَ",
+        "Urdu" : "کہ تمہاری شکلیں بدل دیں اور تم کو کسی ایسی صورت میں بنا کھڑا کریں جس کو تم نہیں جانتے",
+        "English" : "That We may substitute others like Unto you and produce you into that which ye know not."
+      },
+      {
+        "ayet_no" : 62,
+        "arbi" : "وَلَقَدْ عَلِمْتُمُ النَّشْاَةَ الْاُوْلٰى فَلَوْلَا تَذَكَّرُوْنَ",
+        "Urdu" : "اور تم لوگ اچھی طرح جانتے ہواپنی پہلی پیدائش کو تو پھر تم سبق کیوں نہیں لیتے (حق و حقیقت تک رسائی کا) ؟ ف۱",
+        "English" : "And you certainly know the first creation; then why do you not take lesson ?"
+      },
+      {
+        "ayet_no" : 63,
+        "arbi" : "اَفَرَءَيْتُمْ مَّا تَحْرُثُوْنَ",
+        "Urdu" : "پھر کیا تم نے اس بیج کے بارے میں بھی کبھی غور کیا جو تم لوگ زمین میں ڈالتے ہو ؟",
+        "English" : "Behold! - that which ye sow."
+      },
+      {
+        "ayet_no" : 64,
+        "arbi" : "ءَاَنْتُمْ تَزْرَعُوْنَهٗٓ اَمْ نَحْنُ الزّٰرِعُوْنَ",
+        "Urdu" : "کیا تم لوگ اس کو اگاتے ہو یا ہم ہی ہیں اس کے اگانے (اور پیدا کرنے) والے ؟",
+        "English" : "Is it you who grow it, or are We the One who grows ?"
+      },
+      {
+        "ayet_no" : 65,
+        "arbi" : "لَوْ نَشَاۗءُ لَجَعَلْنٰهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُوْنَ",
+        "Urdu" : "اگر ہم چاہیں تو چورا چورا کر کے رکھ دیں اس (ہری بھری کھیتی) کو پھر تم لوگ طرح طرح کی باتیں بناتے رہ جاؤ",
+        "English" : "If We willed, surely We would make it chaff, so that ye would be left wondering."
+      },
+      {
+        "ayet_no" : 66,
+        "arbi" : "اِنَّا لَمُغْرَمُوْنَ",
+        "Urdu" : "کہ جی یقینا ہم پر تو بڑی چٹی پڑ گئی",
+        "English" : "Verily we are undone."
+      },
+      {
+        "ayet_no" : 67,
+        "arbi" : "بَلْ نَحْنُ مَحْرُوْمُوْنَ",
+        "Urdu" : "بلکہ ہماری تو قسمت ہی مار دی گئی",
+        "English" : "Rather we are seized by misfortune.’"
+      },
+      {
+        "ayet_no" : 68,
+        "arbi" : "اَفَرَءَيْتُمُ الْمَاۗءَ الَّذِيْ تَشْرَبُوْنَ",
+        "Urdu" : "پھر کیا تم نے کبھی اس پانی کے بارے میں بھی غور کیا جو تم لوگ (دن رات غٹاغٹ) پیتے ہو ؟",
+        "English" : "Tell Me! The water that you drink."
+      },
+      {
+        "ayet_no" : 69,
+        "arbi" : "ءَاَنْتُمْ اَنْزَلْتُمُوْهُ مِنَ الْمُزْنِ اَمْ نَحْنُ الْمُنْزِلُوْنَ",
+        "Urdu" : "کیا اس کو بادل سے تم نے برسایا ہے یا ہم ہی ہیں اس کے برسانے والے ؟",
+        "English" : "Is it you who have brought it down from the clouds, or are We the One who sends (it) down ?"
+      },
+      {
+        "ayet_no" : 70,
+        "arbi" : "لَوْ نَشَاۗءُ جَعَلْنٰهُ اُجَاجًا فَلَوْلَا تَشْكُرُوْنَ",
+        "Urdu" : "اگر ہم چاہیں تو اس کو کڑوا (اور کھاری) بنا کر رکھ دیں پھر تم لوگ شکر کیوں نہیں ادا کرتے (اپنے واہب مطلق رب کا ؟)",
+        "English" : "If We willed, surely We would make it brackish. Wherefore give ye not thanks ?"
+      },
+      {
+        "ayet_no" : 71,
+        "arbi" : "اَفَرَءَيْتُمُ النَّارَ الَّتِيْ تُوْرُوْنَ",
+        "Urdu" : "پھر کیا تم لوگوں نے کبھی اس آگ کے بارے میں بھی غور کیا جو تم سلگاتے ہو ؟",
+        "English" : "See ye the Fire which ye kindle ?"
+      },
+      {
+        "ayet_no" : 72,
+        "arbi" : "ءَاَنْتُمْ اَنْشَاْتُمْ شَجَرَتَهَآ اَمْ نَحْنُ الْمُنْشِــُٔوْنَ",
+        "Urdu" : "کیا اس کے درخت کو تم نے پیدا کیا ہے یا ہم ہی اس کے پیدا کرنے والے ؟",
+        "English" : "Produce you the tree thereof, or are We the Producer ?"
+      },
+      {
+        "ayet_no" : 73,
+        "arbi" : "نَحْنُ جَعَلْنٰهَا تَذْكِرَةً وَّمَتَاعًا لِّلْمُقْوِيْنَ",
+        "Urdu" : "ہم ہی نے اس کو بنا دیا یاد دہانی کا ایک عظیم الشان ذریعہ اور سامان زیست ضرورت مندوں کے لئے ف۲",
+        "English" : "We have made it a reminder (of Our infinite power, and of the fire of Hell) and a benefit for travelers in deserts."
+      },
+      {
+        "ayet_no" : 74,
+        "arbi" : "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيْمِ",
+        "Urdu" : "پس آپ تسبیح کریں اپنے رب کے نام (پاک) کی جو کہ بڑا ہی عظمت والا ہے",
+        "English" : "Wherefore hallow thou the name of thy Lord, the Mighty."
+      },
+      {
+        "ayet_no" : 75,
+        "arbi" : "فَلَآ اُقْسِمُ بِمَوٰقِعِ النُّجُوْمِ",
+        "Urdu" : "پس نہیں میں قسم کھاتا ہوں ان جگہوں کی جہاں ستارے ڈوبتے ہیں",
+        "English" : "So I swear by the places where different portions of the Qur’an descend (on the Arab Messenger)."
+      },
+      {
+        "ayet_no" : 76,
+        "arbi" : "وَاِنَّهٗ لَقَسَمٌ لَّوْ تَعْلَمُوْنَ عَظِيْمٌ",
+        "Urdu" : "اور یقینا یہ ایک بڑی ہی عظیم الشان قسم ہے اگر تم لوگ سمجھو",
+        "English" : "And verily, that is indeed a great oath, if you but know."
+      },
+      {
+        "ayet_no" : 77,
+        "arbi" : "اِنَّهٗ لَقُرْاٰنٌ كَرِيْمٌ",
+        "Urdu" : "بیشک یہ قران ہے بڑا ہی عزت (و عظمت) والا",
+        "English" : "That it is a Recitation honourable."
+      },
+      {
+        "ayet_no" : 78,
+        "arbi" : "فِيْ كِتٰبٍ مَّكْنُوْنٍ",
+        "Urdu" : "(جو ثبت و مندرج ہے) ایک (محفوظ و) پوشیدہ کتاب میں",
+        "English" : "In a Book Hidden."
+      },
+      {
+        "ayet_no" : 79,
+        "arbi" : "لَّا يَمَسُّهٗٓ اِلَّا الْمُطَهَّرُوْنَ",
+        "Urdu" : "اس کو کوئی چھو نہیں سکتا سوائے ان کے جن کو ہر طرح سے پاک بنایا گیا ہے",
+        "English" : "That is not touched except by the purified ones (the angels)."
+      },
+      {
+        "ayet_no" : 80,
+        "arbi" : "تَنْزِيْلٌ مِّنْ رَّبِّ الْعٰلَمِيْنَ",
+        "Urdu" : "یہ سراسر اتارا ہوا کلام ہے رب العالمین کی طرف سے",
+        "English" : "It is a revelation from the Lord of the worlds."
+      },
+      {
+        "ayet_no" : 81,
+        "arbi" : "اَفَبِھٰذَا الْحَدِيْثِ اَنْتُمْ مُّدْهِنُوْنَ",
+        "Urdu" : "تو کیا تم لوگ اسی کلام (صدق نظام) سے لاپرواہی برت رہے ہو ؟ ف۱",
+        "English" : "Is it this discourse that ye hold lightly ?"
+      },
+      {
+        "ayet_no" : 82,
+        "arbi" : "وَتَجْعَلُوْنَ رِزْقَكُمْ اَنَّكُمْ تُكَذِّبُوْنَ",
+        "Urdu" : "اور تم نےاپنی روزی ہی یہ بنا رکھی ہے کہ تم اسے جھٹلاتے جاؤ ؟",
+        "English" : "And make it your provision that ye should belie it ?"
+      },
+      {
+        "ayet_no" : 83,
+        "arbi" : "فَلَوْلَآ اِذَا بَلَغَتِ الْحُلْقُوْمَ",
+        "Urdu" : "سو کیوں نہیں ہوتا (اس وقت) جب کہ روح (جان کنی کے موقع پر) حلق کو پہنچ جاتی ہے",
+        "English" : "Then why do you not (intervene) when (the soul of a dying person) reaches the throat ?"
+      },
+      {
+        "ayet_no" : 84,
+        "arbi" : "وَاَنْتُمْ حِيْـنَىِٕذٍ تَنْظُرُوْنَ",
+        "Urdu" : "اور تم اس وقت (پاس بیٹھے) دیکھ رہے ہوتے ہو ؟",
+        "English" : "And you are watching ?"
+      },
+      {
+        "ayet_no" : 85,
+        "arbi" : "وَنَحْنُ اَقْرَبُ اِلَيْهِ مِنْكُمْ وَلٰكِنْ لَّا تُبْصِرُوْنَ",
+        "Urdu" : "اور ہم (اس وقت) اس کے تم سے بھی کہیں زیادہ قریب ہوتے ہیں مگر تم دیکھ نہیں سکتے",
+        "English" : "And We are closer to him than you, but you do not perceive."
+      },
+      {
+        "ayet_no" : 86,
+        "arbi" : "فَلَوْلَآ اِنْ كُنْتُمْ غَيْرَ مَدِيْنِيْنَ",
+        "Urdu" : "سو اگر واقعی تمہارا کوئی حساب کتاب ہونے والا نہیں",
+        "English" : "Wherefore then, if ye are not to be requited"
+      },
+      {
+        "ayet_no" : 87,
+        "arbi" : "تَرْجِعُوْنَهَآ اِنْ كُنْتُمْ صٰدِقِيْنَ",
+        "Urdu" : "تو تم اس (روح) کو لوٹا کیوں نہیں دیتے اگر تم سچے ہو ف۲",
+        "English" : "Cause ye it not to return, if ye say sooth ?"
+      },
+      {
+        "ayet_no" : 88,
+        "arbi" : "فَاَمَّآ اِنْ كَانَ مِنَ الْمُقَرَّبِيْنَ",
+        "Urdu" : "پھر اگر وہ مرنے والا مقربین میں سے ہوگا",
+        "English" : "Then if he (who died) was of the Near Ones,"
+      },
+      {
+        "ayet_no" : 89,
+        "arbi" : "فَرَوْحٌ وَّرَيْحَانٌ ڏ وَّجَنَّتُ نَعِيْمٍ",
+        "Urdu" : "تو اس کے لئے ایک عظیم الشان راحت عمدہ روزی اور نعمتوں بھری جنت ہوگی",
+        "English" : "Then (for him) there is comfort and fragrance and garden of bliss."
+      },
+      {
+        "ayet_no" : 90,
+        "arbi" : "وَاَمَّآ اِنْ كَانَ مِنْ اَصْحٰبِ الْيَمِيْنِ",
+        "Urdu" : "اور اگر وہ دائیں جانب والوں میں سے ہوگا",
+        "English" : "And in case he is from among the People of the Right,"
+      },
+      {
+        "ayet_no" : 91,
+        "arbi" : "فَسَلٰمٌ لَّكَ مِنْ اَصْحٰبِ الْيَمِيْنِ",
+        "Urdu" : "تو (اس سے کہا جائے گا کہ) سلام ہو تم کو کہ تم دائیں جانب والوں میں سے ہو",
+        "English" : "Then, (it will be said to him,) :Peace is for you, as you are one of the People of the Right."
+      },
+      {
+        "ayet_no" : 92,
+        "arbi" : "وَاَمَّآ اِنْ كَانَ مِنَ الْمُكَذِّبِيْنَ الضَّاۗلِّيْنَ",
+        "Urdu" : "اور اگر وہ جھٹلانے والے گمراہوں میں سے ہوگا",
+        "English" : "And if he be of those who treat (Truth) as Falsehood, who go wrong,"
+      },
+      {
+        "ayet_no" : 93,
+        "arbi" : "فَنُزُلٌ مِّنْ حَمِيْمٍ",
+        "Urdu" : "تو اس کے لئے مہمانی ہوگی ایک کھولتے ہوئے ہولناک پانی سے",
+        "English" : "Then an entertainment of boiling water."
+      },
+      {
+        "ayet_no" : 94,
+        "arbi" : "وَّتَصْلِيَةُ جَحِــيْمٍ",
+        "Urdu" : "اور اس کو گھسنا (اور داخل ہونا) ہوگا (دوزخ کی دہکتی) بھڑکتی آگ میں",
+        "English" : "And roasting in a Blaze."
+      },
+      {
+        "ayet_no": 95,
+        "arbi": "اِنَّ ھٰذَا لَهُوَ حَقُّ الْيَقِيْنِ",
+        "Urdu": "بیشک یہ سب کچھ (جو کہ ذکر و بیان ہوا) قطعی طور پر حق ہے",
+        "English": "Verily this! this is the very truth."
+      },
+      {
+        "ayet_no": 96,
+        "arbi": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظِيْمِ",
+        "Urdu": "پس تم تسبیح کرو اپنے رب کے نام (پاک) کی جو کہ بڑا ہی عظمت والا ہے ف۱",
+        "English": "So, proclaim purity of the name of your Lord, the Magnificent."
+      }
+    ]
+  }
+]

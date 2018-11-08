@@ -1,0 +1,40 @@
+[
+  {
+    "surah_no" : 112,
+    "total_ayah" : 4,
+    "name" : "Surah e AL-Ikhlas",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "قُلْ هُوَ اللّٰهُ اَحَدٌ",
+        "Urdu" : "کہہ دیجیے وہ اللہ ایک ہے",
+        "English" : "(Muhammad), say, [He is the only God]."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "اَللّٰهُ الصَّمَدُ",
+        "Urdu" : "اللہ بے نیاز ہے",
+        "English" : "God, the Self-sufficient One."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "لَمْ يَلِدْ ڏ وَلَمْ يُوْلَدْ",
+        "Urdu" : "نہ اس نے کسی کو جنا اور نہ وہ خود جنا گیا",
+        "English" : "He has begotten no one, and is begotten of none."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ",
+        "Urdu" : "اور نہیں ہے اس کا کوئی ایک ہمسر",
+        "English" : "There is no one equal to Him."
+      }
+    ]
+  }
+]

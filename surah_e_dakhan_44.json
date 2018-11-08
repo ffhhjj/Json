@@ -1,0 +1,370 @@
+[
+  {
+    "surah_no" : 44,
+    "total_ayah" : 59,
+    "name" : "Surah e Dakhan",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "حٰـمۗ",
+        "Urdu" : "حٰ مٓ",
+        "English" : "Ha. Mim."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "وَالْكِتٰبِ الْمُبِيْنِ",
+        "Urdu" : "قسم ہے اس کتاب کی جو کھول کر بیان کرنے والی ہے",
+        "English" : "By the Scripture that make plain"
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "اِنَّآ اَنْزَلْنٰهُ فِيْ لَيْلَةٍ مُّبٰرَكَةٍ اِنَّا كُنَّا مُنْذِرِيْنَ",
+        "Urdu" : "بلاشبہ ہم نے ہی اتارا ہے اس (کتاب حکیم) کو ایک بڑی ہی بابرکت رات میں کہ ہمیں بہرحال خبردار کرنا ہے ف۱",
+        "English" : "We have sent it down in a blessed night, (because) We had to warn (people)."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "فِيْهَا يُفْرَقُ كُلُّ اَمْرٍ حَكِيْمٍ",
+        "Urdu" : "جس میں فیصلہ کیا جاتا ہے ہر حکمت والے کام کا",
+        "English" : "In that (night), every wise matter is allocated."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "اَمْرًا مِّنْ عِنْدِنَا ۭ اِنَّا كُنَّا مُرْسِلِيْنَ",
+        "Urdu" : "ہمارے حکم کی بناء پر بیشک ہمیں رسول بھیجنا تھا",
+        "English" : "By Our Command; surely it is We Who send."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "رَحْمَةً مِّنْ رَّبِّكَ ۭ اِنَّهٗ هُوَ السَّمِيْعُ الْعَلِيْمُ",
+        "Urdu" : "تیرے رب کی عظیم الشان رحمت کی بناء پر بلاشبہ وہی ہے جو (ہر کسی کی) سنتا (سب کچھ) جانتا ہے",
+        "English" : "A mercy from thy Lord. Verily He! He is the Hearer, the Knower."
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : "رَبِّ السَّمٰوٰتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا ۘ اِنْ كُنْتُمْ مُّوْقِنِيْنَ",
+        "Urdu" : "جو کہ رب ہے آسمانوں اور زمین کا اور اس (ساری کائنات) کا جو کہ ان دونوں کے درمیان ہے اگر تم یقین کرنے والے ہو ف۲",
+        "English" : "The Lord of the heavens and the earth and all that is between them, if you (but) have a faith with certainty."
+      },
+      {
+        "ayet_no" : 8,
+        "arbi" : " لَآ اِلٰهَ اِلَّا هُوَ يُـحْيٖ وَيُمِيْتُ ۭ رَبُّكُمْ وَرَبُّ اٰبَاۗىِٕكُمُ الْاَوَّلِيْنَ",
+        "Urdu" : "اس کے سوا کوئی معبود نہیں وہی زندگی بخشتا ہے اور اسی کا کام ہے موت دینا وہی رب ہے تمہارا بھی اور تمہارے اگلے باپ دادوں کا بھی",
+        "English" : "There is no god, but He. He gives life and brings death. He is your Lord and the Lord of your forefathers."
+      },
+      {
+        "ayet_no" : 9,
+        "arbi" : "بَلْ هُمْ فِيْ شَكٍّ يَّلْعَبُوْنَ",
+        "Urdu" : "(مگر ان کو یقین پھر بھی نہیں) بلکہ وہ شک میں پڑے کھیل رہے ہیں",
+        "English" : "But they, being in doubt, are playing around."
+      },
+      {
+        "ayet_no" : 10,
+        "arbi" : "فَارْتَـقِبْ يَوْمَ تَاْتِي السَّمَاۗءُ بِدُخَانٍ مُّبِيْنٍ",
+        "Urdu" : "پس آپ انتظار کیجئے اس دن کا جب کہ آسمان ایک ایسا ظاہر دھواں لئے ہوئے آئے گا",
+        "English" : "Then wait you for the Day when the sky will bring forth a visible smoke."
+      },
+      {
+        "ayet_no" : 11,
+        "arbi" : "يَّغْشَى النَّاسَ ۭ ھٰذَا عَذَابٌ اَلِيْمٌ",
+        "Urdu" : "جو کہ چھا جائے گا ان سب لوگوں پر یہ ایک بڑا دردناک عذاب ہوگا",
+        "English" : "Covering the people, this is a painful torment."
+      },
+      {
+        "ayet_no" : 12,
+        "arbi" : "رَبَّنَا اكْشِفْ عَنَّا الْعَذَابَ اِنَّا مُؤْمِنُوْنَ",
+        "Urdu" : "(اس دن یہ کہیں گے) اے ہمارے رب دور فرما دے ہم سے اس عذاب کو ہم یقینا ایمان لانے والے ہیں",
+        "English" : "(Then they will say,) :O our Lord, remove from us the punishment; we will truly believe."
+      },
+      {
+        "ayet_no" : 13,
+        "arbi" : "اَنّٰى لَهُمُ الذِّكْرٰى وَقَدْ جَاۗءَهُمْ رَسُوْلٌ مُّبِيْنٌ",
+        "Urdu" : "(مگر) کہاں (اور کیسے) کام آئے ان کو نصیحت حالانکہ (اس سے پہلے) ان کے پاس آچکے (حق اور حقیقت کو) کھول کر بیان کرنے والے ایک عظیم الشان رسول",
+        "English" : "How will they take lesson, while there has already come to them a messenger making things clear ?"
+      },
+      {
+        "ayet_no" : 14,
+        "arbi" : "ثُمَّ تَوَلَّوْا عَنْهُ وَقَالُوْا مُعَلَّمٌ مَّجْنُوْنٌ",
+        "Urdu" : "پھر بھی یہ لوگ پھرے ہی رہے (راہ حق و ہدایت سے) اور کہا کہ یہ تو ایک سکھایا پڑھایا دیوانہ ہے",
+        "English" : "Then they turned away from him, and said, :(He is) tutored, crazy."
+      },
+      {
+        "ayet_no" : 15,
+        "arbi" : "اِنَّا كَاشِفُوا الْعَذَابِ قَلِيْلًا اِنَّكُمْ عَاۗىِٕدُوْنَ",
+        "Urdu" : "بیشک ہم (اتمام حجت کے لئے) ہٹائے دیتے ہیں اس عذاب کو تھوڑے عرصے کے لئے مگر تم لوگ یقینا پھر وہی کرو گے جو پہلے کرتے تھے",
+        "English" : "Verily We shall remove the torment for a while; but Verily ye shall revert."
+      },
+      {
+        "ayet_no" : 16,
+        "arbi" : "يَوْمَ نَبْطِشُ الْبَطْشَةَ الْكُبْرٰى ۚ اِنَّا مُنْتَقِمُوْنَ",
+        "Urdu" : "(اور یاد کرو اس دن کو کہ) جب ہم پکڑیں گے اس بڑی سخت پکڑ میں کہ یقینا ہم نے (بدلہ و) انتقام لینا ہے (مجرموں سے)",
+        "English" : "(Then,) the day We will seize (you) with the greatest seizure, We will take vengeance."
+      },
+      {
+        "ayet_no" : 17,
+        "arbi" : "وَلَقَدْ فَتَنَّا قَبْلَهُمْ قَوْمَ فِرْعَوْنَ وَجَاۗءَهُمْ رَسُوْلٌ كَرِيْمٌ",
+        "Urdu" : "اور بلاشبہ ہم ان سے پہلے آزمائش میں ڈال چکے ہیں فرعون کی قوم کو بھی اور ان کے پاس بھی ایک رسول آیا بڑا عزت والا",
+        "English" : "And assuredly afore them We proved Fir'awn's people, and there came Unto them an apostle honoured."
+      },
+      {
+        "ayet_no" : 18,
+        "arbi" : " اَنْ اَدُّوْٓا اِلَيَّ عِبَادَ اللّٰهِ ۭ اِنِّىْ لَكُمْ رَسُوْلٌ اَمِيْنٌ",
+        "Urdu" : "(اس پیغام کے ساتھ) کہ میرے حوالے کر دو تم لوگ اللہ کے بندوں کو بیشک میں رسول ہوں (اس کا) تمہاری طرف امانت دار ف۱",
+        "English" : "Saying: restore to me the bondmen of Allah, verily I am Unto you an apostle trusted."
+      },
+      {
+        "ayet_no" : 19,
+        "arbi" : "وَّاَنْ لَّا تَعْلُوْا عَلَي اللّٰهِ ۭ اِنِّىْٓ اٰتِيْكُمْ بِسُلْطٰنٍ مُّبِيْنٍ",
+        "Urdu" : "اور سرکشی مت کرو تم اللہ کے مقابلے میں بیشک میں آیا ہوں تمہارے پاس ایک کھلی سند کے ساتھ",
+        "English" : "And saying exalt not yourselves against Allah; verily I have come Unto you with an authority manifest."
+      },
+      {
+        "ayet_no" : 20,
+        "arbi" : "وَاِنِّىْ عُذْتُ بِرَبِّيْ وَرَبِّكُمْ اَنْ تَرْجُمُوْنِ",
+        "Urdu" : "اور بیشک میں نے پناہ لے رکھی ہے اس کی جو کہ رب ہے میرا بھی اور تمہارا بھی اس بات سے کہ تم مجھے سنگسار کرو",
+        "English" : "And I have sought refuge with my Lord and your Lord, lest you stone me to death."
+      },
+      {
+        "ayet_no" : 21,
+        "arbi" : "وَاِنْ لَّمْ تُؤْمِنُوْا لِيْ فَاعْتَزِلُوْنِ",
+        "Urdu" : "اور اگر تم مجھ پر ایمان نہیں لاتے تو مجھ سے الگ ہو جاؤ ف۲",
+        "English" : "And if you do not believe in me, then keep away from me."
+      },
+      {
+        "ayet_no" : 22,
+        "arbi" : "فَدَعَا رَبَّهٗٓ اَنَّ هٰٓؤُلَاۗءِ قَوْمٌ مُّجْرِمُوْنَ",
+        "Urdu" : "آخرکار موسیٰ نے اپنے رب کو پکار کر عرض کیا کہ (مالک !) یہ لوگ تو پکے مجرم ہیں",
+        "English" : "Then he prayed to his Lord saying, :These are a guilty people."
+      },
+      {
+        "ayet_no" : 23,
+        "arbi" : "فَاَسْرِ بِعِبَادِيْ لَيْلًا اِنَّكُمْ مُّتَّبَعُوْنَ",
+        "Urdu" : "(جواب ملا کہ) اچھا تو پھر تم راتوں رات نکل جاؤ (یہاں سے) میرے بندوں کو اپنے ساتھ لے کر تمہارا پیچھا بہرحال کیا جائے گا",
+        "English" : "(Allah said): (Depart you with My slaves by night. Surely, you will be pursued)."
+      },
+      {
+        "ayet_no" : 24,
+        "arbi" : "وَاتْرُكِ الْبَحْرَ رَهْوًا ۭ اِنَّهُمْ جُنْدٌ مُّغْرَقُوْنَ",
+        "Urdu" : "اور (اسی طرح) چھوڑ دینا سمندر کو تھما ہوا کیونکہ (دشمن کے) اس سارے لشکر نے (وہیں) غرق ہونا ہے",
+        "English" : "And leave the sea as it is (quiet and divided). Verily, They are a host to be drowned."
+      },
+      {
+        "ayet_no" : 25,
+        "arbi" : "كَمْ تَرَكُوْا مِنْ جَنّٰتٍ وَّعُيُوْنٍ",
+        "Urdu" : "سو ان لوگوں نے چھوڑ دیے کتنے ہی باغ اور چشمے",
+        "English" : "They left - how many! - of gardens and springs."
+      },
+      {
+        "ayet_no" : 26,
+        "arbi" : "وَّزُرُوْعٍ وَّمَقَامٍ كَرِيْمٍ",
+        "Urdu" : "کھیتیاں اور عمدہ مکانات",
+        "English" : "And cornfields and goodly positions."
+      },
+      {
+        "ayet_no" : 27,
+        "arbi" : "وَّنَعْمَةٍ كَانُوْا فِيْهَا فٰكِهِيْنَ",
+        "Urdu" : "اور نعمت کے وہ سازوسامان جن میں یہ لوگ مزے کیا کرتے تھے",
+        "English" : "And the delights which they had been enjoying!"
+      },
+      {
+        "ayet_no" : 28,
+        "arbi" : "كَذٰلِكَ ۣوَاَوْرَثْنٰهَا قَوْمًا اٰخَرِيْنَ",
+        "Urdu" : "اسی طرح ہوا اور ہم نے وارث بنا دیا (اپنی قدرت و عنایت سے) ان چیزوں کا ایک دوسری قوم کو",
+        "English" : "This is how it happened. And We made other people inherit all this."
+      },
+      {
+        "ayet_no" : 29,
+        "arbi" : "فَمَا بَكَتْ عَلَيْهِمُ السَّمَاۗءُ وَالْاَرْضُ وَمَا كَانُوْا مُنْظَرِيْنَ",
+        "Urdu" : "پھر نہ تو ان پر آسمان رویا نہ زمین اور نہ ہی ان کو کوئی مہلت ہی ملنے والی تھی",
+        "English" : "So, neither the sky and earth wept over them, nor were they given a respite."
+      },
+      {
+        "ayet_no" : 30,
+        "arbi" : "وَلَــقَدْ نَجَّيْنَا بَنِيْٓ اِسْرَاۗءِيْلَ مِنَ الْعَذَابِ الْمُهِيْنِ",
+        "Urdu" : "اور بلاشبہ ہم ہی نے نجات دی بنی اسرائیل (جیسی گھسی پٹی قوم) کو اس رسوا کن عذاب سے",
+        "English" : "And We delivered the Children of Israel from the shameful doom;"
+      },
+      {
+        "ayet_no" : 31,
+        "arbi" : "مِنْ فِرْعَوْنَ ۭ اِنَّهٗ كَانَ عَالِيًا مِّنَ الْمُسْرِفِيْنَ",
+        "Urdu" : "یعنی فرعون سے واقعی وہ بڑا سرکش اور حد سے بڑھنے والوں میں سے تھا",
+        "English" : "From Fir'awn; verily he was haughty and of the extravagant."
+      },
+      {
+        "ayet_no" : 32,
+        "arbi" : "وَلَــقَدِ اخْتَرْنٰهُمْ عَلٰي عِلْمٍ عَلَي الْعٰلَمِيْنَ",
+        "Urdu" : "اور بلاشبہ ہم نے ان کو چن لیا تھا علم کی بناء پر (ان کے اپنے دور کے) سب جہانوں پر",
+        "English" : "And We chose them, with knowledge, above all the worlds."
+      },
+      {
+        "ayet_no" : 33,
+        "arbi" : "وَاٰتَيْنٰهُمْ مِّنَ الْاٰيٰتِ مَا فِيْهِ بَلٰۗــــــؤٌا مُّبِيْنٌ",
+        "Urdu" : "اور ان کو ایسی (عظیم الشان اور امتیازی) نشانیوں سے نوازا تھا جن میں کھلی آزمائش تھی",
+        "English" : "And We gave them the clear signs in which there was a manifest blessing."
+      },
+      {
+        "ayet_no" : 34,
+        "arbi" : "اِنَّ هٰٓؤُلَاۗءِ لَيَقُوْلُوْنَ",
+        "Urdu" : "بلاشبہ (دور حاضر کے) یہ منکرین زور دے کر کہتے ہیں",
+        "English" : "These people say,"
+      },
+      {
+        "ayet_no" : 35,
+        "arbi" : "اِنْ هِىَ اِلَّا مَوْتَـتُنَا الْاُوْلٰى وَمَا نَحْنُ بِمُنْشَرِيْنَ",
+        "Urdu" : "کہ وہ (آخری حالت) تو بس ہمارا یہی دنیا کا مرنا ہے اور بس اور ہم دوبارہ اٹھائے جانے والے نہیں",
+        "English" : "There is naught but our first death, and we shall not be raised again."
+      },
+      {
+        "ayet_no" : 36,
+        "arbi" : "فَاْتُوْا بِاٰبَاۗىِٕنَآ اِنْ كُنْتُمْ صٰدِقِيْنَ",
+        "Urdu" : "پس تم لے آؤ ہمارے (اگلے) باپ دادوں کو اگر تم لوگ سچے ہو (اپنے دعوی میں)",
+        "English" : "So, (O believers,) bring our fathers, if you are true (in your belief in resurrection.)"
+      },
+      {
+        "ayet_no" : 37,
+        "arbi" : "اَهُمْ خَيْرٌ اَمْ قَوْمُ تُبَّــعٍ ۙ وَّالَّذِيْنَ مِنْ قَبْلِهِمْ ۭ اَهْلَكْنٰهُمْ ۡ اِنَّهُمْ كَانُوْا مُجْرِمِيْنَ",
+        "Urdu" : "کیا یہ بہتر ہیں یا تبع کی قوم اور وہ لوگ جو اس سے بھی پہلے گزر چکے ہیں؟ ان سب کو تو ہم نے ہلاک کر ڈالا کیونکہ وہ لوگ مجرم تھے",
+        "English" : "Are they better or the people of Tubba and those who were before them? We have destroyed them. They were guilty indeed."
+      },
+      {
+        "ayet_no" : 38,
+        "arbi" : "وَمَا خَلَقْنَا السَّمٰوٰتِ وَالْاَرْضَ وَمَا بَيْنَهُمَا لٰعِبِيْنَ",
+        "Urdu" : "اور ہم نے آسمانوں اور زمین اور ان تمام چیزوں کو جو کہ ان دونوں کے درمیان ہیں کچھ کھیل کے طور پر تو پیدا نہیں کیا ف۱",
+        "English" : "And We did not create the heavens and the earth and what is between them just as players."
+      },
+      {
+        "ayet_no" : 39,
+        "arbi" : "مَا خَلَقْنٰهُمَآ اِلَّا بِالْحَقِّ وَلٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُوْنَ",
+        "Urdu" : "ہم نے تو ان کو برحق ہی پیدا کیا ہے مگر اکثر لوگ جانتے نہیں ف۲",
+        "English" : "We did not create them but with true purpose, but most of them do not know."
+      },
+      {
+        "ayet_no" : 40,
+        "arbi" : "اِنَّ يَوْمَ الْفَصْلِ مِيْقَاتُهُمْ اَجْمَعِيْنَ",
+        "Urdu" : "بلاشبہ فیصلے کا دن تو ان سب کے لئے ایک مقرر شدہ وقت ہے",
+        "English" : "Verily the Day of Distinction is the term appointed for all of them."
+      },
+      {
+        "ayet_no" : 41,
+        "arbi" : "يَوْمَ لَا يُغْنِيْ مَوْلًى عَنْ مَّوْلًى شَـيْــــًٔا وَّلَا هُمْ يُنْصَرُوْنَ",
+        "Urdu" : "جس دن نہ تو کوئی دوست کسی دوست کے کچھ کام آسکے گا اور نہ (کہیں اور سے) ان کی کوئی مدد کی جائے گی",
+        "English" : "A Day whereon a friend shall not avail a friend at all, nor shall they be helped."
+      },
+      {
+        "ayet_no" : 42,
+        "arbi" : "اِلَّا مَنْ رَّحِمَ اللّٰهُ ۭ اِنَّهٗ هُوَ الْعَزِيْزُ الرَّحِيْمُ",
+        "Urdu" : "سوائے اس کے کہ اللہ ہی کسی پر رحم فرما دے بلاشبہ وہی ہے سب پر غالب انتہائی مہربان",
+        "English" : "Save those on whom Allah will have mercy. Verily He! He is the Mighty, the Merciful."
+      },
+      {
+        "ayet_no" : 43,
+        "arbi" : "اِنَّ شَجَرَتَ الزَّقُّوْمِ",
+        "Urdu" : "بلاشبہ زقوم کا درخت",
+        "English" : "Indeed the tree of zaqqum"
+      },
+      {
+        "ayet_no" : 44,
+        "arbi" : "طَعَامُ الْاَثِيْمِ",
+        "Urdu" : "کھانا ہوگا بڑے گناہ گاروں کا",
+        "English" : "Food of the sinner."
+      },
+      {
+        "ayet_no" : 45,
+        "arbi" : "كَالْمُهْلِ ڔ يَغْلِيْ فِي الْبُطُوْنِ",
+        "Urdu" : "تیل کی تلچھٹ جیسا چوپٹیوں میں اس طرح کھول رہا ہوگا",
+        "English" : "Like molten brass; it will boil in their insides."
+      },
+      {
+        "ayet_no" : 46,
+        "arbi" : "كَغَلْيِ الْحَمِيْمِ",
+        "Urdu" : "جیسے ابلتا ہوا پانی کھولتا ہے ف۱",
+        "English" : "As the seething of boiling water."
+      },
+      {
+        "ayet_no" : 47,
+        "arbi" : "خُذُوْهُ فَاعْتِلُوْهُ اِلٰى سَوَاۗءِ الْجَحِيْمِ",
+        "Urdu" : "(حکم ہوگا کہ) پکڑو اس کو پھر اس کو گھسیٹتے ہوئے لے جاؤ دوزخ کے بیچوں بیچ",
+        "English" : "Lay hold of him, and drag him Unto the midst of the Flaming Fire."
+      },
+      {
+        "ayet_no" : 48,
+        "arbi" : "ثُمَّ صُبُّوْا فَوْقَ رَاْسِهٖ مِنْ عَذَابِ الْحَمِيْمِ",
+        "Urdu" : "پھر انڈیل دو اس کے سر پر کھولتے ہوئے پانی کا عذاب",
+        "English" : "Then pour on his head some torment of boiling water."
+      },
+      {
+        "ayet_no" : 49,
+        "arbi" : "ذُقْ ڌ اِنَّكَ اَنْتَ الْعَزِيْزُ الْكَرِيْمُ",
+        "Urdu" : "چکھ کہ تو تو بڑا زبردست عزت دار آدمی ہے",
+        "English" : "Taste you (this)! Verily, you were (pretending to be) the mighty, the generous!"
+      },
+      {
+        "ayet_no" : 50,
+        "arbi" : "اِنَّ ھٰذَا مَا كُنْتُمْ بِهٖ تَمْتَرُوْنَ",
+        "Urdu" : "بلاشبہ یہ وہی ہے جس کے بارے میں تم لوگ شک کیا کرتے تھے",
+        "English" : "This is the thing about which you used to be skeptic."
+      },
+      {
+        "ayet_no" : 51,
+        "arbi" : "اِنَّ الْمُتَّقِيْنَ فِيْ مَقَامٍ اَمِيْنٍ",
+        "Urdu" : "اس کے برعکس پرہیزگار لوگ ایک نہایت ہی امن (و سکون) والے مقام میں ہوں گے",
+        "English" : "Verily! The Muttaqn (pious - see V.2:2), will be in place of Security (Paradise)."
+      },
+      {
+        "ayet_no" : 52,
+        "arbi" : "فِيْ جَنّٰتٍ وَّعُيُوْنٍ",
+        "Urdu" : "یعنی طرح طرح کے عظیم الشان باغوں اور چشموں میں",
+        "English" : "Among Gardens and Springs;"
+      },
+      {
+        "ayet_no" : 53,
+        "arbi" : "يَّلْبَسُوْنَ مِنْ سُنْدُسٍ وَّاِسْتَبْرَقٍ مُّتَقٰبِلِيْنَ",
+        "Urdu" : "باریک اور گاڑھا ریشم پہنے آمنے سامنے بیٹھے ہوں گے",
+        "English" : "They will be dressed in fine silk and thick silk, facing each other."
+      },
+      {
+        "ayet_no" : 54,
+        "arbi" : "كَذٰلِكَ ۣ وَزَوَّجْنٰهُمْ بِحُوْرٍ عِيْنٍ",
+        "Urdu" : "یونہی ہوگا اور ہم نے ان کی شادی بھی کر دی ہوگی گوری رنگت کی آہو چشم عورتوں سے",
+        "English" : "Thus (it will happen,) and We will marry them with houris having big dark eyes."
+      },
+      {
+        "ayet_no" : 55,
+        "arbi" : "يَدْعُوْنَ فِيْهَا بِكُلِّ فَاكِهَةٍ اٰمِنِيْنَ",
+        "Urdu" : "وہاں وہ پورے امن و اطمینان کے ساتھ ہر قسم کی لذت بخش چیزیں طلب کر رہے ہوں گے",
+        "English" : "They will call therein for every fruit peacefully."
+      },
+      {
+        "ayet_no" : 56,
+        "arbi" : "لَا يَذُوْقُوْنَ فِيْهَا الْمَوْتَ اِلَّا الْمَوْتَةَ الْاُوْلٰى ۚ وَوَقٰىهُمْ عَذَابَ الْجَحِيْمِ",
+        "Urdu" : "وہاں پر وہ موت کا مزہ بھی نہیں چکھیں گے سوائے اسی پہلی موت کے (جو کہ دنیا میں آچکی تھی) اور اللہ نے ان کو بچا لیا ہوگا دوزخ کے عذاب سے ف۲",
+        "English" : "They will not taste death therein, except the first death; and He will preserve them from the torment of the Flaming Fire."
+      },
+      {
+        "ayet_no" : 57,
+        "arbi" : "فَضْلًا مِّنْ رَّبِّكَ ۭ ذٰلِكَ هُوَ الْفَوْزُ الْعَظِيْمُ",
+        "Urdu" : "یہ سب کچھ آپ کے رب کے فضل سے ہوگا یہی ہے وہ بڑی کامیابی ف۳",
+        "English" : "A bounty from thy Lord. That! that is the supreme achievement."
+      },
+      {
+        "ayet_no" : 58,
+        "arbi" : "فَاِنَّمَا يَسَّرْنٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُوْنَ",
+        "Urdu" : "سو ہم نے آسان کر دیا اس (کتاب حکیم) کو آپ کی زبان میں تاکہ یہ لوگ نصیحت حاصل کریں ف۱",
+        "English" : "So, We had made it (the Qur‘an) easy in your tongue, so that they may take lesson."
+      },
+      {
+        "ayet_no" : 59,
+        "arbi" : "فَارْتَقِبْ اِنَّهُمْ مُّرْتَقِبُوْنَ",
+        "Urdu" : "پس آپ انتظار کریں یہ لوگ بھی انتظار میں ہیں ف۲",
+        "English" : "Now wait. They too are waiting."
+      }
+    ]
+  }
+]

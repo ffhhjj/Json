@@ -1,0 +1,46 @@
+[
+  {
+    "surah_no" : 113,
+    "total_ayah" : 5,
+    "name" : "Surah e AL-Falaq",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِ",
+        "Urdu" : "کہہ دیجیے میں پناہ میں آتا ہوں صبح کے رب کی",
+        "English" : "Say you, 'I take refuge with the Lord of Daybreak."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "مِنْ شَرِّ مَا خَلَقَ",
+        "Urdu" : "ہر اس چیز کے شر سے جو اس نے پیدا کی",
+        "English" : "Against the evil of whatever He has created."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَ",
+        "Urdu" : "اور اندھیری رات کے شر سے جب وہ چھاجائے",
+        "English" : "And from the evil of the darkening one when it sets."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "وَمِنْ شَرِّ النَّفّٰثٰتِ فِي الْعُقَدِ",
+        "Urdu" : "اور پھونکیں مارنے والیوں کے شر سے گرہوں میں",
+        "English" : "And from the evil of those women who blow in the knots."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
+        "Urdu" : "اور حسد کرنیوالے کے شر سے جب وہ حسدکرے",
+        "English" : "And from the evil of the envier when he envious me."
+      }
+    ]
+  }
+]

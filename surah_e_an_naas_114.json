@@ -1,0 +1,52 @@
+[
+  {
+    "surah_no" : 114,
+    "total_ayah" : 6,
+    "name" : "Surah e An-Naas",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "قُلْ اَعُوْذُ بِرَبِّ النَّاسِ",
+        "Urdu" : "کہہ دیجیے میں پناہ میں آتا ہوں لوگوں کے رب کی",
+        "English" : "Say: 'I take refuge with the Lord of people,"
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "مَلِكِ النَّاسِ",
+        "Urdu" : "لوگوں کے بادشاہ کی",
+        "English" : "The King of men,"
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "اِلٰهِ النَّاسِ",
+        "Urdu" : "لوگوں کے معبود کی",
+        "English" : "The God of men,"
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "مِنْ شَرِّ الْوَسْوَاسِ ڏ الْخَنَّاسِ",
+        "Urdu" : "وسوسہ ڈالنے والے پیچھے ہٹ جانیوالے کے شرسے",
+        "English" : "From the evil of the slinking whisperer."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِ",
+        "Urdu" : "جو وسوس ڈالتا ہے لوگوں کے سینوں میں",
+        "English" : "Those who whisper in the hearts of mankind."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "مِنَ الْجِنَّةِ وَالنَّاسِ",
+        "Urdu" : "جنوں اور انسانوں میں سے",
+        "English" : "Who induce temptation into the hearts of mankind."
+      }
+    ]
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "surah_no" : 96,
+    "total_ayah" : 19,
+    "name" : "Surah e AL-Alaq",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "اِقْرَاْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَ",
+        "Urdu" : "پڑھیے اپنے رب کے نام سے جس نے پیدا کیا",
+        "English" : "Read in the name of your Lord Who created."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍ",
+        "Urdu" : "پیدا کیا انسان کو جمے ہوئے خون سے",
+        "English" : "He created man from a clot of blood."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "اِقْرَاْ وَرَبُّكَ الْاَكْرَمُ",
+        "Urdu" : "پڑھیے اور آپ کا رب بڑا کریم ہے",
+        "English" : "Read and your Lord is Most Generous,"
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "الَّذِيْ عَلَّمَ بِالْقَلَمِ",
+        "Urdu" : "جس نے سکھایا قلم کے ذریعے",
+        "English" : "Who taught (to write) with the pen"
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْ",
+        "Urdu" : "اس نے سکھایا انسان کو جو کچھ نہیں وہ جانتا تھا",
+        "English" : "He taught man what he did not know."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰٓى",
+        "Urdu" : "ہرگز نہیں بے شک انسان یقینا سرکشی کرتا ہے",
+        "English" : "In fact, man crosses the limits,"
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : "اَنْ رَّاٰهُ اسْتَغْنٰى",
+        "Urdu" : "یہ کہ وہ دیکھتا ہے اپنے آپ کو بے پرواہ",
+        "English" : "As he be consider himself self sufficient."
+      },
+      {
+        "ayet_no" : 8,
+        "arbi" : "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰى",
+        "Urdu" : "بے شک آپ کے رب کی طرف ہی لوٹنا ہے",
+        "English" : "Verily Unto thy Lord is the return."
+      },
+      {
+        "ayet_no" : 9,
+        "arbi" : "اَرَءَيْتَ الَّذِيْ يَنْهٰى",
+        "Urdu" : "کیا تونے دیکھا ہے اس شخص (ابوجہل) کو جو روکتا ہے",
+        "English" : "Have you seen him who forbids"
+      },
+      {
+        "ayet_no" : 10,
+        "arbi" : "عَبْدًا اِذَا صَلّٰى",
+        "Urdu" : "ایک بندے(محمد) کو جب وہ نماز پڑھیں",
+        "English" : "A slave (Muhammad (P.B.U.H)) when he prays?"
+      },
+      {
+        "ayet_no" : 11,
+        "arbi" : "اَرَءَيْتَ اِنْ كَانَ عَلَي الْهُدٰٓى",
+        "Urdu" : "کیا تونے دیکھا اگر ہو وہ ہدایت پر",
+        "English" : "Tell me, if he is on the right path,"
+      },
+      {
+        "ayet_no" : 12,
+        "arbi" : "اَوْ اَمَرَ بِالتَّقْوٰى",
+        "Urdu" : "یا اس نے حکم دیا ہو تقوی کا",
+        "English" : "Or he command piety ?"
+      },
+      {
+        "ayet_no" : 13,
+        "arbi" : "اَرَءَيْتَ اِنْ كَذَّبَ وَتَوَلّٰى",
+        "Urdu" : "کیا تونے دیکھا اگر (منع کرنیوالے نے) جھٹلایا اور روگردانی کی",
+        "English" : "Have you considered if he gives the lie to the truth and turns (his) back ?"
+      },
+      {
+        "ayet_no" : 14,
+        "arbi" : "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰى",
+        "Urdu" : "کیا نہیں وہ جانتا کہ بے شک اللہ اسے دیکھ رہا ہے",
+        "English" : "Does he not know that Allah does see ?"
+      },
+      {
+        "ayet_no" : 15,
+        "arbi" : "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ لَنَسْفَعًۢا بِالنَّاصِيَةِ",
+        "Urdu" : "ہرگز نہیں البتہ اگر نہ وہ باز آیا تو ضرور ہم گھسیٹیں گے اسے پیشانی سے پکڑ کر",
+        "English" : "Yes certainly, if he does not desist, We will seize him by the forelock."
+      },
+      {
+        "ayet_no" : 16,
+        "arbi" : "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+        "Urdu" : "جھوٹی خطا کار پیشانی سے",
+        "English" : "By the lying, the sinful forelock."
+      },
+      {
+        "ayet_no" : 17,
+        "arbi" : "فَلْيَدْعُ نَادِيَهٗ",
+        "Urdu" : "پس چایے کہ وہ بلائےاپنی مجلس",
+        "English" : "So let him now call his gang!"
+      },
+      {
+        "ayet_no" : 18,
+        "arbi" : "سَـنَدْعُ الزَّبَانِيَةَ",
+        "Urdu" : "عنقریب ہم بھی بلائیں عذاب کے فرشتوں کو",
+        "English" : "We shall call the guards of Hell."
+      },
+      {
+        "ayet_no" : 19,
+        "arbi" : "كَلَّا ۭ لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ {السجدہ}",
+        "Urdu" : "ہرگز نہیں آپ کہا نہ مانیں اسکا اور آپ سجدہ کریں اور اللہ کا قبر حاصل کریں",
+        "English" : "No! Never obey him, and bow down in sajdah, and come close to Me."
+      }
+    ]
+  }
+]

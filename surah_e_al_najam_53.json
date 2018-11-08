@@ -1,0 +1,388 @@
+[
+  {
+    "surah_no" : 53,
+    "total_ayah" : 62,
+    "name" : "Surah e AL-Najam",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "وَالنَّجْمِ اِذَا هَوٰى",
+        "Urdu" : "قسم ہے تارے کی جب کہ وہ ڈوبنے لگے",
+        "English" : "By the star when it goes down, (or vanishes)."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوٰى",
+        "Urdu" : "تمہارا ساتھی نہ تو بھٹکا ہے نہ بہکا ہے",
+        "English" : "Your companion (Muhammad) has neither gone astray nor has erred."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "وَمَا يَنْطِقُ عَنِ الْهَوٰى",
+        "Urdu" : "وہاپنی خواہش نفس سے بولتا بھی نہیں ف۱",
+        "English" : "He does not speak out of (his own) desire."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "اِنْ هُوَ اِلَّا وَحْيٌ يُّوْحٰى",
+        "Urdu" : "وہ تو نری وحی ہوتی ہے جو اس پر نازل کی جاتی ہے",
+        "English" : "It is but revelation revealed (to him)."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "عَلَّمَهٗ شَدِيْدُ الْقُوٰى",
+        "Urdu" : "آپ کو سکھایا اس سخت قوتوں والے نے",
+        "English" : "One of mighty powers hath taught it him."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "ذُوْ مِرَّةٍ ۭ فَاسْتَوٰى",
+        "Urdu" : "جو بڑا زور آور ہے چنانچہ وہ (اپنی اصل شکل میں) سامنے آکھڑا ہوا",
+        "English" : "One strong of make. Then he stood straight."
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : "وَهُوَ بِالْاُفُقِ الْاَعْلٰى",
+        "Urdu" : "جب کہ وہ آسمان کے بلند کنارے پر تھا",
+        "English" : "While he was on the uppermost horizon."
+      },
+      {
+        "ayet_no" : 8,
+        "arbi" : "ثُمَّ دَنَا فَتَدَلّٰى",
+        "Urdu" : "پھر وہ نزدیک ہوا پھر اور نزدیک ہوا",
+        "English" : "Thereafter he drew nigh, then he let himself down."
+      },
+      {
+        "ayet_no" : 9,
+        "arbi" : "فَكَانَ قَابَ قَوْسَيْنِ اَوْ اَدْنٰى",
+        "Urdu" : "یہاں تک کہ دو کمانوں کے برابر یا اس سے بھی کچھ کم فاصلہ رہ گیا",
+        "English" : "Till he was two bows length off or yet nearer."
+      },
+      {
+        "ayet_no" : 10,
+        "arbi" : "فَاَوْحٰٓى اِلٰى عَبْدِهٖ مَآ اَوْحٰى",
+        "Urdu" : "تب اللہ نے وحی بھیجی اپنے بندے کی طرف جو کچھ وحی آپ کو فرمانا تھی",
+        "English" : "Thus He revealed Unto His bondman whatsoever He revealed."
+      },
+      {
+        "ayet_no" : 11,
+        "arbi" : "مَا كَذَبَ الْفُؤَادُ مَا رَاٰى",
+        "Urdu" : "دل نے جھوٹ نہیں کہا جو کچھ کہ اس نے دیکھا",
+        "English" : "The heart lied not in that which he saw."
+      },
+      {
+        "ayet_no" : 12,
+        "arbi" : "اَفَتُمٰرُوْنَهٗ عَلٰي مَا يَرٰى",
+        "Urdu" : "تو کیا تم لوگ اس سے اس چیز پر جھگڑتے ہو جس کو اس نے خود دیکھا (اپنی کھلی انکھوں سے ؟)",
+        "English" : "Will ye therefore dispute with him concerning that which he hath Seen ?"
+      },
+      {
+        "ayet_no" : 13,
+        "arbi" : "وَلَقَدْ رَاٰهُ نَزْلَةً اُخْرٰى",
+        "Urdu" : "اور بلاشبہ آپ صلی اللہ علیہ وسلم نے اس (فرشتہ) کو ایک اور مرتبہ بھی (اپنی اصل شکل میں) اترتے دیکھا",
+        "English" : "And assuredly he saw him at another descent."
+      },
+      {
+        "ayet_no" : 14,
+        "arbi" : "عِنْدَ سِدْرَةِ الْمُنْتَهٰى",
+        "Urdu" : "یعنی سدرۃ المنتہیٰ کے پاس",
+        "English" : "Nigh Unto the lot-tree at the boundary."
+      },
+      {
+        "ayet_no" : 15,
+        "arbi" : "عِنْدَهَا جَنَّةُ الْمَاْوٰى",
+        "Urdu" : "جس کے پاس جنت الماویٰ ہے",
+        "English" : "Nigh there to is the Garden of Abode."
+      },
+      {
+        "ayet_no" : 16,
+        "arbi" : "اِذْ يَغْشَى السِّدْرَةَ مَا يَغْشٰى",
+        "Urdu" : "جب کہ اس سدرہ پر چھا رہا تھا جو کچھ کہ چھا رہا تھا",
+        "English" : "When that covered the lot-tree which covered it."
+      },
+      {
+        "ayet_no" : 17,
+        "arbi" : "مَا زَاغَ الْبَصَرُ وَمَا طَغٰى",
+        "Urdu" : "نگاہ نہ تو چوندھیائی نہ حد سے بڑھی ف۲",
+        "English" : "The eye neither went wrong, nor did exceed the limit."
+      },
+      {
+        "ayet_no" : 18,
+        "arbi" : "لَقَدْ رَاٰى مِنْ اٰيٰتِ رَبِّهِ الْكُبْرٰى",
+        "Urdu" : "بلاشبہ آپ صلی اللہ علیہ وسلم نے دیکھا اپنے رب کی بڑی نشانیوں کو ف۳",
+        "English" : "He has indeed seen a part of the biggest signs of your Lord."
+      },
+      {
+        "ayet_no" : 19,
+        "arbi" : "اَفَرَءَيْتُمُ اللّٰتَ وَالْعُزّٰى",
+        "Urdu" : "تو کیا تم لوگوں نے کبھی لات اور عزی کی حقیقت پر بھی کچھ غور کیا ؟",
+        "English" : "Have you taken a look at (the goddesses) Lat and ‘Uzza ?"
+      },
+      {
+        "ayet_no" : 20,
+        "arbi" : "وَمَنٰوةَ الثَّالِثَةَ الْاُخْرٰى",
+        "Urdu" : "اور اس پچھلے تیسرے مناۃ کے بارے میں بھی کبھی سوچا",
+        "English" : "And (have you) also (seen thoughtfully) another, that third one (goddess) Manat ? (Have you declared them daughters of Allah ?)"
+      },
+      {
+        "ayet_no" : 21,
+        "arbi" : "اَلَكُمُ الذَّكَرُ وَلَهُ الْاُنْثٰى",
+        "Urdu" : "کیا تمہارے لئے تو ہوں بیٹے اور اس کے لئے ہوں بیٹیاں ؟",
+        "English" : "Is it that you have males and He (Allah) has females ?"
+      },
+      {
+        "ayet_no" : 22,
+        "arbi" : "تِلْكَ اِذًا قِسْمَةٌ ضِيْزٰى",
+        "Urdu" : "تب تو یہ بڑی ہی ٹیڑھی (اور بےڈھنگی) تقسیم ہے",
+        "English" : "If so, it is a bizarre division."
+      },
+      {
+        "ayet_no" : 23,
+        "arbi" : "اِنْ هِىَ اِلَّآ اَسْمَاۗءٌ سَمَّيْتُمُوْهَآ اَنْتُمْ وَاٰبَاۗؤُكُمْ مَّآ اَنْزَلَ اللّٰهُ بِهَا مِنْ سُلْطٰنٍ ۭ اِنْ يَّتَّبِعُوْنَ اِلَّا الظَّنَّ وَمَا تَهْوَى الْاَنْفُسُ ۚ وَلَقَدْ جَاۗءَهُمْ مِّنْ رَّبِّهِمُ الْهُدٰى",
+        "Urdu" : "یہ تو محض کچھ نام ہیں جو رکھ لئے ہیں تم لوگوں نے خود اور تمہارے باپ دادا نے (ورنہ) اللہ نے تو ان کے بارے میں کوئی سند نہیں اتاری حقیقت یہ ہے کہ یہ لوگ تو محض وہم و گمان کے پیچھے چلتے ہیں اور ان خواہشات کی پیروی کرتے ہیں جو ان کے نفسوں میں آتی ہیں حالانکہ آچکی ان کے پاس ان کے رب کی جانب سے ہدایت ۔",
+        "English" : "These are nothing but names you and your fathers have invented; Allah has sent down no authority attached to them. They are following nothing but conjecture and what their own souls desire, while guidance from their Lord has surely reached them."
+      },
+      {
+        "ayet_no" : 24,
+        "arbi" : "اَمْ لِلْاِنْسَانِ مَا تَمَــنّٰى",
+        "Urdu" : "کیا انسان کو وہ سب کچھ مل جاتا ہے جس کی وہ تمنا کرتا ہے ؟",
+        "English" : "Is it that man can get whatever he wishes ?"
+      },
+      {
+        "ayet_no" : 25,
+        "arbi" : "فَلِلّٰهِ الْاٰخِرَةُ وَالْاُوْلٰى",
+        "Urdu" : "تو (یاد رکھو کہ) اللہ ہی کے لئے ہے آخرت بھی اور (اس سے پہلے یہ) دنیا بھی",
+        "English" : "(No,) because to Allah alone belongs the (good of) the Hereafter and the former life (of this world)."
+      },
+      {
+        "ayet_no" : 26,
+        "arbi" : "وَكَمْ مِّنْ مَّلَكٍ فِي السَّمٰوٰتِ لَا تُغْـنِيْ شَفَاعَتُهُمْ شَـيْــــًٔا اِلَّا مِنْۢ بَعْدِ اَنْ يَّاْذَنَ اللّٰهُ لِمَنْ يَّشَاۗءُ وَيَرْضٰى",
+        "Urdu" : "اور (یہ معبودان باطل تو درکنار یہاں تو حال یہ ہے کہ) کتنے ہی فرشتے ہیں آّسمانوں (کی بلندیوں) میں کہ ان کی سفارش بھی کچھ کام نہیں دے سکتی مگر اس کے بعد کہ اللہ اجازت دے جس کے لئے وہ چاہے اور پسند فرمائے ف۱",
+        "English" : "How many angels there are in the heavens whose intercession cannot benefit (any one) at all, but after Allah allows (it) for whomsoever He wills and pleases."
+      },
+      {
+        "ayet_no" : 27,
+        "arbi" : "اِنَّ الَّذِيْنَ لَا يُؤْمِنُوْنَ بِالْاٰخِرَةِ لَيُسَمُّوْنَ الْمَلٰۗىِٕكَةَ تَسْمِيَةَ الْاُنْثٰى",
+        "Urdu" : "جو لوگ آخرت پر ایمان نہیں رکھتے وہ فرشتوں کو موسوم کرتے ہیں عورتوں کے ناموں سے",
+        "English" : "Those who do not believe in the Hereafter call the angels by names of females."
+      },
+      {
+        "ayet_no" : 28,
+        "arbi" : "وَمَا لَهُمْ بِهٖ مِنْ عِلْمٍ ۭ اِنْ يَّتَّبِعُوْنَ اِلَّا الظَّنَّ ۚ وَاِنَّ الظَّنَّ لَا يُغْنِيْ مِنَ الْحَقِّ شَـيْــــًٔا",
+        "Urdu" : "حالانکہ ان کو اس بارے میں کچھ بھی علم نہیں ایسے لوگ تو محض گمان کی پیروی کرتے ہیں اور گمان یقینی طور پر حق کی جگہ کچھ بھی کام نہیں دے سکتا",
+        "English" : "They do not have knowledge about it. They follow nothing but conjecture, and conjecture is of no avail in (the matter of) Truth."
+      },
+      {
+        "ayet_no" : 29,
+        "arbi" : "فَاَعْرِضْ عَنْ مَّنْ تَوَلّٰى ڏ عَنْ ذِكْرِنَا وَلَمْ يُرِدْ اِلَّا الْحَيٰوةَ الدُّنْيَا",
+        "Urdu" : "پس اپنے حال پر چھوڑ دو ایسے (ناہنجار شخص) کو جو پھر گیا ہماری یاد (دلشاد) سے اور اس کا مقصد دنیاوی زندگی (اور اس کی فانی لذتوں) کے سوا کچھ نہیں",
+        "English" : "So, turn away from him who turns away from Our advice, and seeks nothing but (pleasure of) the worldly life."
+      },
+      {
+        "ayet_no" : 30,
+        "arbi" : "ذٰلِكَ مَبْلَغُهُمْ مِّنَ الْعِلْمِ ۭ اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَنْ ضَلَّ عَنْ سَبِيْلِهٖ ۙ وَهُوَ اَعْلَمُ بِمَنِ اهْتَدٰى",
+        "Urdu" : "یہ ہے رسائی (اور پہنچ) ایسے لوگوں کے علم (و ہنر) کی بیشک تمہارا رب خوب جانتا ہے کہ کون اس کی راہ سے بھٹک گیا اور وہی خوب جانتا ہے کہ کون سیدھی راہ پر ہے",
+        "English" : "That is the limit of their access to knowledge. Indeed only your Lord knows well about the one who has gone astray from his way, and He knows well about the one who has adopted the right path."
+      },
+      {
+        "ayet_no" : 31,
+        "arbi" : "وَلِلّٰهِ مَا فِي السَّمٰوٰتِ وَمَا فِي الْاَرْضِ ۙ لِيَجْزِيَ الَّذِيْنَ اَسَاۗءُوْا بِمَا عَمِلُوْا وَيَجْزِيَ الَّذِيْنَ اَحْسَنُوْا بِالْحُسْنٰى",
+        "Urdu" : "اور اللہ ہی کا ہے وہ سب کچھ جو کہ آسمانوں میں ہے اور وہ سب کچھ بھی جو کہ زمین میں ہے تاکہ اللہ (پورا پورا) بدلہ دے ان لوگوں کو جو برائی کی راہ پر چلتے رہے ان کے (زندگی بھر کے) کئے کرائے کا اور وہ بہترین جزاء سے نوازے ان (خوش نصیبوں) کو جو (زندگی بھر) چلتے رہے اچھائی اور نیکی کی راہ پر ۔",
+        "English" : "And Allah's is whatsoever is in the heavens and whatsoever is in the earth, that He may recompense those who do evil for that which they worked and reward those who do good with good."
+      },
+      {
+        "ayet_no" : 32,
+        "arbi" : "اَلَّذِيْنَ يَجْتَنِبُوْنَ كَبٰۗىِٕرَ الْاِثْمِ وَالْفَوَاحِشَ اِلَّا اللَّمَمَ ۭ اِنَّ رَبَّكَ وَاسِعُ الْمَغْفِرَةِ ۭ هُوَ اَعْلَمُ بِكُمْ اِذْ اَنْشَاَكُمْ مِّنَ الْاَرْضِ وَاِذْ اَنْتُمْ اَجِنَّةٌ فِيْ بُطُوْنِ اُمَّهٰتِكُمْ ۚ فَلَا تُزَكُّوْٓا اَنْفُسَكُمْ ۭ هُوَ اَعْلَمُ بِمَنِ اتَّقٰى",
+        "Urdu" : "جو بچتے رہے بڑے گناہوں اور کھلی بےحیائیوں سے بجز اس کے کہ کچھ قصور ان سے سرزد ہوجائیں بلاشبہ تمہارا رب بڑا ہی بخشنے والا ہے وہ تمہیں خوب جانتا ہے اس وقت بھی کہ جب اس نے تمہیں زمین سے پیدا کیا اور اس وقت بھی کہ جب تم لوگاپنی ماؤں کے پیٹوں میں بچے تھے پس تم لوگاپنی پاکی کے دعوے نہ کیا کرو اسے خوب معلوم ہے کہ کون پرہیزگار ہے ف۱",
+        "English" : "They are those who avoid enormities of sin and abominations save the minor offences. Verily thy Lord is of vast for giveness: He is Best Knower of you when He produced you out Of the earth, and when ye were embryos in the bellies of your mothers. So justify not yourselves; He is the Best Knower of him who fear Him."
+      },
+      {
+        "ayet_no" : 33,
+        "arbi" : "اَفَرَءَيْتَ الَّذِيْ تَوَلّٰى",
+        "Urdu" : "پھر کیا تم نے اس شخص کو بھی دیکھا جس نے منہ پھیر لیا ؟",
+        "English" : "Observe dest thou him who turned away ?"
+      },
+      {
+        "ayet_no" : 34,
+        "arbi" : "وَاَعْطٰى قَلِيْلًا وَّاَكْدٰى",
+        "Urdu" : "اور وہ تھوڑا سا دے کر رک گیا ؟",
+        "English" : "And gave little, and then stopped ?"
+      },
+      {
+        "ayet_no" : 35,
+        "arbi" : "اَعِنْدَهٗ عِلْمُ الْغَيْبِ فَهُوَ يَرٰى",
+        "Urdu" : "کیا اس کے پاس غیب کا علم ہے کہ وہ دیکھ رہا ہے ؟",
+        "English" : "Does he have knowledge of the Unseen whereby he sees (what he believes) ?"
+      },
+      {
+        "ayet_no" : 36,
+        "arbi" : "اَمْ لَمْ يُنَبَّاْ بِمَا فِيْ صُحُفِ مُوْسٰى",
+        "Urdu" : "کیا اس کو خبر نہیں پہنچی ان (عمدہ) باتوں کی جو کہ موجود (و مذکور) تھیں موسیٰ کے صحیفوں میں",
+        "English" : "Or, has he not been informed of what is in the scriptures of Musa ? "
+      },
+      {
+        "ayet_no" : 37,
+        "arbi" : "وَاِبْرٰهِيْمَ الَّذِيْ وَفّيٰٓ",
+        "Urdu" : "اور (جن کا ذکر و بیان اس سے بھی پہلے) اس ابراہیم کے صحیفوں میں بھی ہو چکاجس نے وفا کا حق ادا کر دیا",
+        "English" : "And of Ibrahim who faithfully fulfilled ?"
+      },
+      {
+        "ayet_no" : 38,
+        "arbi" : "اَلَّا تَزِرُ وَازِرَةٌ وِّزْرَ اُخْرٰى",
+        "Urdu" : "یہ کہ نہیں اٹھائے گا کوئی بوجھ اٹھانے والا بوجھ کسی دوسرے کا",
+        "English" : "That no burdened person (with sins) shall bear the burden (sins) of another."
+      },
+      {
+        "ayet_no" : 39,
+        "arbi" : "وَاَنْ لَّيْسَ لِلْاِنْسَانِ اِلَّا مَا سَعٰى",
+        "Urdu" : "اور یہ کہ (ایمان و یقین کے بارے میں) انسان کو کچھ نہیں ملے گا مگر وہی جو اس نے خود کمایا",
+        "English" : "And that for man shall be naught save that where for he endeavour."
+      },
+      {
+        "ayet_no" : 40,
+        "arbi" : "وَاَنَّ سَعْيَهٗ سَوْفَ يُرٰى",
+        "Urdu" : "اور یہ کہ اس کی کوشش کی عنقریب ہی پوری پوری جانچ پڑتال کی جائے گی",
+        "English" : "And that his endeavour shall be presently observed."
+      },
+      {
+        "ayet_no" : 41,
+        "arbi" : "ثُمَّ يُجْزٰىهُ الْجَزَاۗءَ الْاَوْفٰى",
+        "Urdu" : "پھر (اس کے مطابق) اس کو پوری پوری جزا دی جائے گی",
+        "English" : "Thereafter he shall be recompensed therefor with the fullest recompense."
+      },
+      {
+        "ayet_no" : 42,
+        "arbi" : "وَاَنَّ اِلٰى رَبِّكَ الْمُنْتَهٰى",
+        "Urdu" : "اور یہ کہ آخرکار تمہارے رب ہی کے پاس پہنچنا ہے (سب کو)",
+        "English" : "And that Unto thy Lord is the goal."
+      },
+      {
+        "ayet_no" : 43,
+        "arbi" : "وَاَنَّهٗ هُوَ اَضْحَكَ وَاَبْكٰى",
+        "Urdu" : "اور یہ کہ وہی ہنساتا اور رلاتا ہے",
+        "English" : "And that it is He Who cause to laugh and cause to weep."
+      },
+      {
+        "ayet_no" : 44,
+        "arbi" : "وَاَنَّهٗ هُوَ اَمَاتَ وَاَحْيَا",
+        "Urdu" : "اور یہ کہ وہی موت دیتا ہے اور اسی کا کام ہے زندگی بخشنا",
+        "English" : "And that it is He Who cause to die and cause to live."
+      },
+      {
+        "ayet_no" : 45,
+        "arbi" : "وَاَنَّهٗ خَلَقَ الزَّوْجَيْنِ الذَّكَرَ وَالْاُنْثٰى",
+        "Urdu" : "اور یہ کہ وہی ہے جس نے پیدا فرمایا (کمال حکمت کے ساتھ) جوڑے کے دونوں فردوں نر اور مادہ کو",
+        "English" : "And that He create the pair, the male and the female."
+      },
+      {
+        "ayet_no" : 46,
+        "arbi" : "مِنْ نُّطْفَةٍ اِذَا تُمْنٰى",
+        "Urdu" : "ایک (حقیر سی) بوند سے جب کہ اس کو ٹپکا دیا جاتا ہے (رحم کے اندر)",
+        "English" : "From seed when it is emitted."
+      },
+      {
+        "ayet_no" : 47,
+        "arbi" : "وَاَنَّ عَلَيْهِ النَّشْاَةَ الْاُخْرٰى",
+        "Urdu" : "اور یہ کہ اسی کے ذمے ہے دوسری بار زندہ کر کے اٹھانا",
+        "English" : "And that upon Him is another bringing forth."
+      },
+      {
+        "ayet_no" : 48,
+        "arbi" : "وَاَنَّهٗ هُوَ اَغْنٰى وَاَقْنٰى",
+        "Urdu" : "اور یہ کہ وہی دولت بخشتا ہے اور اسی کا کام ہے خزانہ عطا کرنا",
+        "English" : "And that it is He Who enrich and preserve property."
+      },
+      {
+        "ayet_no" : 49,
+        "arbi" : "وَاَنَّهٗ هُوَ رَبُّ الشِّعْرٰى",
+        "Urdu" : "اور یہ کہ وہی ہے رب شعریٰ ستارے کا",
+        "English" : "And that it is He Who is the Lord of Sirius."
+      },
+      {
+        "ayet_no" : 50,
+        "arbi" : "وَاَنَّهٗٓ اَهْلَكَ عَادَۨا الْاُوْلٰى",
+        "Urdu" : "اور یہ کہ وہی ہے جس نے ہلاک کر (کے ہمیشہ کے لئے مٹا) دیا عاد اولی کو",
+        "English" : "And that He destroyed the former 'A-ad."
+      },
+      {
+        "ayet_no" : 51,
+        "arbi" : "وَثَمُوْدَا۟ فَمَآ اَبْقٰى",
+        "Urdu" : "اور ثمود کو بھی سو (ان سب کو ایسا مٹایا کہ ان میں سے) کسی کو بھی باقی نہ چھوڑا",
+        "English" : "And that Thamud! He left not."
+      },
+      {
+        "ayet_no" : 52,
+        "arbi" : "وَقَوْمَ نُوْحٍ مِّنْ قَبْلُ ۭ اِنَّهُمْ كَانُوْا هُمْ اَظْلَمَ وَاَطْغٰى",
+        "Urdu" : "اور قوم نوح کو بھی اس سے پہلے (اس نے تباہ کر دیا) کہ بیشک یہ سب ہی بڑے ظالم اور سخت سرکش لوگ تھے",
+        "English" : "And also the people of Nuh a fore time. Verily they were even greater wrong-doers and more contumacious."
+      },
+      {
+        "ayet_no" : 53,
+        "arbi" : "وَالْمُؤْتَفِكَةَ اَهْوٰى",
+        "Urdu" : "اور اسی نے دے مارا الٹ دی جانے والی ان (بدبخت) بستیوں کو",
+        "English" : "And He destroyed the overthrown cities [of Sodom to which Prophet Lout (Lot) was sent]."
+      },
+      {
+        "ayet_no" : 54,
+        "arbi" : "فَغَشّٰـىهَا مَا غَشّٰى",
+        "Urdu" : "(ان کے کرتوتوں کی پاداش میں) پھر ان پر چھا دیا جو کچھ کہ اسے چھانا تھا",
+        "English" : "Then covered them with that which covered them."
+      },
+      {
+        "ayet_no" : 55,
+        "arbi" : "فَبِاَيِّ اٰلَاۗءِ رَبِّكَ تَتَـمَارٰى",
+        "Urdu" : "پھر تو (اے مخاطب !) اپنے رب کی کون کون سی نعمت کے بارے میں شک کرے گا",
+        "English" : "Then concerning which of your Lord‘s bounties would you remain in doubt ?"
+      },
+      {
+        "ayet_no" : 56,
+        "arbi" : "ھٰذَا نَذِيْرٌ مِّنَ النُّذُرِ الْاُوْلٰى",
+        "Urdu" : "یہ بھی ایک خبردار کرنے والا ہے پہلے خبردار کرنے والوں کی طرح",
+        "English" : "This (Prophet) is a warner from the (genus of the) previous warners."
+      },
+      {
+        "ayet_no" : 57,
+        "arbi" : "اَزِفَتِ الْاٰزِفَةُ",
+        "Urdu" : "قریب آلگی ہے وہ قریب انے والی (اے لوگوں !)",
+        "English" : "The Day of Resurrection draws near,"
+      },
+      {
+        "ayet_no" : 58,
+        "arbi" : "لَيْسَ لَهَا مِنْ دُوْنِ اللّٰهِ كَاشِفَةٌ",
+        "Urdu" : "جس کو اللہ کے سوا کوئی ہٹانے والا نہیں ہو سکتا",
+        "English" : "There is no one, beside Allah, to remove it."
+      },
+      {
+        "ayet_no" : 59,
+        "arbi" : "اَفَمِنْ ھٰذَا الْحَدِيْثِ تَعْجَبُوْنَ",
+        "Urdu" : "کیا پھر بھی تم لوگ تعجب کرتے ہو اس کلام (حکمت نظام) پر ؟",
+        "English" : "Do you then wonder at this recital (the Quran) ?"
+      },
+      {
+        "ayet_no" : 60,
+        "arbi" : "وَتَضْحَكُوْنَ وَلَا تَبْكُوْنَ",
+        "Urdu" : "اور تم لوگ (غفلت میں پڑے) ہنستے ہو اور روتے نہیں",
+        "English" : "And laugh and not weep ?"
+      },
+      {
+        "ayet_no" : 61,
+        "arbi" : "وَاَنْتُمْ سٰمِدُوْنَ",
+        "Urdu" : "اور تم لوگ غفلت میں ڈوبے تکبر کرتے ہو ؟",
+        "English" : "While you are engaged in vain play ?"
+      },
+      {
+        "ayet_no" : 62,
+        "arbi" : "فَاسْجُدُوْا لِلّٰهِ وَاعْبُدُوْا",
+        "Urdu" : "سو (باز آجاؤ تم لوگ اس کبر و غرور سے اور دل و جان سے) سجدہ ریز ہو جاؤ اللہ کے آگے اور بندگی بجا لاؤ (اسی وحدہ لاشریک کے لئے)",
+        "English" : "So prostrate yourselves before Allah and worship."
+      }
+    ]
+  }
+]

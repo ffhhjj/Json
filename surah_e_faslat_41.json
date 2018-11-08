@@ -1,0 +1,341 @@
+[
+  {
+    "surah_no" : 41,
+    "total_ayah" : 54,
+    "name" : "Surah e Faslat",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "حٰـمۗ",
+        "Urdu" : "حٰمٓ",
+        "English" : "Ha-Mim. (Only Allah and the Messenger [blessings and peace be upon him] know the real meaning.)"
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "تَنْزِيْلٌ مِّنَ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "(یہ کتاب) اتاری گئی ہے اس ذات کی طرف سے جو بڑی ہی مہربان نہایت ہی رحم والی ہے",
+        "English" : "A revelation fromAllah, the Most Beneficent, the Most Merciful."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "كِتٰبٌ فُصِّلَتْ اٰيٰتُهٗ قُرْاٰنًا عَرَبِيًّا لِّــقَوْمٍ يَّعْلَمُوْنَ",
+        "Urdu" : "یہ ایک ایسی عظیم الشان کتاب ہے جس کی آیتوں کو خوب کھول کر بیان کر دیا گیا ایک عظیم الشان عربی زبان کے قران کی صورت میں ان لوگوں کے لئے جو علم رکھتے ہیں",
+        "English" : "A Book whereof the Verses are explained in detail; A Qur'n in Arabic for people who know."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "بَشِيْرًا وَّنَذِيْرًا ۚ فَاَعْرَضَ اَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُوْنَ",
+        "Urdu" : "خوشخبری دینے والا اور خبردار کرنے والا پھر بھی اکثر لوگوں نے اس سے ایسا منہ موڑا کہ وہ سن کر ہی نہیں دیتے",
+        "English" : "A bearer of glad tidings and a warner. Yet most of them turn aside, so that they hearken not."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "وَقَالُوْا قُلُوْبُنَا فِيْٓ اَكِنَّةٍ مِّمَّا تَدْعُوْنَآ اِلَيْهِ وَفِيْٓ اٰذَانِنَا وَقْرٌ وَّمِنْۢ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَاعْمَلْ اِنَّنَا عٰمِلُوْنَ",
+        "Urdu" : "اور کہتے ہیں کہ ہمارے دل پردوں میں ہیں اس چیز سے جس کی طرف آپ ہمیں بلاتے ہیں ہمارے کانوں میں ڈاٹ ہیں اور ہمارے اور آپ کے درمیان ایک حجاب ہے پس آپ اپنا کام کئے جائیں ہم اپنا کام کرتے رہیں گے ف۱",
+        "English" : "And they say, :Our hearts are (wrapped) in covers against that (faith) to which you invite us, and there is deafness in our ears, and there is a barrier between you and us. So, do (in your way). We too are doing (in our own way)."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "قُلْ اِنَّمَآ اَنَا بَشَرٌ مِّثْلُكُمْ يُوْحٰٓى اِلَيَّ اَنَّمَآ اِلٰــهُكُمْ اِلٰهٌ وَّاحِدٌ فَاسْتَقِيْمُوْٓا اِلَيْهِ وَاسْتَغْفِرُوْهُ ۭ وَوَيْلٌ لِّـلْمُشْرِكِيْنَ",
+        "Urdu" : "(ان سے) کہو کہ سوائے اس کے نہیں کہ میں تو ایک بشر ہوں تم ہی جیسا (البتہ) میری طرف وحی کی جاتی ہے کہ معبود تم سب کا بہرحال ایک ہی معبود ہے پس تم لوگ سیدھے اسی کا رخ اختیار کر لو اور اس سے معافی مانگو اور بڑی خرابی ہے ان مشرکوں کے لئے",
+        "English" : "Say (O Muhammad): (I am only a human being like you. It is inspired in me that your Ilh (God) is One Ilh (God -Allah), therefore take Straight Path to Him (with true Faith Islamic Monotheism) and obedience to Him, and seek forgiveness of Him. And woe to Al-Mushrikn (the disbelievers in the Oneness of Allah, polytheists, idolaters, etc. - see V.2:105)."
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : "الَّذِيْنَ لَا يُؤْتُوْنَ الزَّكٰوةَ وَهُمْ بِالْاٰخِرَةِ هُمْ كٰفِرُوْنَ",
+        "Urdu" : "جو زکوٰۃ نہیں دیتے اور وہ آخرت کے انکار پر ہی کمربستہ ہیں ف۲",
+        "English" : "Who give not the poor-rate; and they! in the Hereafter, they are disbelievers."
+      },
+      {
+        "ayet_no" : 8,
+        "arbi" : "اِنَّ الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ لَهُمْ اَجْرٌ غَيْرُ مَمْنُوْنٍ",
+        "Urdu" : "(اس کے برعکس) جو لوگ ایمان لے آئے اور انہوں نے کام بھی نیک کئے تو ان کے لئے ایک ایسا عظیم الشان اجر ہے جو کبھی ختم ہونے والا نہیں",
+        "English" : "As for those who believe and do righteous deeds, for them there is a reward that will never be interrupted."
+      },
+      {
+        "ayet_no" : 9,
+        "arbi" : "قُلْ اَىِٕنَّكُمْ لَتَكْفُرُوْنَ بِالَّذِيْ خَلَقَ الْاَرْضَ فِيْ يَوْمَيْنِ وَتَجْعَلُوْنَ لَهٗٓ اَنْدَادًا ۭذٰلِكَ رَبُّ الْعٰلَمِيْنَ",
+        "Urdu" : "(ان سے) کہو کہ کیا تم لوگ اسی (ذات اقدس و اعلیٰ) کے ساتھ کفر کرتے ہو اور اس کے لئے (من گھڑت) شریک ٹھہراتے ہو؟ جس نے پیدا فرمایا زمین (کے اس عظیم الشان کرے) کو دو دونوں میں ؟ یہ ہے پروردگار سارے جہانوں کا",
+        "English" : "Say, :Do you really disbelieve in the One who has created the earth in two days, and ascribe to Him partners? That is the Lord of the worlds."
+      },
+      {
+        "ayet_no" : 10,
+        "arbi" : "وَجَعَلَ فِيْهَا رَوَاسِيَ مِنْ فَوْقِهَا وَبٰرَكَ فِيْهَا وَقَدَّرَ فِيْهَآ اَقْوَاتَهَا فِيْٓ اَرْبَعَةِ اَيَّامٍ ۭ سَوَاۗءً لِّلسَّاۗىِٕلِيْنَ",
+        "Urdu" : "اور اسی نے رکھ دئیے اس زمین میں اس کے اوپر سے (پہاڑوں کے) عظیم الشان لنگر اور اس میں رکھ دیں (برکتوں پر) برکتیں اور اس نے مقدر فرما دیں اس میں (اپنی قدرت کاملہ اور حکمت بالغہ سے زمینی مخلوق کے لئے) طرح طرح کی خوراکیں (اور مہیا فرما دئیے ان کے لئے قسما قسم کے اسباب) ہر ایک کی طلب و حاجت کے مطابق (اور یہ سب کچھ صرف) چار دن میں",
+        "English" : "He has placed firm mountains in it (the earth) towering above it, and put blessings in it, and proportioned its foods therein, in four days, equal for those who ask."
+      },
+      {
+        "ayet_no" : 11,
+        "arbi" : "ثُمَّ اسْتَوٰٓى اِلَى السَّمَاۗءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْاَرْضِ ائْتِيَا طَوْعًااَوْ كَرْهًا ۭ قَالَتَآ اَتَيْنَا طَاۗىِٕعِيْنَ",
+        "Urdu" : "پھر اس نے آسمان کی طرف توجہ فرمائی جب کہ وہ ایک دھوئیں کی شکل میں تھا تو اس نے اس سے اور زمین سے فرمایا کہ تم دونوں (وجود میں) آجاؤ خوشی سے یا زبردستی سے تو ان دونوں نے عرض کیا کہ ہم دونوں خوشی سے آ(موجود ہو) گئے ہیں ف۱",
+        "English" : "Then He turned straight to the sky, while it was a smoke, and said to it and to the earth, :Come (to My obedience), both of you, willingly or unwillingly. Both said, :We come willingly."
+      },
+      {
+        "ayet_no" : 12,
+        "arbi" : "فَقَضٰهُنَّ سَبْعَ سَمٰوَاتٍ فِيْ يَوْمَيْنِ وَاَوْحٰى فِيْ كُلِّ سَمَاۗءٍ اَمْرَهَا ۭ وَزَيَّنَّا السَّمَاۗءَ الدُّنْيَا بِمَصَابِيْحَ ڰ وَحِفْظًا ۭ ذٰلِكَ تَقْدِيْرُ الْعَزِيْزِ الْعَلِيْمِ",
+        "Urdu" : "سو اس نے بنا دئیے سات آسمان دو دونوں میں اور ہر آسمان میں اس کے مناسب حکم بھیج دیا اور ہم نے آراستہ کیا قریب کے آسمان کو عظیم الشان چراغوں سے اور اسے اچھی طرح سے محفوظ بھی کر دیا یہ سب کچھ تجویز (اور منصوبہ بندی) ہے اس ذات کی طرف سے جو سب پر غالب نہایت ہی علم والی ہے",
+        "English" : "So He accomplished them as seven skies in two days, and settled in every sky its (due) thing. And We have decorated the closest sky with lamps, and protected it properly. All this is the determination of the All-Mighty, the All-Knowing."
+      },
+      {
+        "ayet_no" : 13,
+        "arbi" : "فَاِنْ اَعْرَضُوْا فَقُلْ اَنْذَرْتُكُمْ صٰعِقَةً مِّثْلَ صٰعِقَةِ عَادٍ وَّثَمُوْدَ",
+        "Urdu" : "پھر بھی اگر یہ لوگ (نہ مانیں اور) منہ موڑے ہی رہیں تو (ان سے) کہو کہ میں نے تو تم کو خبردار کر دیا عاد اور ثمود پر اچانک ٹوٹ پڑنے والے جیسے ہولناک عذاب سے",
+        "English" : "Then if they Still turn away, say thou; I warn you of a calamity like the calamity of the 'Aad and Thamud."
+      },
+      {
+        "ayet_no" : 14,
+        "arbi" : "اِذْ جَاۗءَتْهُمُ الرُّسُلُ مِنْۢ بَيْنِ اَيْدِيْهِمْ وَمِنْ خَلْفِهِمْ اَلَّا تَعْبُدُوْٓا اِلَّا اللّٰهَ ۭ قَالُوْا لَوْ شَاۗءَ رَبُّنَا لَاَنْزَلَ مَلٰۗىِٕكَةً فَاِنَّا بِمَآ اُرْسِلْتُمْ بِهٖ كٰفِرُوْنَ",
+        "Urdu" : "جب کہ ان کے پاس ان کے رسول آئے ان کے آگے سے بھی اور ان کے پیچھے سے بھی (اور سب نے یہی کہا کہ لوگوں !) تم لوگ بندگی نہ کرو مگر صرف ایک اللہ کی تو انہوں نے کہا کہ اگر ہمارا رب چاہتا تو بھیج دیتا کچھ فرشتوں کو (رسول بنا کر) لہذا ہم اس چیز کے قطعی طور پر منکر ہیں جس کے ساتھ تم کو بھیجا گیا ہے",
+        "English" : "Recall what time the apostles came Unto them from before them and behind them, saying: worship none save Allah. They said: had our Lord listed, He surely would have sent down angels, so verily in that wherewith ye have been sent we are disbelievers altogether."
+      },
+      {
+        "ayet_no" : 15,
+        "arbi" : "فَاَمَّا عَادٌ فَاسْـتَكْبَرُوْا فِي الْاَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوْا مَنْ اَشَدُّ مِنَّا قُوَّةً ۭ اَوَلَمْ يَرَوْا اَنَّ اللّٰهَ الَّذِيْ خَلَقَهُمْ هُوَ اَشَدُّ مِنْهُمْ قُوَّةً ۭ وَكَانُوْا بِاٰيٰتِنَا يَجْــحَدُوْنَ",
+        "Urdu" : "پھر جو عاد کے لوگ تھے وہاپنی بڑائی کے گھمنڈ میں مبتلا ہوئے (اللہ کی) اس زمین میں ناحق طور پر اور انہوں نے (مست ہو کر) کہا کہ کون ہے جو ہم سے بڑھ کر زور آور ہو؟ کیا انہوں نے اتنا بھی نہ دیکھا کہ جس خدا نے ان کو پیدا کیا وہ بہرحال ان سے کہیں بڑھ کر (زور و) قوت والا ہے بہرحال وہ لوگ ہماری آیتوں کا انکار ہی کرتے چلے گئے",
+        "English" : "As for 'Aad, they showed arrogance in the land with no right (to do so), and said, :Who is stronger than us in power? Did they not see that Allah, who created them, is stronger than them in power? And they used to reject Our signs."
+      },
+      {
+        "ayet_no" : 16,
+        "arbi" : "فَاَرْسَلْنَا عَلَيْهِمْ رِيْحًا صَرْصَرًا فِيْٓ اَيَّامٍ نَّحِسَاتٍ لِّنُذِيْقَهُمْ عَذَابَ الْخِــزْيِ فِي الْحَيٰوةِ الدُّنْيَا ۭ وَلَعَذَابُ الْاٰخِرَةِ اَخْزٰى وَهُمْ لَا يُنْصَرُوْنَ",
+        "Urdu" : "تو آخرکار ہم نے بھیج دی ان پر ایک سخت زور کی (ہولناک) ہوا چند منحوس دنوں میں تاکہ ہم ان کو مزہ چکھا دیں (ذلت و) رسوائی کے عذاب کا اسی دنیاوی زندگی میں اور آخرت کا عذاب تو یقینی طور پر اس سے بھی کہیں بڑھ کر رسوا کن ہے اور وہاں ان کی (کہیں سے) کوئی مدد بھی نہ کی جائے گی ف۱",
+        "English" : "So, We let loose a wild wind on them in unlucky days to make them taste the humiliating punishment in the present life. And of course, the punishment of the Hereafter will be much more humiliating, and they will not be helped."
+      },
+      {
+        "ayet_no" : 17,
+        "arbi" : "وَاَمَّا ثَمُوْدُ فَهَدَيْنٰهُمْ فَاسْتَــحَبُّوا الْعَمٰى عَلَي الْهُدٰى فَاَخَذَتْهُمْ صٰعِقَةُ الْعَذَابِ الْهُوْنِ بِمَا كَانُوْا يَكْسِبُوْنَ",
+        "Urdu" : "رہے ثمود تو ان کو بھی ہم نے راستہ دکھایا مگر انہوں نے بھی راہ راست کے مقابلہ میں اندھے پن ہی کو پسند کیا آخرکار ان کو بھی آپکڑا ذلت (و رسوائی) والے عذاب کے ایک کڑکے نے ان کے اپنے ان اعمال کے سبب جو وہ خود کرتے چلے آرہے تھے",
+        "English" : "As for Thamud, We showed them the way, but they preferred blindness to the guidance. Therefore, they were seized by the bang of the abasing punishment because of what they used to earn."
+      },
+      {
+        "ayet_no" : 18,
+        "arbi" : "وَنَجَّيْنَا الَّذِيْنَ اٰمَنُوْا وَكَانُوْا يَتَّقُوْنَ",
+        "Urdu" : "اور ہم نے بچا لیا ان لوگوں کو جو ایمان لائے تھے اور وہ ڈرتے (اور بچتے) رہے تھے (ہماری ناراضگی سے) ف۲",
+        "English" : "And We saved those who believed and used to be God-fearing."
+      },
+      {
+        "ayet_no" : 19,
+        "arbi" : "وَيَوْمَ يُحْشَرُ اَعْدَاۗءُ اللّٰهِ اِلَى النَّارِ فَهُمْ يُوْزَعُوْنَ",
+        "Urdu" : "اور (یاد کرو اس ہولناک دن کو) جس دن کہ گھیر لایا جائے گا اللہ کے دشمنوں کو دوزخ کی طرف پھر ان کو روک دیا جائے گا ان کے پچھلوں کے انے تک",
+        "English" : "On the Day that the enemies of Allah will be gathered together to the Fire, they will be marched in ranks."
+      },
+      {
+        "ayet_no" : 20,
+        "arbi" : "حَتّىٰٓ اِذَا مَا جَاۗءُوْهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَاَبْصَارُهُمْ وَجُلُوْدُهُمْ بِمَا كَانُوْا يَعْمَلُوْنَ",
+        "Urdu" : "یہاں تک کہ جب وہ سب دوزخ کے نزدیک پہنچ جائیں گے تو (حساب شروع ہونے پر) ان کے خلاف گواہی دینے لگیں گے ان کے کان ان کی انکھیں اور ان کے جسموں کی کھالیں ان تمام کاموں کی جو وہ (زندگی بھر) کرتے رہے تھے",
+        "English" : "Until when they come to it, their ears and their sights and their skins will bear witness against them of that which they had been working."
+      },
+      {
+        "ayet_no" : 21,
+        "arbi" : "وَقَالُوْا لِجُلُوْدِهِمْ لِمَ شَهِدْتُّمْ عَلَيْنَا ۭ قَالُوْٓا اَنْطَقَنَا اللّٰهُ الَّذِيْٓ اَنْــطَقَ كُلَّ شَيْءٍ وَّهُوَ خَلَقَكُمْ اَوَّلَ مَرَّةٍ وَّاِلَيْهِ تُرْجَعُوْنَ",
+        "Urdu" : "اور یہاپنی کھالوں سے کہیں گے کہ تم نے ہمارے خلاف گواہی کیوں دی ؟ وہ (اعضاء وغیرہ) جواب دیں گے کہ ہمیں اسی اللہ نے گویائی بخشی ہے جس نے ہرچیز کو گویا کیا ہے اور اسی نے پیدا فرمایا تم سب کو پہلی مرتبہ اور اسی کی طرف اب تم کو لوٹایا جا رہا ہے (دوبارہ زندہ کر کے) ف۳",
+        "English" : "And they will say to their skins, :Why did you testify against us? They (the skins) will say, :We were made to speak by Allah, the One who has made every thing to speak. And He had created you the first time, and to Him you are going to be returned."
+      },
+      {
+        "ayet_no" : 22,
+        "arbi" : "وَمَا كُنْتُمْ تَسْـتَتِرُوْنَ اَنْ يَّشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَآ اَبْصَارُكُمْ وَلَا جُلُوْدُكُمْ وَلٰكِنْ ظَنَنْتُمْ اَنَّ اللّٰهَ لَا يَعْلَمُ كَثِيْرًا مِّمَّا تَعْمَلُوْنَ",
+        "Urdu" : "اور (اس وقت ان سے کہا جائے گا کہ) تم لوگ اس سے بہرحال چھپ (اور بچ) نہیں سکتے تھے کہ تمہارے اپنے ہی کان انکھیں اور کھالیں تمہارے خلاف گواہی دیں مگر تم لوگوں نے (اپنی بدنصیبی سے) یہ سمجھ رکھا تھا کہ اللہ نہیں جانتا تمہارے بہت سے ان کاموں کو جو تم لوگ (چھپ چھپا کر) کرتے ہو",
+        "English" : "And you had not been hiding your selves (when committing sins) from your ears and your eyes and your skins that would bear witness against you, but you thought that Allah did not know much of what you did."
+      },
+      {
+        "ayet_no" : 23,
+        "arbi" : "وَذٰلِكُمْ ظَنُّكُمُ الَّذِيْ ظَنَنْتُمْ بِرَبِّكُمْ اَرْدٰىكُمْ فَاَصْبَحْتُمْ مِّنَ الْخٰسِرِيْنَ",
+        "Urdu" : "پس تمہارے اسی گمان نے جو کہ تم نے اپنے رب کے بارے میں قائم رکھا تھا تم کو تباہ کر کے رکھ دیا جس کی وجہ سے تم ہوگئے (ابدی) خسارے والوں میں سے ف۱",
+        "English" : "This thought of yours that you conceived about your Lord brought you to ruin, and you became among the losers."
+      },
+      {
+        "ayet_no" : 24,
+        "arbi" : "فَاِنْ يَّصْبِرُوْا فَالنَّارُ مَثْوًى لَّهُمْ ۭ وَاِنْ يَّسْـتَعْتِبُوْا فَمَا هُمْ مِّنَ الْمُعْتَـبِيْنَ",
+        "Urdu" : "پھر اگر وہ لوگ (اس حالت پر) صبر کریں تو بھی آگ ہی ان کا ٹھکانا ہے اور اگر وہ معافی چاہیں گے تو بھی ان کو کوئی معافی نہیں دی جائے گی",
+        "English" : "Now, if they endure patiently, even then the Fire is their abode, and if they seek forgiveness, they are not among those (who could be) forgiven."
+      },
+      {
+        "ayet_no" : 25,
+        "arbi" : "وَقَيَّضْنَا لَهُمْ قُرَنَاۗءَ فَزَيَّنُوْا لَهُمْ مَّا بَيْنَ اَيْدِيْهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ الْقَوْلُ فِيْٓ اُمَمٍ قَدْ خَلَتْ مِنْ قَبْلِهِمْ مِّنَ الْجِنِّ وَالْاِنْسِ ۚ اِنَّهُمْ كَانُوْا خٰسِرِيْنَ",
+        "Urdu" : "اور ہم نے مقرر کر دئیے تھے ان لوگوں پر (ان کے اپنے سوءِ اختیار اور خبث باطن کی بنا پر) ایسے ساتھی جنہوں نے مزین (و خوشنما) بنا دیا تھا ان کے لئے وہ سب کچھ جو کہ ان کے آگے تھا اور جو ان کے پیچھے تھا اور پکی ہوگئی ان پر (وعدہ عذاب سے متعلق) ہماری وہ بات جو کہ پکی ہوگئی تھی جنوں اور انسانوں کے ان گروہوں کے بارے میں جو کہ گزر چکے ہیں ان سے پہلے بیشک یہ سب لوگ قطعی طور پر خسارے والے تھے ف۲",
+        "English" : "And We had assigned for them fellows (in the worldly life) who beautified for them what was before them and what was behind them. And (thus) the word (of punishment) became due against them along with the communities that passed before them from Jinns and human beings. Surely they were the losers."
+      },
+      {
+        "ayet_no" : 26,
+        "arbi" : "وَقَالَ الَّذِيْنَ كَفَرُوْا لَا تَسْمَعُوْا لِھٰذَا الْقُرْاٰنِ وَالْـغَوْا فِيْهِ لَعَلَّكُمْ تَغْلِبُوْنَ",
+        "Urdu" : "اور کافر لوگ (آ پس میں) کہتے ہیں کہ مت سنو تم اس قران کو اور تم شور مچاؤ اس میں (جب کہ یہ سنایا جائے) شاید کہ اس طرح تم غالب آجاؤ",
+        "English" : "And said those who disbelieved, :Do not listen to this Qur‘an, and make noise during its recitation, so that you may overcome."
+      },
+      {
+        "ayet_no" : 27,
+        "arbi" : "فَلَنُذِيْقَنَّ الَّذِيْنَ كَفَرُوْا عَذَابًا شَدِيْدًا ۙ وَّلَنَجْزِيَنَّهُمْ اَسْوَاَ الَّذِيْ كَانُوْا يَعْمَلُوْنَ",
+        "Urdu" : "سو ہم ضرور مزہ چکھا کر رہیں گے کافروں کو ایک بڑے سخت عذاب کا اور ہم ضرور بدلہ دے کر رہیں گے ان کو ان کے ان برے کاموں کا جو یہ کرتے رہے تھے",
+        "English" : "So, We will certainly make them taste a severe punishment, and will certainly recompense them for the worst of what they used to do."
+      },
+      {
+        "ayet_no" : 28,
+        "arbi" : "ذٰلِكَ جَزَاۗءُ اَعْدَاۗءِ اللّٰهِ النَّارُ ۚ لَهُمْ فِيْهَا دَارُ الْخُلْدِ ۭ جَزَاۗءًۢ بِمَا كَانُوْا بِاٰيٰتِنَا يَجْحَدُوْنَ",
+        "Urdu" : "یہ بدلہ ہے اللہ کے دشمنوں کا یعنی وہ دوزخ جس میں ان کے لئے ہمیشہ رہنے کا گھر ہوگا اس جرم کے بدلے میں کہ وہ ہماری آیتوں کا انکار کرتے رہے تھے",
+        "English" : "That is the recompense of the enemies of Allah_ the Fire. For them there is the eternal home, as a recompense for their persistent denial of Our verses."
+      },
+      {
+        "ayet_no" : 29,
+        "arbi" : "وَقَالَ الَّذِيْنَ كَفَرُوْا رَبَّنَآ اَرِنَا الَّذَيْنِ اَضَلّٰنَا مِنَ الْجِنِّ وَالْاِنْسِ نَجْعَلْهُمَا تَحْتَ اَقْدَامِنَا لِيَكُوْنَا مِنَ الْاَسْفَلِيْنَ",
+        "Urdu" : "اور (وہاں پہنچ کر) کافر لوگ کہیں گے کہ اے ہمارے رب ہمیں ذرا دکھا دے ان جنوں اور انسانوں کو جنہوں نے ہمیں گمراہ کیا تھا کہ ہم ان کو ڈال دیں اپنے قدموں کے نیچے (روندنے کو) تاکہ وہ سب سے نیچے (اور خوب ذلیل و خوار) ہوجائیں",
+        "English" : "And those who disbelieve will say, :Our Lord, show us the two, out of the Jinns and the humans, who led us astray and we will put both of them under our feet, so that they become among the lowest."
+      },
+      {
+        "ayet_no" : 30,
+        "arbi" : "اِنَّ الَّذِيْنَ قَالُوْا رَبُّنَا اللّٰهُ ثُمَّ اسْـتَقَامُوْا تَـتَنَزَّلُ عَلَيْهِمُ الْمَلٰۗىِٕكَةُ اَلَّا تَخَافُوْا وَلَا تَحْزَنُوْا وَاَبْشِرُوْا بِالْجَنَّةِ الَّتِيْ كُنْتُمْ تُوْعَدُوْنَ",
+        "Urdu" : "(اس کے برعکس) جن لوگوں نے (صدق دل سے) کہا کہ ہمارا رب اللہ ہے پھر وہ اس پر ثابت قدم رہے تو ان پر اترتے ہیں (رحمت و بشارت کے) فرشتے (اس خوشخبری کے ساتھ) کہ نہ تم ڈرو نہ غم کھاؤ اور خوش ہو جاؤ تم اس جنت (کے ملنے) سے جس کا تم سے وعدہ کیا جاتا ہے ف۱",
+        "English" : "Verily those who say: our Lord is Allah, and have thereafter stood fast by it,- upon them there shall come down the angels: fear not, nor grieve, and rejoice in the tidings of the Garden which ye have been promised."
+      },
+      {
+        "ayet_no" : 31,
+        "arbi" : "نَحْنُ اَوْلِيٰۗــؤُكُمْ فِي الْحَيٰوةِ الدُّنْيَا وَفِي الْاٰخِرَةِ ۚ وَلَكُمْ فِيْهَا مَا تَشْتَهِيْٓ اَنْفُسُكُمْ وَلَكُمْ فِيْهَا مَا تَدَّعُوْنَ",
+        "Urdu" : "ہم تمہارے ساتھی (اور دوست) ہیں دنیا کی اس (عارضی) زندگی میں بھی اور آخرت کی اس (حقیقی اور ابدی) زندگی میں بھی اور تمہارے لئے وہاں وہ سب کچھ ہوگا جو تمہارے جی چاہیں گے اور وہاں تمہیں ہر وہ چیز ملے گی جس کی تم (طلب و) تمنا کرو گے",
+        "English" : "We are your friends in the life of the world and in the Hereafter; there in yours will be whatsoever your souls desire, and therein yours shall be whatsoever ye call for."
+      },
+      {
+        "ayet_no" : 32,
+        "arbi" : "نُزُلًا مِّنْ غَفُوْرٍ رَّحِيْمٍ",
+        "Urdu" : "(ضیافت و) مہمانی کے طور پر بڑے بخشنے والے انتہائی مہربان (رب) کی طرف سے",
+        "English" : "And entertainment from the Forgiving, the Merciful."
+      },
+      {
+        "ayet_no" : 33,
+        "arbi" : "وَمَنْ اَحْسَنُ قَوْلًا مِّمَّنْ دَعَآ اِلَى اللّٰهِ وَعَمِلَ صَالِحًـا وَّقَالَ اِنَّنِيْ مِنَ الْمُسْلِمِيْنَ",
+        "Urdu" : "اور اس سے بڑھ کر اچھی بات اور کس کی ہوسکتی ہے جو (لوگوں کو) بلائے اللہ کی طرف اور وہ خود نیک عمل بھی کرے اور (اظہار اطاعت و بندگی کے لئے) وہ کہے کہ بیشک میں فرمانبرداروں میں سے ہوں",
+        "English" : "And who is better in speech than he who summon Unto Allah, and work righteously, and saith: verily I am one of the Muslims."
+      },
+      {
+        "ayet_no" : 34,
+        "arbi" : "وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۭ اِدْفَعْ بِالَّتِيْ هِىَ اَحْسَنُ فَاِذَا الَّذِيْ بَيْنَكَ وَبَيْنَهٗ عَدَاوَةٌ كَاَنَّهٗ وَلِيٌّ حَمِيْمٌ",
+        "Urdu" : "اور (یاد رکھو کہ) نیکی اور بدی آ پس میں کبھی برابر نہیں ہو سکتیں پس تم برائی کو دفع کیا کرو اس نیکی کے ساتھ جو سب سے اچھی ہو پھر (تم دیکھو گے کہ) وہ شخص کہ تمہارے اور اس کے درمیان سخت دشمنی تھی ایسا ہو جائے گا جیسا کہ کوئی جگری دوست ہو",
+        "English" : "Good and evil are not equal. Repel (evil) with what is best, and you will see that the one you had mutual enmity with him will turn as if he were a close friend."
+      },
+      {
+        "ayet_no" : 35,
+        "arbi" : "وَمَا يُلَقّٰىهَآ اِلَّا الَّذِيْنَ صَبَرُوْا ۚ وَمَا يُلَقّٰىهَآ اِلَّا ذُوْ حَظٍّ عَظِيْمٍ",
+        "Urdu" : "اور یہ دولت نصیب نہیں ہوتی مگر انہی لوگوں کو جو صبر (و ضبط) سے کام لیتے ہیں اور یہ مقام نہیں ملتا مگر اسی کو جو بڑے نصیبے والا ہوتا ہے",
+        "English" : "And no one is blessed with this (attitude) but those who observe patience, and no one is blessed with this (attitude) but a man of great luck."
+      },
+      {
+        "ayet_no" : 36,
+        "arbi" : "وَاِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطٰنِ نَزْغٌ فَاسْتَعِذْ بِاللّٰهِ ۭاِنَّهٗ هُوَ السَّمِيْعُ الْعَلِيْمُ",
+        "Urdu" : "اور اگر تمہیں شیطان کی طرف سے کوئی اکساہٹ پہنچ جایا کرے تو (فوراً) اللہ کی پناہ مانگ لیا کرو بلاشبہ وہی ہے (ہر کسی) کی سنتا (سب کچھ) جانتا",
+        "English" : "And should a stroke from ShaiTan (Satan) strike you, seek refuge with Allah. Surely, He is the All-Hearing, the All-Knowing."
+      },
+      {
+        "ayet_no" : 37,
+        "arbi" : "وَمِنْ اٰيٰتِهِ الَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ ۭ لَا تَسْجُدُوْا لِلشَّمْسِ وَلَا لِلْقَمَرِ وَاسْجُدُوْا لِلّٰهِ الَّذِيْ خَلَقَهُنَّ اِنْ كُنْتُمْ اِيَّاهُ تَعْبُدُوْنَ {السجدہ}",
+        "Urdu" : "اور اس کی (قدرت کی) نشانیوں میں سے یہ رات و دن اور سورج و چاند بھی ہیں پس تم نہ تو سورج کو سجدہ کرو نہ چاند کو بلکہ تم سجدہ اس اللہ (وحدہ لاشریک) ہی کے لئے کرو جس نے ان سب کو پیدا فرمایا ہے اگر تم لوگ واقعی اسی کی بندگی کرتے ہو ف۱",
+        "English" : "Among His signs are the night and the day, and the sun and the moon. Do not prostrate yourselves to the sun, or to the moon. And prostrate yourselves to Allah who has created them, if it is Him whom you worship."
+      },
+      {
+        "ayet_no" : 38,
+        "arbi" : "فَاِنِ اسْـتَكْبَرُوْا فَالَّذِيْنَ عِنْدَ رَبِّكَ يُسَبِّحُوْنَ لَهٗ بِالَّيْلِ وَالنَّهَارِ وَهُمْ لَا يَسْـَٔــمُوْنَ",
+        "Urdu" : "پھر اگر یہ لوگاپنی بڑائی کے گھمنڈ میں ہی رہیں تو (رہتے رہیں) وہ فرشتے جو تمہارے رب کے پاس ہیں وہ بہرحال رات اور دن اس کی تسبیح کرتے ہیں اور وہ کبھی تھکتے نہیں ف۲",
+        "English" : "Still, if they show arrogance, then those who are with your Lord proclaim His purity night and day, and they do not get weary."
+      },
+      {
+        "ayet_no" : 39,
+        "arbi" : "وَمِنْ اٰيٰتِهٖٓ اَنَّكَ تَرَى الْاَرْضَ خَاشِعَةً فَاِذَآ اَنْزَلْنَا عَلَيْهَا الْمَاۗءَ اهْتَزَّتْ وَرَبَتْ ۭ اِنَّ الَّذِيْٓ اَحْيَاهَا لَمُحْىِ الْمَوْتٰى ۭ اِنَّهٗ عَلٰي كُلِّ شَيْءٍ قَدِيْرٌ",
+        "Urdu" : "اور اس کی نشانیوں میں سے یہ بھی ہے کہ تم اس زمین کو سونی پڑی ہوئی دیکھتے ہو پھر جونہی ہم اس پر پانی برساتے ہیں تو یہ ابھر اٹھتی ہے اور پھول پڑتی ہے بلاشبہ جو اس مری ہوئی زمین کو جلا اٹھاتا ہے وہ قطعی طور پر مردوں کو بھی زندگی بخشنے والا ہے بلاشبہ اس کو ہرچیز پر پوری پوری قدرت ہے",
+        "English" : "And among His signs is that you see the land inactive; then, once We send down water thereto, it gets excited and swells. Surely, the One who has given life to it is the One who gives life to the dead. No doubt, He is powerful to do everything."
+      },
+      {
+        "ayet_no" : 40,
+        "arbi" : "اِنَّ الَّذِيْنَ يُلْحِدُوْنَ فِيْٓ اٰيٰتِنَا لَا يَخْفَوْنَ عَلَيْنَا ۭ اَفَمَنْ يُّلْقٰى فِي النَّارِ خَيْرٌ اَمْ مَّنْ يَّاْتِيْٓ اٰمِنًا يَّوْمَ الْقِيٰمَةِ ۭ اِعْمَلُوْا مَا شِئْتُمْ ۙ اِنَّهٗ بِمَا تَعْمَلُوْنَ بَصِيْرٌ",
+        "Urdu" : "بلاشبہ جو لوگ ہماری آیتوں میں کجروی اختیار کرتے ہیں وہ ہم سے کچھ چھپے ہوئے نہیں ہیں تو کیا جس کو پھینک دیا جائے گا (دوزخ کی دہکتی بھڑکتی) اس ہولناک آگ میں وہ بہتر ہے یا وہ جو قیامت کے روز آئے گا امن (و امان) کے ساتھ؟ (اب تمہاری مرضی) جو چاہو عمل کرو (پر یہ یاد رہے کہ) وہ یقینا دیکھ رہا ہے تمہارے ان تمام عملوں کو جو تم لوگ کر رہے ہو",
+        "English" : "Surely those who adopt perversity about Our verses are not hidden from Us. So, tell me which one is better: the one who is thrown into the Fire, or the one who will come safely on the Day of Judgment? Do whatever you wish. He is watchful of whatever you do."
+      },
+      {
+        "ayet_no" : 41,
+        "arbi" : "اِنَّ الَّذِيْنَ كَفَرُوْا بِالذِّكْرِ لَمَّا جَاۗءَهُمْ ۚ وَاِنَّهٗ لَكِتٰبٌ عَزِيْزٌ",
+        "Urdu" : "بلاشبہ جن لوگوں نے کفر کیا (ہمارے نازل کردہ) اس ذکر کے ساتھ جب کہ وہ ان کے پاس پہنچ گیا (یقینا وہ اپنے کئے کرائے کا بھگتان بھگت کر رہیں گے) اور بلاشبہ یہ ایک ایسی عظیم الشان عزت (اور غلبے) والی کتاب ہے",
+        "English" : "Verily those who disbelieve in the Admonition when it come Unto them are themselves to blame. Verily it is a Book mighty."
+      },
+      {
+        "ayet_no" : 42,
+        "arbi" : "لَّا يَاْتِيْهِ الْبَاطِلُ مِنْۢ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهٖ ۭتَنْزِيْلٌ مِّنْ حَكِيْمٍ حَمِيْدٍ",
+        "Urdu" : "جس پر باطل نہ اس کے آگے سے آسکتا ہے نہ پیچھے سے یہ سراسر اتارا ہوا کلام ہے اس (ذات اقدس و اعلیٰ) کی طرف سے جو نہایت ہی حکمت والی اور ہر خوبی کی سزاوار ہے ف۱",
+        "English" : "Falsehood cannot come at it from before it or behind it It, a revelation from One Wise and Praiseworthy."
+      },
+      {
+        "ayet_no" : 43,
+        "arbi" : "مَا يُقَالُ لَكَ اِلَّا مَا قَدْ قِيْلَ لِلرُّسُلِ مِنْ قَبْلِكَ ۭ اِنَّ رَبَّكَ لَذُوْ مَغْفِرَةٍ وَّذُوْ عِقَابٍ اَلِيْمٍ",
+        "Urdu" : "آپ کو (اے پیغمبر !) نہیں کہا جا رہا مگر وہی کچھ جو کہ آپ سے پہلے دوسرے رسولوں کو کہا گیا ہے بلاشبہ آپ کا رب بڑا ہی درگزر کرنے والا بھی ہے اور وہ بڑا ہی دردناک عذاب دینے والا بھی ہے",
+        "English" : "Nothing is being said to you but what has been said to the messengers before you. Your Lord is certainly the Lord of forgiveness and the Lord of painful punishment."
+      },
+      {
+        "ayet_no" : 44,
+        "arbi" : "وَلَوْ جَعَلْنٰهُ قُرْاٰنًا اَعْجَمِيًّا لَّـقَالُوْا لَوْلَا فُصِّلَتْ اٰيٰتُهٗ ڼءَاَعْجَمِيٌّ وَّعَرَبِيٌّ ۭ قُلْ هُوَ لِلَّذِيْنَ اٰمَنُوْا هُدًى وَّشِفَاۗءٌ ۭ وَالَّذِيْنَ لَا يُؤْمِنُوْنَ فِيْٓ اٰذَانِهِمْ وَقْرٌ وَّهُوَ عَلَيْهِمْ عَمًى ۭ اُولٰۗىِٕكَ يُنَادَوْنَ مِنْ مَّكَانٍۢ بَعِيْدٍ",
+        "Urdu" : "اور اگر ہم اس کو کوئی عجمی قران بنا دیتے تو اس وقت یہ لوگ یوں کہتے کیوں نہ کھول کر بیان کر دی گئیں اس کی آیتیں بھلا یہ کوئی بات ہوئی کہ کتاب تو عجمی ہو اور رسول عربی؟ (ان سے) کہو کہ یہ قران ان لوگوں کے لئے تو سراسر ہدایت اور عین شفاء ہے جو ایمان رکھتے ہیں اور جو لوگ ایمان (کی دولت) نہیں رکھتے ان کے کانوں میں یہ ایک ڈاٹ ہے اور (ان کی انکھوں) پر ایک اندھاپا اور ہولناک سیاہ پٹی) اور ان لوگوں کا حال (ان کے عناد اور ہٹ دھرمی کی وجہ سے) یہ ہے کہ گویا کہ ان کو پکارا جا رہا ہے کسی دوردراز مقام سے",
+        "English" : "Had We made it a non-Arabic Qur‘an, they would have said, :Why are its verses not clearly explained? Is it a non-Arabic (book) and an Arab (messenger)? Say, :For those who believe, it is guidance and cure. As for those who do not believe, there is deafness in their ears, and for them it is blindness. Such people are being called from a distant place."
+      },
+      {
+        "ayet_no" : 45,
+        "arbi" : "وَلَقَدْ اٰتَيْنَا مُوْسَى الْكِتٰبَ فَاخْتُلِفَ فِيْهِ ۭ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَّبِّكَ لَقُضِيَ بَيْنَهُمْ ۭ وَاِنَّهُمْ لَفِيْ شَكٍّ مِّنْهُ مُرِيْبٍ",
+        "Urdu" : "اور یقینا ہم نے موسیٰ کو بھی کتاب دی سو اس میں بھی اختلاف کیا گیا اور اگر آپ کے رب کی جانب سے ایک بات پہلے سے طے نہ ہو چکی ہوتی تو یقینا ان لوگوں کے درمیان فیصلہ کبھی کا کر دیا گیا ہوتا اور یہ لوگ یقینی طور پر اس (قران) کی بناء پر ایک سخت اضطراب انگیز شک میں پڑے ہوئے ہیں",
+        "English" : "And We gave Musa the book, then it was disputed (as well). But for a word that had already come from your Lord, the matter would have been decided between them. They are in confounding doubt about it."
+      },
+      {
+        "ayet_no" : 46,
+        "arbi" : "مَنْ عَمِلَ صَالِحًــا فَلِنَفْسِهٖ وَمَنْ اَسَاۗءَ فَعَلَيْهَا  ۭ وَمَا رَبُّكَ بِظَلَّامٍ لِّـلْعَبِيْدِ",
+        "Urdu" : "(بہرحال) جس نے بھی کوئی نیک عمل کیا تو وہ اپنے ہی لئے کرے گا اور جس نے کوئی برائی کی تو اس کا وبال بھی خود اسی پر ہوگا اور آپ کا رب ایسا نہیں کہ کوئی ظلم کرے اپنے بندوں پر",
+        "English" : "If someone acts righteously, he does so for the benefit of his own soul, and if someone commits evil, he does so against it. Your Lord is not unjust to His servants."
+      },
+      {
+        "ayet_no" : 47,
+        "arbi" : "اِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۭ وَمَا تَخْرُجُ مِنْ ثَمَرٰتٍ مِّنْ اَكْمَامِهَا وَمَا تَحْمِلُ مِنْ اُنْثٰى وَلَا تَضَعُ اِلَّا بِعِلْمِهٖ ۭ وَيَوْمَ يُنَادِيْهِمْ اَيْنَ شُرَكَاۗءِيْ ۙ قَالُوْٓا اٰذَنّٰكَ ۙ مَا مِنَّا مِنْ شَهِيْدٍ",
+        "Urdu" : "اسی کی طرف لوٹایا جاتا ہے قیامت کا علم ف۱ اور نہیں نکلتا کوئی پھل اپنے شگوفے سے اور نہ حاملہ ہوتی ہے کوئی مادہ اور نہ ہی وہ بچہ جنتی ہے مگر یہ سب کچھ اس کے علم سے ہوتا ہے اور جس دن وہ ان کو پکار کر کہے گا کہ کہاں ہیں میرے وہ شریک (جو تم لوگوں نے ازخود ٹھہرا رکھے تھے)؟ تو یہ (اس کے جواب میں سراپا خجل و ندامت بن کر) کہیں گے کہ ہم تو آپ کی بارگاہ میں عرض کر چکے کہ ہم میں سے کوئی بھی اس کا اقراری نہیں ف۲",
+        "English" : "To Him alone the knowledge of the Hour (the exact time of Doomsday) is to be referred. No fruits come out of their sheaths, nor does a female conceive a baby, nor does she deliver it, but with His knowledge. And (remember) the Day when He will call them: :Where are My partners? They will say, :We declare to you that no one of us is to testify (that you have partners)."
+      },
+      {
+        "ayet_no" : 48,
+        "arbi" : "وَضَلَّ عَنْهُمْ مَّا كَانُوْا يَدْعُوْنَ مِنْ قَبْلُ وَظَنُّوْا مَا لَهُمْ مِّنْ مَّحِيْصٍ",
+        "Urdu" : "اور کھو چکے ہوں گے ان سے وہ سب (معبودان باطلہ) جن کو یہ لوگ اس سے پہلے (پوجا) پکارا کرتے تھے اور ان کو یقین ہو چکا ہوگا کہ اب ان کے لئے کسی بھی طرح کا کوئی چھٹکارا نہیں",
+        "English" : "And whatever they used to invoke earlier will vanish from them, and they will realize that they have no way to escape."
+      },
+      {
+        "ayet_no" : 49,
+        "arbi" : "لَا يَسْـَٔمُ الْاِنْسَانُ مِنْ دُعَاۗءِ الْخَيْرِ ۡ وَاِنْ مَّسَّهُ الشَّرُّ فَيَــــُٔـــوْسٌ قَنُوْطٌ",
+        "Urdu" : "انسان بھلائی مانگتے نہیں تھکتا اور اگر اسے کوئی تکلیف پہنچ جائے تو یہ بالکل مایوس اور نا امید ہو جاتا ہے",
+        "English" : "Man does not get weary of craving for (all sorts of ) good things; and if he is touched by some evil, he is disappointed, devoid of any hope."
+      },
+      {
+        "ayet_no" : 50,
+        "arbi" : "وَلَىِٕنْ اَذَقْنٰهُ رَحْمَةً مِّنَّا مِنْۢ بَعْدِ ضَرَّاۗءَ مَسَّـتْهُ لَيَقُوْلَنَّ ھٰذَا لِيْ ۙ وَمَآ اَظُنُّ السَّاعَةَ قَاۗىِٕمَةً ۙ وَّلَىِٕنْ رُّجِعْتُ اِلٰى رَبِّيْٓ اِنَّ لِيْ عِنْدَهٗ لَــلْحُسْنٰى ۚ فَلَنُنَبِّئَنَّ الَّذِيْنَ كَفَرُوْا بِمَا عَمِلُوْا ۡ وَلَــنُذِيْقَنَّهُمْ مِّنْ عَذَابٍ غَلِيْظٍ",
+        "Urdu" : "اور اگر ہم اسےاپنی طرف سے کسی رحمت (و مہربانی) کا کوئی مزہ چکھا دیں اس تکلیف کے بعد جو اس کو پہنچ چکی ہوتی ہے تو یہ (بپھر کر) کہنے لگتا ہے کہ یہ تو میرے ہی لئے ہے میں نہیں سمجھتا کہ قیامت انے والی ہے اور اگر کہیں واقعۃً مجھے اپنے رب کی طرف لوٹنا بھی پڑ گیا تو یقینا وہاں بھی میرے لئے بھلائی ہی ہوگی اور ہم ضرور بتا دیں گے کافروں کو ان کے وہ سب کام جو انہوں نے (زندگی بھر) کئے ہوں گے اور ہم ان کو ضرور مزہ چکھا کر رہیں گے ایک بڑے ہی سخت عذاب کا",
+        "English" : "And if We give him a taste of some mercy from Us after some hardship that has touched him, he will surely say, :This is my right. And I do not think the Hour (the Day of Judgment) is going to occur. And even if I am brought back to my Lord, I will surely have the best (life) with Him (too). So, We will let the disbelievers know what they did, and let them taste a stern punishment."
+      },
+      {
+        "ayet_no" : 51,
+        "arbi" : "وَاِذَآ اَنْعَمْنَا عَلَي الْاِنْسَانِ اَعْرَضَ وَنَاٰ بِجَانِبِهٖ ۚ وَاِذَا مَسَّهُ الشَّرُّ فَذُوْ دُعَاۗءٍ عَرِيْضٍ",
+        "Urdu" : "اور جب ہم انسان کو کوئی نعمت دیتے ہیں تو وہ منہ موڑ لیتا ہے اور اکڑ جاتا ہے اور جب اسے کوئی تکلیف پہنچتی ہے تو وہ لمبی چوڑی دعائیں کرنے لگتا ہے",
+        "English" : "When We bestow Our favor upon man, he avoids (to appreciate it) and keeps himself far aside (from obedience), and when some evil touches him, he is full of lengthy prayers."
+      },
+      {
+        "ayet_no" : 52,
+        "arbi" : "قُلْ اَرَءَيْتُمْ اِنْ كَانَ مِنْ عِنْدِ اللّٰهِ ثُمَّ كَفَرْتُمْ بِهٖ مَنْ اَضَلُّ مِمَّنْ هُوَ فِيْ شِقَاقٍۢ بَعِيْدٍ",
+        "Urdu" : "(ان سے) کہو کہ تم اتنا تو سوچو کہ اگر یہ (قران) اللہ ہی کی طرف سے ہو تو پھر بھی اگر تم لوگ اس کا انکار ہی کرتے رہے تو اس سے بڑھ کر گمراہ اور کون ہوگا جو اس کی مخالفت میں دور نکل گیا ہو ؟ ف۱",
+        "English" : "Say: [Tell me, if it (the Qur'n) is fromAllah, and you disbelieve in it, who is more astray than one who is in opposition far away (fromAllah's Right Path and His obedience)]."
+      },
+      {
+        "ayet_no" : 53,
+        "arbi" : "سَنُرِيْهِمْ اٰيٰتِنَا فِي الْاٰفَاقِ وَفِيْٓ اَنْفُسِهِمْ حَتّٰى يَتَبَيَّنَ لَهُمْ اَنَّهُ الْحَقُّ ۭ اَوَلَمْ يَكْفِ بِرَبِّكَ اَنَّهٗ عَلٰي كُلِّ شَيْءٍ شَهِيْدٌ",
+        "Urdu" : "ہم ان کواپنی نشانیاں دکھاتے جائیں گے آفاق میں بھی اور خود ان کیاپنی جانوں میں بھی یہاں تک کہ ان کے سامنے یہ حقیقت پوری طرح کھل جائے کہ یہ (قران) قطعی طور پر حق ہے کیا یہ بات کافی نہیں کہ تمہارا رب ہرچیز پر گواہ ہے ؟",
+        "English" : "We will show them Our signs in the universe and within their own beings until it will become manifest to them that it is the truth. Is it not enough about your Lord that He is witness to everything ?"
+      },
+      {
+        "ayet_no" : 54,
+        "arbi" : "اَلَآ اِنَّهُمْ فِيْ مِرْيَةٍ مِّنْ لِّقَاۗءِ رَبِّهِمْ ۭ اَلَآ اِنَّهٗ بِكُلِّ شَيْءٍ مُّحِيْــطٌ",
+        "Urdu" : "آگاہ رہو کہ یہ لوگ اپنے رب کی ملاقات (اور اس کے حضور پیشی) کے بارے میں شک میں پڑے ہیں آگاہ رہو کہ وہ ہرچیز کا پوری طرح احاطہ کئے ہوئے ہے ف۲",
+        "English" : "Beware, they are in doubt about meeting their Lord. Beware, He is the One who encompasses everything."
+      }
+
+    ]
+  }
+]

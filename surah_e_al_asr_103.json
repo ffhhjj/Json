@@ -1,0 +1,34 @@
+[
+  {
+    "surah_no" : 103,
+    "total_ayah" : 3,
+    "name" : "Surah e AL-Asr",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "وَالْعَصْرِ",
+        "Urdu" : "قسم ہے عصر کے وقت کی",
+        "English" : "By Al-'Asr (the time)."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍ",
+        "Urdu" : "بے شک انسان یقینا خسارے میں ہے",
+        "English" : "Indeed man is surely in a loss."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ڏ وَتَوَاصَوْا بِالصَّبْرِ",
+        "Urdu" : "سوائے ان لوگوں کے جو ایمان لائے اور انہوں نے نیک اعمال کیے اور ایک دوسرے کو وصیت کی حق کی اور ایک دوسرے کو وصیت کی صبر کی",
+        "English" : "But those who believed and did good deeds and stressed one another to accept truth and counseled one another to be steadfast."
+      }
+    ]
+  }
+]

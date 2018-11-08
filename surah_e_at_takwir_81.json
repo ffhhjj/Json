@@ -1,0 +1,190 @@
+[
+  {
+    "surah_no" : 81,
+    "total_ayah" : 29,
+    "name" : "Surah e At-Takwir",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "اِذَا الشَّمْسُ كُوِّرَتْ",
+        "Urdu" : "جب سورج لپیٹ دیا جائے گا",
+        "English" : "When the sun Kuwwirat (wound round and lost its light and is overthrown)."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "وَاِذَا النُّجُوْمُ انْكَدَرَتْ",
+        "Urdu" : "اور جب ستارے بے نور ہوجائیں گے",
+        "English" : "And when the stars shall dart down,"
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "وَاِذَا الْجِبَالُ سُيِّرَتْ",
+        "Urdu" : "اور جب پہاڑ چلائے جائیں گے",
+        "English" : "And when the mountains shall be made to pass away,"
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "وَاِذَا الْعِشَارُ عُطِّلَتْ",
+        "Urdu" : "اور جب دس ماہ کی حاملہ اونٹنیاں بے کار چھوڑ دی جائیگی",
+        "English" : "And when the she-camels big with young shall be abandoned,"
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "وَاِذَا الْوُحُوْشُ حُشِرَتْ",
+        "Urdu" : "اور جب جنگلی جانور اکٹھے کیے جائیں گے",
+        "English" : "And when the wild beasts shall be gathered together,"
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "وَاِذَا الْبِحَارُ سُجِّرَتْ",
+        "Urdu" : "اور جب سمندر بھڑکائے جائیں گے",
+        "English" : "And when the seas shall be filled,"
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : "وَاِذَا النُّفُوْسُ زُوِّجَتْ",
+        "Urdu" : "اور جب روحین بدنوں سے ملادی جائیں گی",
+        "English" : "And when the souls he paired,"
+      },
+      {
+        "ayet_no" : 8,
+        "arbi" : "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْ",
+        "Urdu" : "اور جب زندہ دفن کی گئی لڑکی سے پوچھا جائے گا",
+        "English" : "And when the girl buried alive shall be asked:"
+      },
+      {
+        "ayet_no" : 9,
+        "arbi" : "بِاَيِّ ذَنْۢبٍ قُتِلَتْ",
+        "Urdu" : "کہ کس گناہ کے بدلے وہ قتل کی گئی",
+        "English" : "For what sin she was slain."
+      },
+      {
+        "ayet_no" : 10,
+        "arbi" : "وَاِذَا الصُّحُفُ نُشِرَتْ",
+        "Urdu" : "جب اعمال نامے پھیلائیں(کھولے)جائیں گے ۔",
+        "English" : "And when the Writs shall be lain open,"
+      },
+      {
+        "ayet_no" : 11,
+        "arbi" : "وَاِذَا السَّمَاۗءُ كُشِطَتْ",
+        "Urdu" : "اور جب آسمان کی کھال اتار دی جائے گی",
+        "English" : "And when the heaven shall be stripped,"
+      },
+      {
+        "ayet_no" : 12,
+        "arbi" : "وَاِذَا الْجَــحِيْمُ سُعِّرَتْ",
+        "Urdu" : "اور جب جہنم بھڑکائی جائے گی",
+        "English" : "And when the Scorch shall be made to blaze,"
+      },
+      {
+        "ayet_no" : 13,
+        "arbi" : "وَاِذَا الْجَنَّةُ اُزْلِفَتْ",
+        "Urdu" : "اور جب جنت قریب لائی جائے گی",
+        "English" : "And when Paradise will be brought up close,"
+      },
+      {
+        "ayet_no" : 14,
+        "arbi" : "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْ",
+        "Urdu" : "جان لے گی ہر جان جو اس نے حاضر کیا",
+        "English" : "Then every soul shall know that which it: hath presented."
+      },
+      {
+        "ayet_no" : 15,
+        "arbi" : "فَلَآ اُقْسِمُ بِالْخُنَّسِ",
+        "Urdu" : "پس نہیں میں قسم کھاتا ہے پیچھے ہٹنے والے ستاروں کی",
+        "English" : "I swear by the receding stars."
+      },
+      {
+        "ayet_no" : 16,
+        "arbi" : "الْجَوَارِ الْكُنَّسِ",
+        "Urdu" : "جو چلنے والے چھپ جانے والے ہیں",
+        "English" : "Moving swiftly and hiding themselves,"
+      },
+      {
+        "ayet_no" : 17,
+        "arbi" : "وَالَّيْلِ اِذَا عَسْعَسَ",
+        "Urdu" : "رات کی قسم جب وہ جانے لگتی ہے",
+        "English" : "And by the night when it depart,"
+      },
+      {
+        "ayet_no" : 18,
+        "arbi" : "وَالصُّبْحِ اِذَا تَنَفَّسَ",
+        "Urdu" : "اور صبح کی قسم جب وہ سانس لیتی ہے (نمودار ہوتی ہے)",
+        "English" : "And by the morning when it shine forth,"
+      },
+      {
+        "ayet_no" : 19,
+        "arbi" : "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍ",
+        "Urdu" : "بیشک یہ قران یقینا نکلی ہوئی بات ہے عزت والے رسول کی (زبان سے)",
+        "English" : "Verily it is a Word brought by a messenger honoured,"
+      },
+      {
+        "ayet_no" : 20,
+        "arbi" : "ذِيْ قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِيْنٍ",
+        "Urdu" : "قوت والا ہے عرش والے کے نزدیک مرتبے والا ہے",
+        "English" : "Owner of strength, of established dignity with the Lord of the Throne."
+      },
+      {
+        "ayet_no" : 21,
+        "arbi" : "مُّطَاعٍ ثَمَّ اَمِيْنٍ",
+        "Urdu" : "اس کی بات مانی جاتی ہے وہاں امانت دار ہے",
+        "English" : "Obeyed (by the angels) , trustworthy there (in the heavens)."
+      },
+      {
+        "ayet_no" : 22,
+        "arbi" : "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍ",
+        "Urdu" : "اور نہیں ہے تمہارا ساتھی بالکل دیوانہ",
+        "English" : "Nor is your companion distracted."
+      },
+      {
+        "ayet_no" : 23,
+        "arbi" : "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِ",
+        "Urdu" : "اور یقینا اس نے دیکھا اسے جبریل کو آسمان کے واضح کنارے پر",
+        "English" : "Assuredly he beheld him in the horizon manifest."
+      },
+      {
+        "ayet_no" : 24,
+        "arbi" : "وَمَا هُوَ عَلَي الْغَيْبِ بِضَنِيْنٍ",
+        "Urdu" : "اور نہیں ہے وہ غیب کی باتوں پر ہرگز بخیل",
+        "English" : "And he is of the unseen not a tenacious concealer."
+      },
+      {
+        "ayet_no" : 25,
+        "arbi" : "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍ",
+        "Urdu" : "او ر نہیں ہے وہ ہرگز کسی شیطان مردود کا کلام",
+        "English" : "Nor is it the word of a Satan accursed."
+      },
+      {
+        "ayet_no" : 26,
+        "arbi" : "فَاَيْنَ تَذْهَبُوْنَ",
+        "Urdu" : "تو پھر کہاں تم جارہے ہو",
+        "English" : "Then where are you going ?"
+      },
+      {
+        "ayet_no" : 27,
+        "arbi" : "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَ",
+        "Urdu" : "نہیں ہے وہ قران مگر ایک نصیحت جہانوں کیلیے",
+        "English" : "Verily, this (the Qur'n) is no less than a Reminder to (all) the 'Alamn (mankind and jinns)."
+      },
+      {
+        "ayet_no" : 28,
+        "arbi" : "لِمَنْ شَاۗءَ مِنْكُمْ اَنْ يَّسْتَــقِيْمَ",
+        "Urdu" : "اس کیے لیے جو چاہے تم میں سے کہ سیدھا چلے ۔",
+        "English" : "Unto whomsoever of you will to walk straight."
+      },
+      {
+        "ayet_no" : 29,
+        "arbi" : "وَمَا تَشَاۗءُوْنَ اِلَّآ اَنْ يَّشَاۗءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ",
+        "Urdu" : "اور نہیں تم چاہتے مگر یہ کہ اللہ چاہے جو سب جہانوں کارب ہے ۔",
+        "English" : "And you cannot intend (to do anything) unless it is so willed by Allah, the Lord of all the worlds."
+      }
+    ]
+  }
+]

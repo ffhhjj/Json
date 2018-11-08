@@ -1,0 +1,2701 @@
+[
+  {
+    "names_of": "ALLAH",
+    "detail": [
+      {
+        "name_align": 1,
+        "detail": [
+          {
+            "name_no": 1,
+            "arbi": "الرَّحْمَنُ",
+            "urdu_mean": "رحیم",
+            "urdu_wazahat": "وہ جو اپنے تمام مخلوقات کے لئے نیک عمل کرے گا",
+            "english_mean": "The Beneficent",
+            "english_explain": "He who wills goodness and mercy for all His creatures"
+          }
+        ]
+      },
+      {
+        "name_align": 2,
+        "detail": [
+          {
+            "name_no": 2,
+            "arbi": "الرَّحِيمُ",
+            "urdu_mean": "رحم کرنے والا",
+            "urdu_wazahat": "جو بہت سخت رحم کرتا ہے",
+            "english_mean": "The Merciful",
+            "english_explain": "He who acts with extreme kindness"
+          }
+        ]
+      },
+      {
+        "name_align": 3,
+        "detail": [
+          {
+            "name_no": 3,
+            "arbi": "الْمَلِكُ",
+            "urdu_mean": "ابدی رب",
+            "urdu_wazahat": "خود مختار رب، مکمل پاکی کے ساتھ ، جو ایک تسلط عیب سے پاک ہے",
+            "english_mean": "The Eternal Lord",
+            "english_explain": "The Sovereign Lord, The One with the complete Dominion, the One Whose Dominion is clear from imperfection"
+          }
+        ]
+      },
+      {
+        "name_align": 4,
+        "detail": [
+          {
+            "name_no": 4,
+            "arbi": "الْقُدُّوسُ",
+            "urdu_mean": "سب سے زیادہ مقدس",
+            "urdu_wazahat": "جو کسی بھی غلطی سے پاک ہے اور بچوں اور مخالفین سے واضح ہے",
+            "english_mean": "The Most Sacred",
+            "english_explain": "The One who is pure from any imperfection and clear from children and adversaries"
+          }
+        ]
+      },
+      {
+        "name_align": 5,
+        "detail": [
+          {
+            "name_no": 5,
+            "arbi": "السَّلاَمُ",
+            "urdu_mean": "امن",
+            "urdu_wazahat": "وہی جو ہر عیب سے آزاد ہے.",
+            "english_mean": "The Embodiment of Peace",
+            "english_explain": "The One who is free from every imperfection."
+          }
+        ]
+      },
+      {
+        "name_align": 6,
+        "detail": [
+          {
+            "name_no": 6,
+            "arbi": "الْمُؤْمِنُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Infuser of Faith",
+            "english_explain": "The One who witnessed for Himself that no one is God but Him. And He witnessed for His believers that they are truthful in their belief that no one is God but Him"
+          }
+        ]
+      },
+      {
+        "name_align": 7,
+        "detail": [
+          {
+            "name_no": 7,
+            "arbi": "الْمُهَيْمِنُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Preserver of Safety",
+            "english_explain": "The One who witnesses the saying and deeds of His creatures."
+          }
+        ]
+      },
+      {
+        "name_align": 8,
+        "detail": [
+          {
+            "name_no": 8,
+            "arbi": "الْعَزِيزُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Mighty One",
+            "english_explain": "The Strong, The Defeater who is not defeated."
+          }
+        ]
+      },
+      {
+        "name_align": 9,
+        "detail": [
+          {
+            "name_no": 9,
+            "arbi": "الْجَبَّارُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Omnipotent One",
+            "english_explain": "The One that nothing happens in His Dominion except that which He willed."
+          }
+        ]
+      },
+      {
+        "name_align": 10,
+        "detail": [
+          {
+            "name_no": 10,
+            "arbi": "الْمُتَكَبِّرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Dominant One",
+            "english_explain": "The One who is clear from the attributes of the creatures and from resembling them."
+          }
+        ]
+      },
+      {
+        "name_align": 11,
+        "detail": [
+          {
+            "name_no": 11,
+            "arbi": "الْخَالِقُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Creator",
+            "english_explain": "The One who brings everything from non-existence to existence"
+          }
+        ]
+      },
+      {
+        "name_align": 12,
+        "detail": [
+          {
+            "name_no": 12,
+            "arbi": "الْبَارِئُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Evolver",
+            "english_explain": "The Maker, The Creator who has the Power to turn the entities."
+          }
+        ]
+      },
+      {
+        "name_align": 13,
+        "detail": [
+          {
+            "name_no": 13,
+            "arbi": "الْمُصَوِّرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Flawless Shaper",
+            "english_explain": "The One who forms His creatures in different pictures."
+          }
+        ]
+      },
+      {
+        "name_align": 14,
+        "detail": [
+          {
+            "name_no": 14,
+            "arbi": "الْغَفَّارُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Great Forgiver",
+            "english_explain": "The Forgiver, The One who forgives the sins of His slaves time and time again."
+          }
+        ]
+      },
+      {
+        "name_align": 15,
+        "detail": [
+          {
+            "name_no": 15,
+            "arbi": "الْقَهَّارُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All-Prevailing One",
+            "english_explain": "The Dominant, The One who has the perfect Power and is not unable over anything."
+          }
+        ]
+      },
+      {
+        "name_align": 16,
+        "detail": [
+          {
+            "name_no": 16,
+            "arbi": "الْوَهَّابُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Supreme Bestower",
+            "english_explain": "The One who is Generous in giving plenty without any return. He is everything that benefits whether Halal or Haram."
+          }
+        ]
+      },
+      {
+        "name_align": 17,
+        "detail": [
+          {
+            "name_no": 17,
+            "arbi": "الرَّزَّاقُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Total Provider",
+            "english_explain": "The Sustainer, The Provider."
+          }
+        ]
+      },
+      {
+        "name_align": 18,
+        "detail": [
+          {
+            "name_no": 18,
+            "arbi": "الْفَتَّاحُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Supreme Solver",
+            "english_explain": "The Opener, The Reliever, The Judge, The One who opens for His slaves the closed worldly and religious matters."
+          }
+        ]
+      },
+      {
+        "name_align": 19,
+        "detail": [
+          {
+            "name_no": 19,
+            "arbi": "اَلْعَلِيْمُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All-Knowing One",
+            "english_explain": "The Knowledgeable; The One nothing is absent from His knowledge"
+          }
+        ]
+      },
+      {
+        "name_align": 20,
+        "detail": [
+          {
+            "name_no": 20,
+            "arbi": "الْقَابِضُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Restricting One",
+            "english_explain": "The Constrictor, The Withholder, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy."
+          }
+        ]
+      },
+      {
+        "name_align": 21,
+        "detail": [
+          {
+            "name_no": 21,
+            "arbi": "الْبَاسِطُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Extender",
+            "english_explain": "The Englarger, The One who constricts the sustenance by His wisdom and expands and widens it with His Generosity and Mercy."
+          }
+        ]
+      },
+      {
+        "name_align": 22,
+        "detail": [
+          {
+            "name_no": 22,
+            "arbi": "الْخَافِضُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Reducer",
+            "english_explain": "The Abaser, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment."
+          }
+        ]
+      },
+      {
+        "name_align": 23,
+        "detail": [
+          {
+            "name_no": 23,
+            "arbi": "الرَّافِعُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Elevating One",
+            "english_explain": "The Exalter, The Elevator, The One who lowers whoever He willed by His Destruction and raises whoever He willed by His Endowment."
+          }
+        ]
+      },
+      {
+        "name_align": 24,
+        "detail": [
+          {
+            "name_no": 24,
+            "arbi": "الْمُعِزُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Honourer-Bestower",
+            "english_explain": "He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem."
+          }
+        ]
+      },
+      {
+        "name_align": 25,
+        "detail": [
+          {
+            "name_no": 25,
+            "arbi": "المُذِلُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Abaser",
+            "english_explain": "The Dishonourer, The Humiliator, He gives esteem to whoever He willed, hence there is no one to degrade Him; And He degrades whoever He willed, hence there is no one to give Him esteem."
+          }
+        ]
+      },
+      {
+        "name_align": 26,
+        "detail": [
+          {
+            "name_no": 26,
+            "arbi": "السَّمِيعُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All-Hearer",
+            "english_explain": "The Hearer, The One who Hears all things that are heard by His Eternal Hearing without an ear, instrument or organ."
+          }
+        ]
+      },
+      {
+        "name_align": 27,
+        "detail": [
+          {
+            "name_no": 27,
+            "arbi": "الْبَصِيرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All-Seeing",
+            "english_explain": "The All-Noticing, The One who Sees all things that are seen by His Eternal Seeing without a pupil or any other instrument."
+          }
+        ]
+      },
+      {
+        "name_align": 28,
+        "detail": [
+          {
+            "name_no": 28,
+            "arbi": "الْحَكَمُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Impartial Judge",
+            "english_explain": "The Judge, He is the Ruler and His judgment is His Word."
+          }
+        ]
+      },
+      {
+        "name_align": 29,
+        "detail": [
+          {
+            "name_no": 29,
+            "arbi": "الْعَدْلُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Embodiment of Justice",
+            "english_explain": "The Just, The One who is entitled to do what He does."
+          }
+        ]
+      },
+      {
+        "name_align": 30,
+        "detail": [
+          {
+            "name_no": 30,
+            "arbi": "اللَّطِيفُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Knower of Subtleties",
+            "english_explain": "The Subtle One, The Gracious, The One who is kind to His slaves and endows upon them."
+          }
+        ]
+      },
+      {
+        "name_align": 31,
+        "detail": [
+          {
+            "name_no": 31,
+            "arbi": "الْخَبِيرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All-Aware One",
+            "english_explain": "The One who knows the truth of things."
+          }
+        ]
+      },
+      {
+        "name_align": 32,
+        "detail": [
+          {
+            "name_no": 32,
+            "arbi": "الْحَلِيمُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Clement One",
+            "english_benefit": "The Fore bearing, The One who delays the punishment for those who deserve it and then He might forgive them."
+          }
+        ]
+      },
+      {
+        "name_align": 33,
+        "detail": [
+          {
+            "name_no": 33,
+            "arbi": "الْعَظِيمُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Magnificent One",
+            "english_benefit": "The Great One, The Mighty, The One deserving the attributes of Exaltment, Glory, Extolement, and Purity from all imperfection."
+          }
+        ]
+      },
+      {
+        "name_align": 34,
+        "detail": [
+          {
+            "name_no": 34,
+            "arbi": "الْغَفُورُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Great Forgiver",
+            "english_explain": "The All-Forgiving, The Forgiving, The One who forgives a lot."
+          }
+        ]
+      },
+      {
+        "name_align": 35,
+        "detail": [
+          {
+            "name_no": 35,
+            "arbi": "الشَّكُورُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Acknowledging One",
+            "english_explain": "The Grateful, The Appreciative, The One who gives a lot of reward for a little obedience."
+          }
+        ]
+      },
+      {
+        "name_align": 36,
+        "detail": [
+          {
+            "name_no": 36,
+            "arbi": "الْعَلِيُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Sublime One",
+            "english_explain": "The Most High, The One who is clear from the attributes of the creatures."
+          }
+        ]
+      },
+      {
+        "name_align": 37,
+        "detail": [
+          {
+            "name_no": 37,
+            "arbi": "الْكَبِيرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Great One",
+            "english_explain": "The Most Great, The Great, The One who is greater than everything in status."
+          }
+        ]
+      },
+      {
+        "name_align": 38,
+        "detail": [
+          {
+            "name_no": 38,
+            "arbi": "الْحَفِيظُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Guarding One",
+            "english_explain": "The Preserver, The Protector, The One who protects whatever and whoever He willed to protect."
+          }
+        ]
+      },
+      {
+        "name_align": 39,
+        "detail": [
+          {
+            "name_no": 39,
+            "arbi": "المُقيِت",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Sustaining One",
+            "english_explain": "The Maintainer, The Guardian, The Feeder, The One who has the Power."
+          }
+        ]
+      },
+      {
+        "name_align": 40,
+        "detail": [
+          {
+            "name_no": 40,
+            "arbi": "الْحسِيبُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Reckoning One",
+            "english_explain": "The Reckoner, The One who gives the satisfaction."
+          }
+        ]
+      },
+      {
+        "name_align": 41,
+        "detail": [
+          {
+            "name_no": 41,
+            "arbi": "الْجَلِيلُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Majestic One",
+            "english_explain": "The Sublime One, The Beneficent, The One who is attributed with greatness of Power and Glory of status."
+          }
+        ]
+      },
+      {
+        "name_align": 42,
+        "detail": [
+          {
+            "name_no": 42,
+            "arbi": "الْكَرِيمُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Bountiful One",
+            "english_explain": "The Generous One, The Gracious, The One who is attributed with greatness of Power and Glory of status."
+          }
+        ]
+      },
+      {
+        "name_align": 43,
+        "detail": [
+          {
+            "name_no": 43,
+            "arbi": "الرَّقِيبُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Watchful One",
+            "english_explain": "The Watcher, The One that nothing is absent from Him. Hence it’s meaning is related to the attribute of Knowledge."
+          }
+        ]
+      },
+      {
+        "name_align": 44,
+        "detail": [
+          {
+            "name_no": 44,
+            "arbi": "الْمُجِيبُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Responding One",
+            "english_explain": "The Responsive, The Hearkener, The One who answers the one in need if he asks Him and rescues the yearner if he calls upon Him."
+          }
+        ]
+      },
+      {
+        "name_align": 45,
+        "detail": [
+          {
+            "name_no": 45,
+            "arbi": "الْوَاسِعُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All-Pervading One",
+            "english_explain": "The Vast, The All-Embracing, The Knowledgeable."
+          }
+        ]
+      },
+      {
+        "name_align": 46,
+        "detail": [
+          {
+            "name_no": 46,
+            "arbi": "الْحَكِيمُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Wise One",
+            "english_explain": "The Wise, The Judge of Judges, The One who is correct in His doings."
+          }
+        ]
+      },
+      {
+        "name_align": 47,
+        "detail": [
+          {
+            "name_no": 47,
+            "arbi": "الْوَدُودُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Loving One",
+            "english_explain": "The One who loves His believing slaves and His believing slaves love Him. His love to His slaves is His Will to be merciful to them and praise them."
+          }
+        ]
+      },
+      {
+        "name_align": 48,
+        "detail": [
+          {
+            "name_no": 48,
+            "arbi": "الْمَجِيدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Glorious One",
+            "english_explain": "The Most Glorious One, The One who is with perfect Power, High Status, Compassion, Generosity and Kindness."
+          }
+        ]
+      },
+      {
+        "name_align": 49,
+        "detail": [
+          {
+            "name_no": 49,
+            "arbi": "الْبَاعِثُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Infuser of New Life",
+            "english_explain": "The Resurrector, The Raiser (from death), The One who resurrects His slaves after death for reward and/or punishment."
+          }
+        ]
+      },
+      {
+        "name_align": 50,
+        "detail": [
+          {
+            "name_no": 50,
+            "arbi": "الشَّهِيدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All Observing Witness",
+            "english_explain": "The Witness, The One who nothing is absent from Him."
+          }
+        ]
+      },
+      {
+        "name_align": 51,
+        "detail": [
+          {
+            "name_no": 51,
+            "arbi": "الْحَقُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Embodiment of Truth",
+            "english_explain": "The Truth, The True, The One who truly exists."
+          }
+        ]
+      },
+      {
+        "name_align": 52,
+        "detail": [
+          {
+            "name_no": 52,
+            "arbi": "الْوَكِيلُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Universal Trustee",
+            "english_explain": "The Trustee, The One who gives the satisfaction and is relied upon."
+          }
+        ]
+      },
+      {
+        "name_align": 53,
+        "detail": [
+          {
+            "name_no": 53,
+            "arbi": "الْقَوِيُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Strong One",
+            "english_explain": "The Most Strong, The Strong, The One with the complete Power"
+          }
+        ]
+      },
+      {
+        "name_align": 54,
+        "detail": [
+          {
+            "name_no": 54,
+            "arbi": "الْمَتِينُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Firm One",
+            "english_explain": "The One with extreme Power which is un-interrupted and He does not get tired."
+          }
+        ]
+      },
+      {
+        "name_align": 55,
+        "detail": [
+          {
+            "name_no": 55,
+            "arbi": "الْوَلِيُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Protecting Associate",
+            "english_explain": "The Protecting Friend, The Supporter."
+          }
+        ]
+      },
+      {
+        "name_align": 56,
+        "detail": [
+          {
+            "name_no": 56,
+            "arbi": "الْحَمِيدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Sole-Laudable One",
+            "english_explain": "The Praiseworthy, The praised One who deserves to be praised."
+          }
+        ]
+      },
+      {
+        "name_align": 57,
+        "detail": [
+          {
+            "name_no": 57,
+            "arbi": "الْمُحْصِي",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All-Enumerating One",
+            "english_explain": "The Counter, The Reckoner, The One who the count of things are known to him."
+          }
+        ]
+      },
+      {
+        "name_align": 58,
+        "detail": [
+          {
+            "name_no": 58,
+            "arbi": "الْمُبْدِئُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Originator",
+            "english_explain": "The One who started the human being. That is, He created him."
+          }
+        ]
+      },
+      {
+        "name_align": 59,
+        "detail": [
+          {
+            "name_no": 59,
+            "arbi": "الْمُعِيدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Restorer",
+            "english_explain": "The Reproducer, The One who brings back the creatures after death"
+          }
+        ]
+      },
+      {
+        "name_align": 60,
+        "detail": [
+          {
+            "name_no": 60,
+            "arbi": "الْمُحْيِي",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Maintainer of life",
+            "english_explain": "The Restorer, The Giver of Life, The One who took out a living human from semen that does not have a soul. He gives life by giving the souls back to the worn out bodies on the resurrection day and He makes the hearts alive by the light of knowledge."
+          }
+        ]
+      },
+      {
+        "name_align": 61,
+        "detail": [
+          {
+            "name_no": 61,
+            "arbi": "اَلْمُمِيتُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Inflictor of Death",
+            "english_explain": "The Creator of Death, The Destroyer, The One who renders the living dead."
+          }
+        ]
+      },
+      {
+        "name_align": 62,
+        "detail": [
+          {
+            "name_no": 62,
+            "arbi": "الْحَيُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Eternally Living One",
+            "english_explain": "The Alive, The One attributed with a life that is unlike our life and is not that of a combination of soul, flesh or blood."
+          }
+        ]
+      },
+      {
+        "name_align": 63,
+        "detail": [
+          {
+            "name_no": 63,
+            "arbi": "الْقَيُّومُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Self-Subsisting One",
+            "english_explain": "The One who remains and does not end."
+          }
+        ]
+      },
+      {
+        "name_align": 64,
+        "detail": [
+          {
+            "name_no": 64,
+            "arbi": "الْوَاجِدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Pointing One",
+            "english_explain": "The Perceiver, The Finder, The Rich who is never poor. Al-Wajd is Richness."
+          }
+        ]
+      },
+      {
+        "name_align": 65,
+        "detail": [
+          {
+            "name_no": 65,
+            "arbi": "الْمَاجِدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All-Noble One",
+            "english_explain": "The Glorious, He who is Most Glorious."
+          }
+        ]
+      },
+      {
+        "name_align": 66,
+        "detail": [
+          {
+            "name_no": 66,
+            "arbi": "الْواحِدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Only One",
+            "english_explain": "The Unique, The One, The One without a partner."
+          }
+        ]
+      },
+      {
+        "name_align": 67,
+        "detail": [
+          {
+            "name_no": 67,
+            "arbi": "اَلاَحَدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Sole One",
+            "english_explain": "The One"
+          }
+        ]
+      },
+      {
+        "name_align": 68,
+        "detail": [
+          {
+            "name_no": 68,
+            "arbi": "الصَّمَدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Supreme Provider",
+            "english_explain": "The Eternal, The Independent, The Master who is relied upon in matters and reverted to in ones needs."
+          }
+        ]
+      },
+      {
+        "name_align": 69,
+        "detail": [
+          {
+            "name_no": 69,
+            "arbi": "الْقَادِرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Omnipotent One",
+            "english_explain": "The Able, The Capable, The One attributed with Power."
+          }
+        ]
+      },
+      {
+        "name_align": 70,
+        "detail": [
+          {
+            "name_no": 70,
+            "arbi": "الْمُقْتَدِرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The All Authoritative One",
+            "english_explain": "The Powerful, The Dominant, The One with the perfect Power that nothing is withheld from Him."
+          }
+        ]
+      },
+      {
+        "name_align": 71,
+        "detail": [
+          {
+            "name_no": 71,
+            "arbi": "الْمُقَدِّمُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Expediting One",
+            "english_explain": "The Expediter, The Promoter, The One who puts things in their right places. He makes ahead what He wills and delays what He wills."
+          }
+        ]
+      },
+      {
+        "name_align": 72,
+        "detail": [
+          {
+            "name_no": 72,
+            "arbi": "الْمُؤَخِّرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Procrastinator",
+            "english_explain": "The Delayer, the Retarder, The One who puts things in their right places. He makes ahead what He wills and delays what He wills."
+          }
+        ]
+      },
+      {
+        "name_align": 73,
+        "detail": [
+          {
+            "name_no": 73,
+            "arbi": "الأوَّلُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Very First",
+            "english_explain": "The First, The One whose Existence is without a beginning."
+          }
+        ]
+      },
+      {
+        "name_align": 74,
+        "detail": [
+          {
+            "name_no": 74,
+            "arbi": "الآخِرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Infinite Last One",
+            "english_explain": "The Last, The One whose Existence is without an end."
+          }
+        ]
+      },
+      {
+        "name_align": 75,
+        "detail": [
+          {
+            "name_no": 75,
+            "arbi": "الظَّاهِرُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Perceptible",
+            "english_explain": "The Manifest, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies."
+          }
+        ]
+      },
+      {
+        "name_align": 76,
+        "detail": [
+          {
+            "name_no": 76,
+            "arbi": "الْبَاطِنُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Imperceptible",
+            "english_explain": "The Hidden, The One that nothing is above Him and nothing is underneath Him, hence He exists without a place. He, The Exalted, His Existence is obvious by proofs and He is clear from the delusions of attributes of bodies."
+          }
+        ]
+      },
+      {
+        "name_align": 77,
+        "detail": [
+          {
+            "name_no": 77,
+            "arbi": "الْوَالِي",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Holder of Supreme Authority",
+            "english_explain": "The Governor, The One who owns things and manages them."
+          }
+        ]
+      },
+      {
+        "name_align": 78,
+        "detail": [
+          {
+            "name_no": 78,
+            "arbi": "الْمُتَعَالِي",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Extremely Exalted One",
+            "english_explain": "The Most Exalted, The High Exalted, The One who is clear from the attributes of the creation."
+          }
+        ]
+      },
+      {
+        "name_align": 79,
+        "detail": [
+          {
+            "name_no": 79,
+            "arbi": "الْبَرُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Fountain-Head of Truth	",
+            "english_explain": "The Source of All Goodness, The Righteous, The One who is kind to His creatures, who covered them with His sustenance and specified whoever He willed among them by His support, protection, and special mercy."
+          }
+        ]
+      },
+      {
+        "name_align": 80,
+        "detail": [
+          {
+            "name_no": 80,
+            "arbi": "التَّوَابُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Ever-Acceptor of Repentance",
+            "english_explain": "The Relenting, The One who grants repentance to whoever He willed among His creatures and accepts his repentance."
+          }
+        ]
+      },
+      {
+        "name_align": 81,
+        "detail": [
+          {
+            "name_no": 81,
+            "arbi": "الْمُنْتَقِمُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Retaliator",
+            "english_explain": "The Avenger, The One who victoriously prevails over His enemies and punishes them for their sins. It may mean the One who destroys them."
+          }
+        ]
+      },
+      {
+        "name_align": 82,
+        "detail": [
+          {
+            "name_no": 82,
+            "arbi": "العَفُوُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Supreme Pardoner",
+            "english_explain": "The Forgiver, The One with wide forgiveness."
+          }
+        ]
+      },
+      {
+        "name_align": 83,
+        "detail": [
+          {
+            "name_no": 83,
+            "arbi": "الرَّؤُوفُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Benign One",
+            "english_explain": "The Compassionate, The One with extreme Mercy. The Mercy of Allah is His will to endow upon whoever He willed among His creatures."
+          }
+        ]
+      },
+      {
+        "name_align": 84,
+        "detail": [
+          {
+            "name_no": 84,
+            "arbi": "مَالِكُ الْمُلْكِ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Eternal Possessor of Sovereignty",
+            "english_explain": "The One who controls the Dominion and gives dominion to whoever He willed."
+          }
+        ]
+      },
+      {
+        "name_align": 85,
+        "detail": [
+          {
+            "name_no": 85,
+            "arbi": "ذُوالْجَلاَلِ وَالإكْرَامِ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Possessor of Majesty and Honour",
+            "english_explain": "The Lord of Majesty and Bounty, The One who deserves to be Exalted and not denied."
+          }
+        ]
+      },
+      {
+        "name_align": 86,
+        "detail": [
+          {
+            "name_no": 86,
+            "arbi": "الْمُقْسِطُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Just One",
+            "english_explain": "The Equitable, The One who is Just in His judgment."
+          }
+        ]
+      },
+      {
+        "name_align": 87,
+        "detail": [
+          {
+            "name_no": 87,
+            "arbi": "الْجَامِعُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Assembler of Scattered Creations",
+            "english_explain": "The Gatherer, The One who gathers the creatures on a day that there is no doubt about, that is the Day of Judgment."
+          }
+        ]
+      },
+      {
+        "name_align": 88,
+        "detail": [
+          {
+            "name_no": 88,
+            "arbi": "الْغَنِيُّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Self-Sufficient One",
+            "english_explain": "The One who does not need the creation."
+          }
+        ]
+      },
+      {
+        "name_align": 89,
+        "detail": [
+          {
+            "name_no": 89,
+            "arbi": "الْمُغْنِي",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Bestower of Sufficiency",
+            "english_explain": "The En richer, The One who satisfies the necessities of the creatures."
+          }
+        ]
+      },
+      {
+        "name_align": 90,
+        "detail": [
+          {
+            "name_no": 90,
+            "arbi": "اَلْمَانِعُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Preventer",
+            "english_explain": "The With holder."
+          }
+        ]
+      },
+      {
+        "name_align": 91,
+        "detail": [
+          {
+            "name_no": 91,
+            "arbi": "الضَّارَّ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Distressor",
+            "english_explain": "The One who makes harm reach to whoever He willed and benefit to whoever He willed."
+          }
+        ]
+      },
+      {
+        "name_align": 92,
+        "detail": [
+          {
+            "name_no": 92,
+            "arbi": "النَّافِعُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Bestower of Benefits",
+            "english_explain": "The Propitious, The One who makes harm reach to whoever He willed and benefit to whoever He willed."
+          }
+        ]
+      },
+      {
+        "name_align": 93,
+        "detail": [
+          {
+            "name_no": 93,
+            "arbi": "النُّورُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Prime Light",
+            "english_explain": "The Light, The One who guides."
+          }
+        ]
+      },
+      {
+        "name_align": 94,
+        "detail": [
+          {
+            "name_no": 94,
+            "arbi": "الْهَادِي",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Provider of Guidance",
+            "english_explain": "The Guide, The One whom with His Guidance His believers were guided, and with His Guidance the living beings have been guided to what is beneficial for them and protected from what is harmful to them."
+          }
+        ]
+      },
+      {
+        "name_align": 95,
+        "detail": [
+          {
+            "name_no": 95,
+            "arbi": "الْبَدِيعُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Unique One",
+            "english_explain": "The Incomparable, The One who created the creation and formed it without any preceding example."
+          }
+        ]
+      },
+      {
+        "name_align": 96,
+        "detail": [
+          {
+            "name_no": 96,
+            "arbi": "اَلْبَاقِي",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Ever Surviving One	",
+            "english_explain": "The Everlasting, The One that the state of non-existence is impossible for Him."
+          }
+        ]
+      },
+      {
+        "name_align": 97,
+        "detail": [
+          {
+            "name_no": 97,
+            "arbi": "الْوَارِثُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Eternal Inheritor",
+            "english_explain": "The Heir, The One whose Existence remains."
+          }
+        ]
+      },
+      {
+        "name_align": 98,
+        "detail": [
+          {
+            "name_no": 98,
+            "arbi": "الرَّشِيدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Guide to Path of Rectitude",
+            "english_explain": "The Guide to the Right Path, The One who guides."
+          }
+        ]
+      },
+
+      {
+        "name_align": 99,
+        "detail": [
+          {
+            "name_no": 99,
+            "arbi": "الرَّشِيدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Guide to Path of Rectitude",
+            "english_explain": "The Guide to the Right Path, The One who guides."
+          }
+        ]
+      },
+      {
+        "name_align": 99,
+        "detail": [
+          {
+            "name_no": 99,
+            "arbi": "الرَّشِيدُ",
+            "urdu_mean": "",
+            "urdu_wazahat": "",
+            "english_mean": "The Guide to Path of Rectitude",
+            "english_explain": "The Guide to the Right Path, The One who guides."
+          }
+        ]
+      }
+
+    ]
+  },
+  {
+    "names_of" : "MUHAMMAD(S.A.W)",
+    "detail" : [
+
+      {
+        "name_align" : 1,
+        "detail" : [
+          {
+            "name_no" : 1,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 2,
+        "detail" : [
+          {
+            "name_no" : 2,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 3,
+        "detail" : [
+          {
+            "name_no" : 3,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 4,
+        "detail" : [
+          {
+            "name_no" : 4,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 5,
+        "detail" : [
+          {
+            "name_no" : 5,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 6,
+        "detail" : [
+          {
+            "name_no" : 6,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 7,
+        "detail" : [
+          {
+            "name_no" : 7,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 8,
+        "detail" : [
+          {
+            "name_no" : 8,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 9,
+        "detail" : [
+          {
+            "name_no" : 9,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 10,
+        "detail" : [
+          {
+            "name_no" : 10,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 11,
+        "detail" : [
+          {
+            "name_no" : 11,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 12,
+        "detail" : [
+          {
+            "name_no" : 12,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 13,
+        "detail" : [
+          {
+            "name_no" : 13,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 14,
+        "detail" : [
+          {
+            "name_no" : 14,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 15,
+        "detail" : [
+          {
+            "name_no" : 15,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 16,
+        "detail" : [
+          {
+            "name_no" : 16,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 17,
+        "detail" : [
+          {
+            "name_no" : 17,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 18,
+        "detail" : [
+          {
+            "name_no" : 18,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 19,
+        "detail" : [
+          {
+            "name_no" : 19,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 20,
+        "detail" : [
+          {
+            "name_no" : 20,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 21,
+        "detail" : [
+          {
+            "name_no" : 21,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 22,
+        "detail" : [
+          {
+            "name_no" : 22,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 23,
+        "detail" : [
+          {
+            "name_no" : 23,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 24,
+        "detail" : [
+          {
+            "name_no" : 24,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 25,
+        "detail" : [
+          {
+            "name_no" : 25,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 26,
+        "detail" : [
+          {
+            "name_no" : 26,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 27,
+        "detail" : [
+          {
+            "name_no" : 27,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 28,
+        "detail" : [
+          {
+            "name_no" : 28,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 29,
+        "detail" : [
+          {
+            "name_no" : 29,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 30,
+        "detail" : [
+          {
+            "name_no" : 30,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 31,
+        "detail" : [
+          {
+            "name_no" : 31,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 32,
+        "detail" : [
+          {
+            "name_no" : 32,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 33,
+        "detail" : [
+          {
+            "name_no" : 33,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 34,
+        "detail" : [
+          {
+            "name_no" : 34,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 35,
+        "detail" : [
+          {
+            "name_no" : 35,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 36,
+        "detail" : [
+          {
+            "name_no" : 36,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 37,
+        "detail" : [
+          {
+            "name_no" : 37,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 38,
+        "detail" : [
+          {
+            "name_no" : 38,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 39,
+        "detail" : [
+          {
+            "name_no" : 39,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 40,
+        "detail" : [
+          {
+            "name_no" : 40,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 41,
+        "detail" : [
+          {
+            "name_no" : 41,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 42,
+        "detail" : [
+          {
+            "name_no" : 42,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 43,
+        "detail" : [
+          {
+            "name_no" : 43,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 44,
+        "detail" : [
+          {
+            "name_no" : 44,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 45,
+        "detail" : [
+          {
+            "name_no" : 45,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 46,
+        "detail" : [
+          {
+            "name_no" : 46,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 47,
+        "detail" : [
+          {
+            "name_no" : 47,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 48,
+        "detail" : [
+          {
+            "name_no" : 48,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 49,
+        "detail" : [
+          {
+            "name_no" : 49,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 50,
+        "detail" : [
+          {
+            "name_no" : 50,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 51,
+        "detail" : [
+          {
+            "name_no" : 51,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 52,
+        "detail" : [
+          {
+            "name_no" : 52,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 53,
+        "detail" : [
+          {
+            "name_no" : 53,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 55,
+        "detail" : [
+          {
+            "name_no" : 55,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 56,
+        "detail" : [
+          {
+            "name_no" : 56,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 57,
+        "detail" : [
+          {
+            "name_no" : 57,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 58,
+        "detail" : [
+          {
+            "name_no" : 58,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 59,
+        "detail" : [
+          {
+            "name_no" : 59,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 60,
+        "detail" : [
+          {
+            "name_no" : 60,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 61,
+        "detail" : [
+          {
+            "name_no" : 61,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 62,
+        "detail" : [
+          {
+            "name_no" : 62,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 63,
+        "detail" : [
+          {
+            "name_no" : 63,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 64,
+        "detail" : [
+          {
+            "name_no" : 64,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 65,
+        "detail" : [
+          {
+            "name_no" : 65,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 66,
+        "detail" : [
+          {
+            "name_no" : 66,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 67,
+        "detail" : [
+          {
+            "name_no" : 67,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 68,
+        "detail" : [
+          {
+            "name_no" : 68,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 69,
+        "detail" : [
+          {
+            "name_no" : 69,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 70,
+        "detail" : [
+          {
+            "name_no" : 70,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 71,
+        "detail" : [
+          {
+            "name_no" : 71,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 72,
+        "detail" : [
+          {
+            "name_no" : 72,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 73,
+        "detail" : [
+          {
+            "name_no" : 73,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 74,
+        "detail" : [
+          {
+            "name_no" : 74,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 75,
+        "detail" : [
+          {
+            "name_no" : 75,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 76,
+        "detail" : [
+          {
+            "name_no" : 76,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 77,
+        "detail" : [
+          {
+            "name_no" : 77,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 78,
+        "detail" : [
+          {
+            "name_no" : 78,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 79,
+        "detail" : [
+          {
+            "name_no" : 79,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 80,
+        "detail" : [
+          {
+            "name_no" : 80,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 81,
+        "detail" : [
+          {
+            "name_no" : 81,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 82,
+        "detail" : [
+          {
+            "name_no" : 82,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 83,
+        "detail" : [
+          {
+            "name_no" : 83,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 84,
+        "detail" : [
+          {
+            "name_no" : 84,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 85,
+        "detail" : [
+          {
+            "name_no" : 85,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 86,
+        "detail" : [
+          {
+            "name_no" : 86,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 87,
+        "detail" : [
+          {
+            "name_no" : 87,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 88,
+        "detail" : [
+          {
+            "name_no" : 88,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 89,
+        "detail" : [
+          {
+            "name_no" : 89,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 90,
+        "detail" : [
+          {
+            "name_no" : 90,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 91,
+        "detail" : [
+          {
+            "name_no" : 91,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 92,
+        "detail" : [
+          {
+            "name_no" : 92,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 93,
+        "detail" : [
+          {
+            "name_no" : 93,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 94,
+        "detail" : [
+          {
+            "name_no" : 94,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 95,
+        "detail" : [
+          {
+            "name_no" : 95,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 96,
+        "detail" : [
+          {
+            "name_no" : 96,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 97,
+        "detail" : [
+          {
+            "name_no" : 97,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 98,
+        "detail" : [
+          {
+            "name_no" : 98,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align" : 99,
+        "detail" : [
+          {
+            "name_no" : 99,
+            "arbi" : "",
+            "urdu_mean" : "",
+            "urdu_faida" : "",
+            "english_mean" : "",
+            "english_benefit" : ""
+          }
+        ]
+      },
+
+      {
+        "name_align": 99,
+        "detail": [
+          {
+            "name_no": 99,
+            "arbi": "",
+            "urdu_mean": "",
+            "urdu_faida": "",
+            "english_mean": "",
+            "english_benefit": ""
+          }
+        ]
+      }
+
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "surah_no" : 108,
+    "total_ayah" : 3,
+    "name" : "Surah e AL-Kausar",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَ",
+        "Urdu" : "بے شک ہم نے عطا کی آپ کو کوثر",
+        "English" : "Indeed, We have given you (Prophet Muhammad) the abundance (Al Kawthar: river, its pool and springs)."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+        "Urdu" : "تو آپ نماز پڑھیں اپنے رب کیلئے اور قربانی کریں",
+        "English" : "So offer the prayers for your Lord, and perform the sacrifice."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ",
+        "Urdu" : "بے شک آپ کا دشمن ہی لا ولد (بے نام ونان ) رہے گا",
+        "English" : "It is surely your opponents whose line will come to end."
+      }
+    ]
+  }
+]

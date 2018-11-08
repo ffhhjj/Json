@@ -1,0 +1,610 @@
+[
+  {
+    "surah_no" : 15,
+    "total_ayah" : 99,
+    "name" : "Surah e Hijar",
+    "detail" : [
+
+      {
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "شروع اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "الۗرٰ    ۣ تِلْكَ اٰيٰتُ الْكِتٰبِ وَقُرْاٰنٍ مُّبِيْنٍ",
+        "Urdu" : "الرا ، یہ آیات ہیں کتاب کی اور واضح قران کی",
+        "English" : "Alif. Lam. Ra. These are verses of the Scripture and a plain Reading."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "رُبَمَا يَوَدُّ الَّذِيْنَ كَفَرُوْا لَوْ كَانُوْا مُسْلِمِيْنَ",
+        "Urdu" : "کسی وقت چاہیں گے وہ لوگ جنہوں نے کفر کیا کاش ! وہ ہوتے مسلمان ۔",
+        "English" : "On many occasions, the disbelievers will wish that they were Muslims."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "ذَرْهُمْ يَاْكُلُوْا وَيَتَمَتَّعُوْا وَيُلْهِهِمُ الْاَمَلُ فَسَوْفَ يَعْلَمُوْنَ",
+        "Urdu" : "آپ چھوڑدیں انہیں وہ دکھائیں اور فائدہ اٹھائیں اور غفلت میں ڈالے رکھے انہیں امید پھر جلد وہ جان لیں گے",
+        "English" : "Leave them thou to eat and to enjoy, and let vain hope divert them; presently they will know."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "وَمَآ اَهْلَكْنَا مِنْ قَرْيَةٍ اِلَّا وَلَهَا كِتَابٌ مَّعْلُوْمٌ",
+        "Urdu" : "اور نہیں ہم نے ہلاک کیا کسی بستی کو مگر اس حال میں کہ اس کے لیے لکھا ہوا مقرر وقت تھا",
+        "English" : "We did not destroy any town without having a pre-determined time for it."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "مَا تَسْبِقُ مِنْ اُمَّةٍ اَجَلَهَا وَمَا يَسْتَاْخِرُوْنَ",
+        "Urdu" : "نہیں آگے نکل سکتی کوئی امت اپنے مقرر وقت سے اور نہ وہ پیچھے رہتے ہیں",
+        "English" : "No community precede the term thereof nor doth it fall behind."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "وَقَالُوْا يٰٓاَيُّھَا الَّذِيْ نُزِّلَ عَلَيْهِ الذِّكْرُ اِنَّكَ لَمَجْنُوْنٌ",
+        "Urdu" : "اور انہوں نے کہا: اے (وہ شخص) جو کہ نازل کی گئی اس پر نصیحت! بے شک تو یقینا دیوانہ ہے",
+        "English" : "They say, :O you to whom the Dhikr (the Qur‘an) has been revealed, you are surely insane."
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : "لَوْ مَا تَاْتِيْنَا بِالْمَلٰۗىِٕكَةِ اِنْ كُنْتَ مِنَ الصّٰدِقِيْنَ",
+        "Urdu" : "کیوں نہیں لے آتے آپ ہمارے پاس فرشتوں کو اگر ہیں آپ سچوں میں سے",
+        "English" : "Why do you not bring angels to us if you are of the truthful ones ?"
+      },
+      {
+        "ayet_no" : 8,
+        "arbi" : "مَا نُنَزِّلُ الْمَلٰۗىِٕكَةَ اِلَّا بِالْحَقِّ وَمَا كَانُوْٓا اِذًا مُّنْظَرِيْنَ",
+        "Urdu" : "نہیں ہم اتارتے فرشتوں کو مگر حق کے ساتھ اور نہیں ہوں گے وہ اس وقت مہلت دیے جانیوالے",
+        "English" : "We do not send down the angels except with truth, and then they shall be given no respite."
+      },
+      {
+        "ayet_no" : 9,
+        "arbi" : "اِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَاِنَّا لَهٗ لَحٰفِظُوْنَ",
+        "Urdu" : "بے شک ہم نے ہی نازل کی ہے (یہ) نصیحت اور بیشک ہم اس کی ضرور حفاظت کرنیوالے ہیں",
+        "English" : "We, Ourselves, have sent down the Dhikr (the Qur‘an), and We are there to protect it."
+      },
+      {
+        "ayet_no" : 10,
+        "arbi" : "وَلَقَدْ اَرْسَلْنَا مِنْ قَبْلِكَ فِيْ شِيَعِ الْاَوَّلِيْنَ",
+        "Urdu" : "اور بلاشبہ یقینا ہم نے رسول بھیجے آپ سے پہلے لوگوں کے گروہوں میں",
+        "English" : "We did send the messengers before you among the groups of earlier peoples."
+      },
+      {
+        "ayet_no" : 11,
+        "arbi" : "وَمَا يَاْتِيْهِمْ مِّنْ رَّسُوْلٍ اِلَّا كَانُوْا بِهٖ يَسْتَهْزِءُوْنَ",
+        "Urdu" : "اور نہیں آتا ان کے پاس کوئی رسول مگر (یہ کہ) وہ تھے اس کے ساتھ مذاق کرتے",
+        "English" : "And not an apostle came unto them but at him they were wont to mock."
+      },
+      {
+        "ayet_no" : 12,
+        "arbi" : "كَذٰلِكَ نَسْلُكُهٗ فِيْ قُلُوْبِ الْمُجْرِمِيْنَ",
+        "Urdu" : "اسی طرح ہم چلاتے داخل کرتے ہیں اس استہزاءکو مجرموں کے دلوں میں",
+        "English" : "Even so we make a way for it in the hearts of the culprits."
+      },
+      {
+        "ayet_no" : 13,
+        "arbi" : "لَا يُؤْمِنُوْنَ بِهٖ وَقَدْ خَلَتْ سُـنَّةُ الْاَوَّلِيْنَ",
+        "Urdu" : "نہیں وہ ایمان لاتے اس پر، حالانکہ یقینا گزر چکا ہے پہلے لوگوں کا (یہ) طریقہ",
+        "English" : "They believe not therein, and already the example of the ancients hath gone forth."
+      },
+      {
+        "ayet_no" : 14,
+        "arbi" : "وَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِّنَ السَّمَاۗءِ فَظَلُّوْا فِيْهِ يَعْرُجُوْنَ",
+        "Urdu" : "اور اگر ہم کھول دیں ان پر کوئی دروازہ آسمان سے تو وہ اس میں چڑھنے لگیں",
+        "English" : "And if We opened upon them a door of the heaven, and they passed the day mounting there to."
+      },
+      {
+        "ayet_no" : 15,
+        "arbi" : "لَقَالُوْٓا اِنَّمَا سُكِّرَتْ اَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُوْرُوْنَ",
+        "Urdu" : "(پھر بھی) یقینا کہتے درحقیقت بند کردی گئیں ہیں ہماری انکھیں بلکہ ہم جادو کیے ہوئے لوگ ہیں",
+        "English" : "They would surely say: intoxicated have been our sights; aye! we are a people enchanted."
+      },
+      {
+        "ayet_no" : 16,
+        "arbi" : "وَلَقَدْ جَعَلْنَا فِي السَّمَاۗءِ بُرُوْجًا وَّزَيَّنّٰهَا لِلنّٰظِرِيْنَ",
+        "Urdu" : "اور بلاشبہ یقینا ہم نے بنائے آسمان میں برج اور ہم نے مزین کردیاا سے دیکھنے والوں کے لیے",
+        "English" : "And assuredly We have set constellations in the heaven and made it fair seeming unto the beholders"
+      },
+      {
+        "ayet_no" : 17,
+        "arbi" : "وَحَفِظْنٰهَا مِنْ كُلِّ شَيْطٰنٍ رَّجِيْمٍ",
+        "Urdu" : "اور ہم نے محفوظ کردیا اسے ہر شیطان مردود سے",
+        "English" : "And We have guarded it from every Satan damned."
+      },
+      {
+        "ayet_no" : 18,
+        "arbi" : "اِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَاَتْبَعَهٗ شِهَابٌ مُّبِيْنٌ",
+        "Urdu" : "مگر جو چوری چھپے سن بھاگے تو پیچھا کرتا ہے اس کا ایک روشن شعلہ",
+        "English" : "Save him who steal the hearing, and him there follow a flame gleaming."
+      },
+      {
+        "ayet_no" : 19,
+        "arbi" : "وَالْاَرْضَ مَدَدْنٰهَا وَاَلْقَيْنَا فِيْهَا رَوَاسِيَ وَاَنْۢبَتْنَا فِيْهَا مِنْ كُلِّ شَيْءٍ مَّوْزُوْنٍ",
+        "Urdu" : "اور زمین ہم نے پھیلادیا اسے اور ہم نے ڈال (گاڑ) دیے اس میں پہاڑ اور ہم نے اگائی اس میں ہر چیز سے مناسب مقدار",
+        "English" : "And the earth! We have stretched it out and have cast thereon mountains firm, and We have caused to spring up thereon everything weighed."
+      },
+      {
+        "ayet_no" : 20,
+        "arbi" : "وَجَعَلْنَا لَكُمْ فِيْهَا مَعَايِشَ وَمَنْ لَّسْتُمْ لَهٗ بِرٰزِقِيْنَ",
+        "Urdu" : "اور ہم نے بنائے تمہارے لیے اس میں روزی کے سامان اور(ان کے لیے بھی) جنہیں نہیں تم اس کو روزی دینے والے",
+        "English" : "And We have appointed thereon for you livelihoods and also for those of whom ye are not the providers."
+      },
+      {
+        "ayet_no" : 21,
+        "arbi" : "وَاِنْ مِّنْ شَيْءٍ اِلَّا عِنْدَنَا خَزَاۗىِٕنُهٗ  ۡ وَمَا نُنَزِّلُهٗٓ اِلَّا بِقَدَرٍ مَّعْلُوْمٍ",
+        "Urdu" : "اور نہیں ہے کوئی چیز مگر ہمارے پاس اس کے خزانے ہیں اور نہیں ہم اتارتے اسے مگر ایک معلوم اندازے سے",
+        "English" : "We have treasures of every thing, but We send it down only in a determined quantity."
+      },
+      {
+        "ayet_no" : 22,
+        "arbi" : "وَاَرْسَلْنَا الرِّيٰحَ لَوَاقِحَ فَاَنْزَلْنَا مِنَ السَّمَاۗءِ مَاۗءً فَاَسْقَيْنٰكُمُوْهُ ۚ وَمَآ اَنْتُمْ لَهٗ بِخٰزِنِيْنَ",
+        "Urdu" : "اور ہم نے بھیجا ہواؤ ں کو بوجھل بناکر پھر ہم نے اتارا آسمان سے پانی پس ہم نے پلایا تمہیں وہ اور نہیں تم اس کو ہرگز ذخیرہ کرنے والے",
+        "English" : "And We send the winds fertilizing, then We send down water from the heaven and We give it to you to drink, and thereof ye could not be the treasurers."
+      },
+      {
+        "ayet_no" : 23,
+        "arbi" : "وَاِنَّا لَنَحْنُ نُـحْيٖ وَنُمِيْتُ وَنَحْنُ الْوٰرِثُوْنَ",
+        "Urdu" : "اور بے شک ہم یقینا ہم ہی زندہ کرتے اور مارتے ہیں اور ہم ہی وارث ہیں",
+        "English" : "And verily We! it is We who give life and death, and We shall be the survivors."
+      },
+      {
+        "ayet_no" : 24,
+        "arbi" : "وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِيْنَ مِنْكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَاْخِرِيْنَ",
+        "Urdu" : "اور بلاشبہ یقینا ہم نے جان لیا ہے پہلے گزر چکنے والوں کو تم میں سے اور بلاشبہ یقینا ہم نے جا ن لیا ہے پیچھے آنے والوں کو بھی ۔",
+        "English" : "We know those of you who went ahead, and We know those who remained late."
+      },
+      {
+        "ayet_no" : 25,
+        "arbi" : "وَاِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْ ۭ اِنَّهٗ حَكِيْمٌ عَلِيْمٌ",
+        "Urdu" : "اور بے شک آپ کا رب وہی اکٹھا کرے گا انہیں بیشک وہ بڑی حکمت والا، خوب علم والا ہے",
+        "English" : "Surely, your Lord will gather all of them together. Indeed He is All-Wise, All-Knowing."
+      },
+      {
+        "ayet_no" : 26,
+        "arbi" : "وَلَقَدْ خَلَقْنَا الْاِنْسَانَ مِنْ صَلْصَالٍ مِّنْ حَمَاٍ مَّسْنُوْنٍ",
+        "Urdu" : "اور بلاشبہ یقینا ہم نے پیدا کیا انسان کو بجنے والی مٹی سے (یعنی) سڑے ہوئے گارے سے",
+        "English" : "And assuredly We have created human being from ringing clay of loam moulded."
+      },
+      {
+        "ayet_no" : 27,
+        "arbi" : "وَالْجَاۗنَّ خَلَقْنٰهُ مِنْ قَبْلُ مِنْ نَّارِ السَّمُوْمِ",
+        "Urdu" : "اور جن کو ہم نے پیدا کیا اسے اس سے پہلے سخت حرارت والی آگ سے",
+        "English" : "And We created jinn before this from a smokeless blazing fire."
+      },
+      {
+        "ayet_no" : 28,
+        "arbi" : "وَاِذْ قَالَ رَبُّكَ لِلْمَلٰۗىِٕكَةِ اِنِّىْ خَالِقٌۢ بَشَرًا مِّنْ صَلْصَالٍ مِّنْ حَمَاٍ مَّسْنُوْنٍ",
+        "Urdu" : "اور جب کہا آ پ کے رب نے فرشتوں سے بے شک میں پیدا کرنے والا ہوں ایک انسان بجنے والی مٹی سے (یعنی) سڑے ہوئے گارے سے",
+        "English" : "Recall when your Lord said to the angels, :I am going to create a human being from a ringing clay made of decayed mud."
+      },
+      {
+        "ayet_no" : 29,
+        "arbi" : "فَاِذَا سَوَّيْتُهٗ وَنَفَخْتُ فِيْهِ مِنْ رُّوْحِيْ فَقَعُوْا لَهٗ سٰجِدِيْنَ",
+        "Urdu" : "تو جب میں بنالوں اسے اور میں پھونک دوں اس میں اپنی روح سے، تو تم گرپڑنا اس کے لیے سجدہ کرتے ہوئے",
+        "English" : "When I form him perfect, and blow in him of My spirit, then you must fall down before him in prostration."
+      },
+      {
+        "ayet_no" : 30,
+        "arbi" : "فَسَجَدَ الْمَلٰۗىِٕكَةُ كُلُّهُمْ اَجْمَعُوْنَ",
+        "Urdu" : "تو سجدے میں گر پڑے فرشتے وہ سب تمام کے تمام",
+        "English" : "So the angels prostrated themselves, all of them together."
+      },
+      {
+        "ayet_no" : 31,
+        "arbi" : "اِلَّآ اِبْلِيْسَ ۭ اَبٰٓى اَنْ يَّكُوْنَ مَعَ السّٰجِدِيْنَ",
+        "Urdu" : "سوائے ابلیس کے لیے ، اس نے انکار کیا (اس سے) کہ وہ ہو سجدہ کرنے والوں کے ساتھ",
+        "English" : "But Iblis ( Satan ) did not; he refused to be with the prostrates."
+      },
+      {
+        "ayet_no" : 32,
+        "arbi" : "قَالَ يٰٓـاِبْلِيْسُ مَا لَكَ اَلَّا تَكُوْنَ مَعَ السّٰجِدِيْنَ",
+        "Urdu" : "کہا (اللہ نے) اے ابلیس! کیا ہے تجھے کہ نہیں ہوا تو سجدہ کرنے والوں کے ساتھ",
+        "English" : "He (Allah) said, :O Iblis, what is the matter with you that you did not join those who prostrated ?"
+      },
+      {
+        "ayet_no" : 33,
+        "arbi" : "قَالَ لَمْ اَكُنْ لِّاَسْجُدَ لِبَشَرٍ خَلَقْتَهٗ مِنْ صَلْصَالٍ مِّنْ حَمَاٍ مَّسْنُوْنٍ",
+        "Urdu" : "کہا (ابلیس نے) نہیں ہوں میں (ایسا) کہ میں سجدہ کروں کسی انسان کو تونے پیدا کیا اسے ایک بجنے والی مٹی سے (جو) کالے سڑے ہوئے گارے سے ہے",
+        "English" : "He said, :I am not such that I should prostrate myself before a mortal whom You have created from a ringing clay made of decayed mud."
+      },
+      {
+        "ayet_no" : 34,
+        "arbi" : "قَالَ فَاخْرُجْ مِنْهَا فَاِنَّكَ رَجِيْمٌ",
+        "Urdu" : "کہا (اللہ نے) پس تو نکل جا اس سے بے شک تو مردود ہے",
+        "English" : "Allah said: then get thee forth therefrom; verily thou art one damned."
+      },
+      {
+        "ayet_no" : 35,
+        "arbi" : "وَّاِنَّ عَلَيْكَ اللَّعْنَةَ اِلٰى يَوْمِ الدِّيْنِ",
+        "Urdu" : "اور بے شک تجھ پر لعنت ہے قیامت کے دن تک",
+        "English" : "And verily on thee shall be the curse till the Day of Requital."
+      },
+      {
+        "ayet_no" : 36,
+        "arbi" : "قَالَ رَبِّ فَاَنْظِرْنِيْٓ اِلٰى يَوْمِ يُبْعَثُوْنَ",
+        "Urdu" : "کہا (ابلیس نے) اے میرے رب پھر مہلت دے مجھے (اس) دن تک (کہ جب) وہ اٹھائے جائیں گے",
+        "English" : "He said, :My Lord, then give me respite up to the day they (the dead) shall be raised."
+      },
+      {
+        "ayet_no" : 37,
+        "arbi" : "قَالَ فَاِنَّكَ مِنَ الْمُنْظَرِيْنَ",
+        "Urdu" : "فرمایا (اللہ نے) تو بے شک تو مہلت دیے جانے والوں میں سے ہے",
+        "English" : "He (Allah) said, :Well, respite is given to you"
+      },
+      {
+        "ayet_no" : 38,
+        "arbi" : "اِلٰى يَوْمِ الْوَقْتِ الْمَعْلُوْمِ",
+        "Urdu" : "مقرر وقت کے دن (یعنی قیامت )تک ۔",
+        "English" : "Till the Day of the Time known."
+      },
+      {
+        "ayet_no" : 39,
+        "arbi" : "قَالَ رَبِّ بِمَآ اَغْوَيْتَنِيْ لَاُزَيِّنَنَّ لَهُمْ فِي الْاَرْضِ وَلَاُغْوِيَنَّهُمْ اَجْمَعِيْنَ",
+        "Urdu" : "کہا (ابلیس نے) اے میرے رب اس وجہ سے جو تونے گمراہ کیا ہے مجھے ضرور بالضرور میں مزین کرونگا ان کے لے زمین میں اور ضرور بالضرور میں گمراہ کروں گا ان سب کو",
+        "English" : "He said: my Lord! because Thou hast led me to err I will surely make things fair seeming unto them on the earth and will surely seduce them all:"
+      },
+      {
+        "ayet_no" : 40,
+        "arbi" : "اِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَصِيْنَ",
+        "Urdu" : "سوائے تیرے ان بندوں کے ان میں سے (جو) خالص کیے ہوئے ہیں",
+        "English" : "But not such of them as are Thy bondmen single-hearted."
+      },
+      {
+        "ayet_no" : 41,
+        "arbi" : "قَالَ ھٰذَا صِرَاطٌ عَلَيَّ مُسْتَــقِيْمٌ",
+        "Urdu" : "فرمایا اللہ نے یہی راستہ ہے جو مجھ تک پہنچتا ہے سیدھا",
+        "English" : "Allah said: this is the path leading unto Me straight."
+      },
+      {
+        "ayet_no" : 42,
+        "arbi" : "اِنَّ عِبَادِيْ لَيْسَ لَكَ عَلَيْهِمْ سُلْطٰنٌ اِلَّا مَنِ اتَّبَعَكَ مِنَ الْغٰوِيْنَ",
+        "Urdu" : "بے شک میرے بندے نہیں تیرا ان پر کوئی زور مگر جو پیچھے چلے تیرے گمراہوں میں سے",
+        "English" : "My servants are such that you have no power over them except those of the deviators who will follow you."
+      },
+      {
+        "ayet_no" : 43,
+        "arbi" : "وَاِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ اَجْمَعِيْنَ",
+        "Urdu" : "اور بیشک جہنم یقینا ان سب کے وعدے کی جگہ ہے",
+        "English" : "And verily Hell is the place promised unto them all."
+      },
+      {
+        "ayet_no" : 44,
+        "arbi" : "لَهَا سَبْعَةُ اَبْوَابٍ ۭ لِكُلِّ بَابٍ مِّنْهُمْ جُزْءٌ مَّقْسُوْمٌ",
+        "Urdu" : "اس کے سات درواز ے ہیں، ہردروازے کا ان میں سے ایک حصہ ہے تقسیم کیا ہوا",
+        "English" : "Unto it are seven portals; unto each portal is a Portion of them assigned."
+      },
+      {
+        "ayet_no" : 45,
+        "arbi" : "اِنَّ الْمُتَّقِيْنَ فِيْ جَنّٰتٍ وَّعُيُوْنٍ",
+        "Urdu" : "بیشک متقی لوگ باغات اور چشموں میں ہوں گے",
+        "English" : "Verily the God-fearing shall be amidst gardens and springs."
+      },
+      {
+        "ayet_no" : 46,
+        "arbi" : "اُدْخُلُوْهَا بِسَلٰمٍ اٰمِنِيْنَ",
+        "Urdu" : "(ان سے کہا جائے گا) داخل ہوجاؤ اس میں سلامتی کیساتھ بے خوف ہوکر",
+        "English" : "Enter therein in peace, secure."
+      },
+      {
+        "ayet_no" : 47,
+        "arbi" : "وَنَزَعْنَا مَا فِيْ صُدُوْرِهِمْ مِّنْ غِلٍّ اِخْوَانًا عَلٰي سُرُرٍ مُّتَقٰبِلِيْنَ",
+        "Urdu" : "اور ہم نکال دیں گے جو ان کے سینوں میں ہوگی کوئی کدورت، بھائی بھائی (بن کر) تختوں پر آمنے سامنے بیٹھے ہوں گے",
+        "English" : "And We shall have removed whatsoever of grudge may be in their breasts: brethren they. sitting upon couches facing each other."
+      },
+      {
+        "ayet_no" : 48,
+        "arbi" : "لَا يَمَسُّهُمْ فِيْهَا نَصَبٌ وَّمَا هُمْ مِّنْهَا بِمُخْرَجِيْنَ",
+        "Urdu" : "نہیں پہنچے گی انہیں اس میں کوئی تکلیف اور نہ وہ اس سے ہرگز نکالے جائیں گے",
+        "English" : "There shall touch them no toil therein, nor therefrom they shall ever be driven out."
+      },
+      {
+        "ayet_no" : 49,
+        "arbi" : "نَبِّئْ عِبَادِيْٓ اَنِّىْٓ اَنَا الْغَفُوْرُ الرَّحِيْمُ",
+        "Urdu" : "خبردے وہ میرے بندوں کو کہ بیشک میں ہی بے حد بخشنے والا ، نہایت رحم والا ہے",
+        "English" : "Declare thou unto My bondmen: verily I! I am the Forgiver, the Merciful."
+      },
+      {
+        "ayet_no" : 50,
+        "arbi" : "وَاَنَّ عَذَابِيْ هُوَ الْعَذَابُ الْاَلِيْمُ",
+        "Urdu" : "اور بیشک میرا عذاب ہی دردناک عذاب ہے",
+        "English" : "And that My Torment is indeed the most painful torment."
+      },
+      {
+        "ayet_no" : 51,
+        "arbi" : "وَنَبِّئْهُمْ عَنْ ضَيْفِ اِبْرٰهِيْمَ",
+        "Urdu" : "اورخبر دے دیجیے انہیں ابراہیم کے مہمانوں کے بارے میں",
+        "English" : "And declare thou unto them of Ibrahim's guests."
+      },
+      {
+        "ayet_no" : 52,
+        "arbi" : "اِذْ دَخَلُوْا عَلَيْهِ فَقَالُوْا سَلٰمًا ۭ قَالَ اِنَّا مِنْكُمْ وَجِلُوْنَ",
+        "Urdu" : "جب وہ داخل ہوئے اس پر تو انہوں نے کہا سلام ، اس پر ابراہیم نے کہا بیشک ہم تم سے ڈرنے والے ہیں",
+        "English" : "When they entered unto him, and said; peace! He said: verily we are afraid of you."
+      },
+      {
+        "ayet_no" : 53,
+        "arbi" : "قَالُوْا لَا تَوْجَلْ اِنَّا نُبَشِّرُكَ بِغُلٰمٍ عَلِيْمٍ",
+        "Urdu" : "انہوں نے کہا مت ڈر بیشک ہم خوشخبری دیتے ہیں آپ کو ایک بہت علم رکھنے والے لڑکے کی",
+        "English" : "They said, :Do not be scared. We give you good news of a boy who will be knowledgeable."
+      },
+      {
+        "ayet_no" : 54,
+        "arbi" : "قَالَ اَبَشَّرْتُمُوْنِيْ عَلٰٓي اَنْ مَّسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُوْنَ",
+        "Urdu" : "اس نے کہا کیا تم نے خوشخبری دی ہے مجھے (اس حالت) پر کہ آپہنچا مجھے بڑھاپا تو کس بات کی تم خوش خبری دیتے ہو",
+        "English" : "He said: bear ye me glad tidings when old age hath touched me? of what then ye bear me glad tidings ?"
+      },
+      {
+        "ayet_no" : 55,
+        "arbi" : "قَالُوْا بَشَّرْنٰكَ بِالْحَقِّ فَلَا تَكُنْ مِّنَ الْقٰنِطِيْنَ",
+        "Urdu" : "انہوں نے کہا ہم نے خوشخبری دی آپ کو حق کی سو نہ ہو تو ناامید ہونے والوں میں سے",
+        "English" : "They said, :We have given to you the good news of a fact. So do not be one of those who lose hope."
+      },
+      {
+        "ayet_no" : 56,
+        "arbi" : "قَالَ وَمَنْ يَّقْنَطُ مِنْ رَّحْمَةِ رَبِّهٖٓ اِلَّا الضَّاۗلُّوْنَ",
+        "Urdu" : "کہا (ابراہیم نے) اور کون ناامید ہوتا ہے اپنے رب کی رحمت سے سوائے گمراہوں کے",
+        "English" : "He said: and who despond of the mercy of his Lord except the astray"
+      },
+      {
+        "ayet_no" : 57,
+        "arbi" : "قَالَ فَمَا خَطْبُكُمْ اَيُّهَا الْمُرْسَلُوْنَ",
+        "Urdu" : "اس (ابراہیم)نے کہا تو کیا معاملہ ہے تمہارا اے بھیجے جانے والا(فرشتو)",
+        "English" : "He said: what is your errand, sent ones ?"
+      },
+      {
+        "ayet_no" : 58,
+        "arbi" : "قَالُوْٓا اِنَّآ اُرْسِلْنَآ اِلٰى قَوْمٍ مُّجْرِمِيْنَ",
+        "Urdu" : "انہوں نے کہا بے شک ہم بھیجے گئے ہیں مجرم قوم کی طرح",
+        "English" : "They (the angels) said: (We have been sent to a people who are Mujrimn (criminals, disbelievers, polytheists, sinners).)"
+      },
+      {
+        "ayet_no" : 59,
+        "arbi" : "اِلَّآ اٰلَ لُوْطٍ ۭ اِنَّا لَمُنَجُّوْهُمْ اَجْمَعِيْنَ",
+        "Urdu" : "سوائے لوط کے گھروالوں کے یقینا ہم ضرور بچانے والے ہیں ان سب کو",
+        "English" : "All except the household of Lut; surely we are going to deliver all of them."
+      },
+      {
+        "ayet_no" : 60,
+        "arbi" : "اِلَّا امْرَاَتَهٗ قَدَّرْنَآ ۙاِنَّهَا لَمِنَ الْغٰبِرِيْنَ",
+        "Urdu" : "مگر اس کی عورت کہ ہم نے طے کردیا کہ بیشک وہ یقینا پیچھے رہنے والوں میں سے ہے",
+        "English" : "But not his wife; we have decreed that she will be of those staying behind."
+      },
+      {
+        "ayet_no" : 61,
+        "arbi" : "فَلَمَّا جَاۗءَ اٰلَ لُوْطِۨ الْمُرْسَلُوْنَ",
+        "Urdu" : "پھر جب آئے لوط کے گھروالوں کے پاس بھیجے ہوئے (فرشتے)",
+        "English" : "Then when the sent ones entered unto the household of Lut."
+      },
+      {
+        "ayet_no" : 62,
+        "arbi" : "قَالَ اِنَّكُمْ قَوْمٌ مُّنْكَرُوْنَ",
+        "Urdu" : "(لوط) نے کہا بے شک تم اجنبی لوگ ہو",
+        "English" : "He said: verily ye are a people stranger."
+      },
+      {
+        "ayet_no" : 63,
+        "arbi" : "قَالُوْا بَلْ جِئْنٰكَ بِمَا كَانُوْا فِيْهِ يَمْتَرُوْنَ",
+        "Urdu" : "انہوں نے کہا بلکہ ہم لے کر آئے ہیں آپ کے پاس اس عذاب کو جو کہ وہ تھے اس میں شک کیا کرتے",
+        "English" : "They said: (Nay, we have come to you with that (torment) which they have been doubting.)"
+      },
+      {
+        "ayet_no" : 64,
+        "arbi" : "وَاَتَيْنٰكَ بِالْحَقِّ وَاِنَّا لَصٰدِقُوْنَ",
+        "Urdu" : "اور ہم آئے ہیں آپ کے پاس حق لے کر اور بے شک ہم یقینا سچے ہیں",
+        "English" : "And we have brought unto thee the truth, and verily we say sooth."
+      },
+      {
+        "ayet_no" : 65,
+        "arbi" : "فَاَسْرِ بِاَهْلِكَ بِقِطْعٍ مِّنَ الَّيْلِ وَاتَّبِعْ اَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنْكُمْ اَحَدٌ وَّامْضُوْا حَيْثُ تُؤْمَرُوْنَ",
+        "Urdu" : "تو لے چل اپنے گھروالوں کو رات کے کسی حصے میں اور خود چل ان کے پیچھے پیچھے اور نہ مڑ کردیکھے تم میں سے کوئی ایک اور چلے جاؤ جہاں تم حکم دیے جاتے ہو",
+        "English" : "So set out thou with thy house hold in a portion of the night, and follow thou their backs, and let not one of you look back, and pass whither ye are commanded."
+      },
+      {
+        "ayet_no" : 66,
+        "arbi" : "وَقَضَيْنَآ اِلَيْهِ ذٰلِكَ الْاَمْرَ اَنَّ دَابِرَ هٰٓؤُلَاۗءِ مَقْطُوْعٌ مُّصْبِحِيْنَ",
+        "Urdu" : "اور ہم نے فیصلہ کہلا بھیجا اس کی طرف اس بات کا کہ بے شک ان لوگوں کی جڑ کاٹ دی جانے والی ہے صبح ہوتے ہی",
+        "English" : "And We decreed unto him this commandment because the last of those was to be cut off in the early morning."
+      },
+      {
+        "ayet_no" : 67,
+        "arbi" : "وَجَاۗءَ اَهْلُ الْمَدِيْنَةِ يَسْـتَبْشِرُوْنَ",
+        "Urdu" : "اور آئے شہر والے (اس حال میں کہ) وہ بہت خوش ہورہے تھے",
+        "English" : "And there came the people of the city rejoicing"
+      },
+      {
+        "ayet_no" : 68,
+        "arbi" : "قَالَ اِنَّ هٰٓؤُلَاۗءِ ضَيْفِيْ فَلَا تَفْضَحُوْنِ",
+        "Urdu" : "کہا لوط نے بے شک یہ میرے مہمان ہیں سو نہ تم ذلیل کرو مجھے",
+        "English" : "[Lout (Lot)] said: (Verily! these are my guests, so shame me not.)"
+      },
+      {
+        "ayet_no" : 69,
+        "arbi" : "وَاتَّقُوا اللّٰهَ وَلَا تُخْــزُوْنِ",
+        "Urdu" : "اور اللہ سے ڈرو اور نہ رسوا کرو مجھے",
+        "English" : "And fear Allah, and humiliate me not."
+      },
+      {
+        "ayet_no" : 70,
+        "arbi" : "قَالُوْٓا اَوَلَمْ نَــنْهَكَ عَنِ الْعٰلَمِيْنَ",
+        "Urdu" : "انہوں نے کہا اور کیا ہم منع نہیں کرچکے تمہیں سارے جہاں کے لوگوں سے",
+        "English" : "They said: forbade we not thee against the worlds ?"
+      },
+      {
+        "ayet_no" : 71,
+        "arbi" : "قَالَ هٰٓؤُلَاۗءِ بَنٰتِيْٓ اِنْ كُنْتُمْ فٰعِلِيْنَ",
+        "Urdu" : "کہا لوط نے یہ میری بیٹیاں ہیں اگر ہو تم ایسا کرنے والے",
+        "English" : "He said: these are my daughters, if act ye must."
+      },
+      {
+        "ayet_no" : 72,
+        "arbi" : "لَعَمْرُكَ اِنَّهُمْ لَفِيْ سَكْرَتِهِمْ يَعْمَهُوْنَ",
+        "Urdu" : "تیری عمر کی قسم بے شک وہ یقینااپنی مستی میں دیوانے ہورہے تھے",
+        "English" : "By thy life, in their intoxication they were wandering bewildered."
+      },
+      {
+        "ayet_no" : 73,
+        "arbi" : "فَاَخَذَتْهُمُ الصَّيْحَةُ مُشْرِقِيْنَ",
+        "Urdu" : "پس پکڑ لیا ان کو چیخ نے سورج نکلتے ہی",
+        "English" : "Then the shout took hold of them at the sunrise."
+      },
+      {
+        "ayet_no" : 74,
+        "arbi" : "فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَاَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِّنْ سِجِّيْلٍ",
+        "Urdu" : "تو ہم نے کردیا اس کے اوپر کے حصے کو اس کے نیچے کا حصہ اور ہم نے بارش برسادی ان پر کھنگر کے پتھروں کی",
+        "English" : "And We made the upside there of downwards, and We rained on them stones of baked clay."
+      },
+      {
+        "ayet_no" : 75,
+        "arbi" : "اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّلْمُتَوَسِّمِيْنَ",
+        "Urdu" : "بے شک اس میں یقینا نشانیاں ہیں گہری نظر سے جائزہ لینے والوں کے لیے",
+        "English" : "Verily therein are signs for men of sagacity."
+      },
+      {
+        "ayet_no" : 76,
+        "arbi" : "وَاِنَّهَا لَبِسَبِيْلٍ مُّقِيْمٍ",
+        "Urdu" : "اور بیشک وہ بستی یقینا قائم ودائم راستے پر ہے",
+        "English" : "And verily they are on a pathway lasting."
+      },
+      {
+        "ayet_no" : 77,
+        "arbi" : "اِنَّ فِيْ ذٰلِكَ لَاٰيَةً لِّلْمُؤْمِنِيْنَ",
+        "Urdu" : "بیشک یقینا اس میں نشانی ہے ایمان والوں کے لیے",
+        "English" : "Verily in that is a sign for the believers."
+      },
+      {
+        "ayet_no" : 78,
+        "arbi" : "وَاِنْ كَانَ اَصْحٰبُ الْاَيْكَةِ لَظٰلِمِيْنَ",
+        "Urdu" : "اور بیشک تھے ایکہ (جنگل) والے بھی یقینا ظالم",
+        "English" : "And the dwellers of the wood surely were wrong-doers."
+      },
+      {
+        "ayet_no" : 79,
+        "arbi" : "فَانْتَقَمْنَا مِنْهُمْ ۘ وَاِنَّهُمَا لَبِاِمَامٍ مُّبِيْنٍ",
+        "Urdu" : "تو ہم نے انتقام لیا ان سے اور بیشک یہ دونوں (شہریا بستیاں) یقینا کھلے (عام) راستے پر ہیں",
+        "English" : "So We took vengeance on them. And verily both are on a high-road open."
+      },
+      {
+        "ayet_no" : 80,
+        "arbi" : "وَلَقَدْ كَذَّبَ اَصْحٰبُ الْحِـجْرِ الْمُرْسَلِيْنَ",
+        "Urdu" : "اور بلاشبہ یقینا جھٹلایا حجر والوں نے رسولوں کو",
+        "English" : "And assuredly the dwellers of Hijr belied the sent ones."
+      },
+      {
+        "ayet_no" : 81,
+        "arbi" : "وَاٰتَيْنٰهُمْ اٰيٰتِنَا فَكَانُوْا عَنْهَا مُعْرِضِيْنَ",
+        "Urdu" : "اور ہم نے دیں انہیں اپنی نشانیاں تو تھے وہ ان سے منہ پھیرنے والے",
+        "English" : "And We brought Our signs unto them, yet they were averting themselves therefrom."
+      },
+      {
+        "ayet_no" : 82,
+        "arbi" : "وَكَانُوْا يَنْحِتُوْنَ مِنَ الْجِبَالِ بُيُوْتًا اٰمِنِيْنَ",
+        "Urdu" : "اور تھے وہ تراشاکرتے پہاڑوں سے گھر بے خوف ہو کر",
+        "English" : "And they were hewing out houses from mountains feeling secure."
+      },
+      {
+        "ayet_no" : 83,
+        "arbi" : "فَاَخَذَتْهُمُ الصَّيْحَةُ مُصْبِحِيْنَ",
+        "Urdu" : "تو پکڑ لیاانہیں چیخ نے صبح ہوتے ہی",
+        "English" : "Then, the Cry seized them by the morning."
+      },
+      {
+        "ayet_no" : 84,
+        "arbi" : "فَمَآ اَغْنٰى عَنْهُمْ مَّا كَانُوْا يَكْسِبُوْنَ",
+        "Urdu" : "پھر نہ کام آیا ان کے جو تھے وہ کمایا کرتے",
+        "English" : "Then availed them not that which they had been earning."
+      },
+      {
+        "ayet_no" : 85,
+        "arbi" : "وَمَا خَلَقْنَا السَّمٰوٰتِ وَالْاَرْضَ وَمَا بَيْنَهُمَآ اِلَّا بِالْحَقِّ  ۭ وَاِنَّ السَّاعَةَ لَاٰتِيَةٌ فَاصْفَحِ الصَّفْحَ الْجَمِيْلَ",
+        "Urdu" : "اور نہیں ہم نے پیدا کیا آسمانوں اور زمین کو اور جو ان دونوں کے درمیا ن ہے مگر حق کے ساتھ اور بے شک قیامت یقینا آنے والی ہے پس آپ درگزر کریں اچھے انداز میں درگزر کرنا",
+        "English" : "We did not create the heavens and the earth and all that is in between them without a truthful purpose. The Hour is sure to come. Therefore, overlook (their evil behavior) in a gracious manner."
+      },
+      {
+        "ayet_no" : 86,
+        "arbi" : "اِنَّ رَبَّكَ هُوَ الْخَلّٰقُ الْعَلِيْمُ",
+        "Urdu" : "بے شک تیرا رب ہی خوب پیدا کرنے والا سب کچھ جاننے والا ہے",
+        "English" : "Surely, your Lord is the Creator of all, the All-Knowing."
+      },
+      {
+        "ayet_no" : 87,
+        "arbi" : "وَلَقَدْ اٰتَيْنٰكَ سَبْعًا مِّنَ الْمَثَانِيْ وَالْقُرْاٰنَ الْعَظِيْمَ",
+        "Urdu" : "اور بلاشبہ یقینا ہم نے دے رکھی ہیں آپ کو سات بار بار دہرائی جانے والی(آیات ہیں) اور بہت عظمت والا قرآن (بھی)",
+        "English" : "We have given thee seven of the oft-repeated (verses) and the great Quran."
+      },
+      {
+        "ayet_no" : 88,
+        "arbi" : "لَا تَمُدَّنَّ عَيْنَيْكَ اِلٰى مَا مَتَّعْنَا بِهٖٓ اَزْوَاجًا مِّنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِنِيْنَ",
+        "Urdu" : "آپ ہرگز نہ اٹھائیں اپنی آنکھیں اس کی طرف جو ہم نے فائدہ دیا اس سے ان میں سے کئی قسم کے لوگوں کو اور نہ غم کریں ان پر اور جھکادیں اپنا بازو مومنوں کے لیے",
+        "English" : "Cast not thine eyes toward that which We have let classes of them to enjoy; and grieve not over them, and lower thy wing unto the believers."
+      },
+      {
+        "ayet_no" : 89,
+        "arbi" : "وَقُلْ اِنِّىْٓ اَنَا النَّذِيْرُ الْمُبِيْنُ",
+        "Urdu" : "اور فرمادیجےے بیشک میں تو کھلم کھلا ڈرانے والا ہوں",
+        "English" : "And say thou: verily I! I am a plain warner."
+      },
+      {
+        "ayet_no" : 90,
+        "arbi" : "كَمَآ اَنْزَلْنَا عَلَي الْمُقْتَسِمِيْنَ",
+        "Urdu" : "جیسا کہ ہم نے اتارا (عذاب) تقسیم کرنے والوں پر",
+        "English" : "As We have sent down on the dividers, (Quraish pagans or Jews and Christians)."
+      },
+      {
+        "ayet_no" : 91,
+        "arbi" : "الَّذِيْنَ جَعَلُوا الْقُرْاٰنَ عِضِيْنَ",
+        "Urdu" : "جنہوں نے کردیا قران کو ٹکڑے ٹکڑے",
+        "English" : "Those who have made the scripture bits."
+      },
+      {
+        "ayet_no" : 92,
+        "arbi" : "فَوَرَبِّكَ لَنَسْــَٔـلَنَّهُمْ اَجْمَعِيْنَ",
+        "Urdu" : "پس قسم ہے تیرے رب کی یقینا ضرور ہم باز پرس کریں گے ان سب سے",
+        "English" : "So, by your Lord, We shall question all of them."
+      },
+      {
+        "ayet_no" : 93,
+        "arbi" : "عَمَّا كَانُوْا يَعْمَلُوْنَ",
+        "Urdu" : "اس کے بارے میں جو وہ کیا کرتے تھے",
+        "English" : "For that which they have been working."
+      },
+      {
+        "ayet_no" : 94,
+        "arbi" : "فَاصْدَعْ بِمَا تُؤْمَرُ وَاَعْرِضْ عَنِ الْمُشْرِكِيْنَ",
+        "Urdu" : "پس کھول کر سنادیجیے جس کا آپ کو حکم دیا جاتا ہے اور منہ پھیر لیجیے مشرکوں سے",
+        "English" : "Now, proclaim what you are commanded to, and turn away from those who ascribe partners to Allah."
+      },
+      {
+        "ayet_no" : 95,
+        "arbi" : "اِنَّا كَفَيْنٰكَ الْمُسْتَهْزِءِيْنَ",
+        "Urdu" : "بے شک ہم کافی ہیں آپ کو بچانے کے لیے مذاق اڑانے والوں کے شر سے",
+        "English" : "Verily We will suffice unto thee against the mockers."
+      },
+      {
+        "ayet_no" : 96,
+        "arbi" : "الَّذِيْنَ يَجْعَلُوْنَ مَعَ اللّٰهِ اِلٰـهًا اٰخَرَ ۚ فَسَوْفَ يَعْلَمُوْنَ",
+        "Urdu" : "جو بناتے ہیں اللہ کے ساتھ دوسرا معبود سو عنقریب وہ جان لیں گے",
+        "English" :  "Who set up along with Allah another ilh (god), they will come to know."
+      },
+      {
+        "ayet_no" : 97,
+        "arbi" : "وَلَقَدْ نَعْلَمُ اَنَّكَ يَضِيْقُ صَدْرُكَ بِمَا يَقُوْلُوْنَ",
+        "Urdu" : "اور بلاشبہ یقینا ہم جانتے ہی کہ بیشک تنگ ہوتا ہے آپ کا سینہ اس سے جو وہ کہتے ہیں",
+        "English" : "Indeed, We know that your breast is straitened at what they say."
+      },
+      {
+        "ayet_no" : 98,
+        "arbi" : "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُنْ مِّنَ السّٰجِدِيْنَ",
+        "Urdu" : "پس تسبیح بیان کر اپنے رب کی حمد کے ساتھ اور ہوجا سجدہ کرنے والوں میں سے",
+        "English" : "So hallow thou the praise of thy Lord, and be thou of the prostrate."
+      },
+      {
+        "ayet_no" : 99,
+        "arbi" : "وَاعْبُدْ رَبَّكَ حَتّٰى يَاْتِيَكَ الْيَقِيْنُ",
+        "Urdu" : "اور عبادت کریں اپنے رب کی یہاں تک کہ آجائے آپ کے پاس یقین (یعنی موت)",
+        "English" : "And worship thy Lord until there come unto thee the certainty."
+      }
+
+    ]
+  }
+]

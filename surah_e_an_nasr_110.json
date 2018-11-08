@@ -1,0 +1,34 @@
+[
+  {
+    "surah_no" : 110,
+    "total_ayah" : 3,
+    "name" : "Surah e An-Nasr",
+    "detail" : [
+
+      {
+        "ayet_no" : 0,
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "اللہ کے پاک نام سے شروع کرتا ہوں جو کہ بڑا مہربان نہایت ہی رحم فرمانے والا ہے ۔",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "اِذَا جَاۗءَ نَصْرُ اللّٰهِ وَالْفَتْحُ",
+        "Urdu" : "جب آجائے اللہ کی مدداورفتح",
+        "English" : "When the help of Allah and victory come."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًا",
+        "Urdu" : "اور آپ دیکھیں لوگوں کو کہ وہ داخل ہورہے ہیں اللہ کے دین میں فوج درفوج",
+        "English" : "And you see men entering the religion of Allah in troops."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ     ڼ اِنَّهٗ كَانَ تَوَّابًا",
+        "Urdu" : "تو آپ تسبیح بیان کیجیے اپنے رب کی تعریف کے ساتھ اور بخشش مانگئے اس سے بے شک وہ بہت توبہ قبول کرنیوالا ہے",
+        "English" : "Then glorify your Lord and seek His forgiveness. Verily He is relenting."
+      }
+    ]
+  }
+]

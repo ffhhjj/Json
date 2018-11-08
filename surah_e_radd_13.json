@@ -1,0 +1,273 @@
+[
+  {
+    "surah_no" : 13,
+    "total_ayah" : 43,
+    "name" : "Surah e Radd",
+    "detail" : [
+      {
+        "arbi" : "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "Urdu" : "شروع اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے",
+        "English" : "In the name of Allah, the Compassionate, the Merciful."
+      },
+      {
+        "ayet_no" : 1,
+        "arbi" : "الۗمّۗرٰ   ۣتِلْكَ اٰيٰتُ الْكِتٰبِ  ۭ وَالَّذِيْٓ اُنْزِلَ اِلَيْكَ مِنْ رَّبِّكَ الْحَقُّ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يُؤْمِنُوْنَ",
+        "Urdu" : "المر یہ کتاب کی آیتیں ہیں اور وہ جو نازل کیاگیا آپ ک طرف آپ کے رب کی طرف سے وہ حق ہے اور لیکن اکثر لوگ ایمان نہیں لاتے",
+        "English" : "Alif. Lam. Mim. Ra. These are the verses of the Book. And that which is sent down unto thee from thy Lord is the truth, but most of the people believe not."
+      },
+      {
+        "ayet_no" : 2,
+        "arbi" : "اَللّٰهُ الَّذِيْ رَفَعَ السَّمٰوٰتِ بِغَيْرِ عَمَدٍ تَرَوْنَهَا ثُمَّ اسْتَوٰى عَلَي الْعَرْشِ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ ۭ كُلٌّ يَّجْرِيْ لِاَجَلٍ مُّسَمًّى ۭ يُدَبِّرُ الْاَمْرَ يُفَصِّلُ الْاٰيٰتِ لَعَلَّكُمْ بِلِقَاۗءِ رَبِّكُمْ تُوْقِنُوْنَ",
+        "Urdu" : "اللہ وہ ہے جس نے بلند کیا آسمانوں کو بغیر ستونوں کے کہ تم دیکھتے ہو انہیں، پھر وہ بلند ہوا عرش پر اور اس نے مسخر کیا سورج اور چاند کو ہر ایک چل رہا ہے ایک مقرر وقت کے لیے وہ تدبیر کرتا ہے کام کی وہ تفصیل سے بیان کرتا ہےاپنی نشانیاں تاکہ تم اپنے رب کی ملاقات کا یقین کر لو",
+        "English" : "Allah it is who hath raised the heavens without pillars that ye can see, then He established Himself on the throne, and subjected the sun and the moon, each running unto a period determined. He dispose the affair, and detail the signs, that haply of the meeting with your Lord ye may be convinced."
+      },
+      {
+        "ayet_no" : 3,
+        "arbi" : "وَهُوَ الَّذِيْ مَدَّ الْاَرْضَ وَجَعَلَ فِيْهَا رَوَاسِيَ وَاَنْهٰرًا  ۭ وَمِنْ كُلِّ الثَّمَرٰتِ جَعَلَ فِيْهَا زَوْجَيْنِ اثْنَيْنِ يُغْشِي الَّيْلَ النَّهَارَ  ۭ اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّقَوْمٍ يَّتَفَكَّرُوْنَ",
+        "Urdu" : "اور وہی ہے جس نے بچھایا زمین کو اور بنائے اس میں پہاڑ اور نہریں اور تمام پھلوں میں سے بنائے اس میں جوڑے دو دو قسم کے وہ ڈھانپتا ہے رات سے دن کو بے شک اس میں یقینا نشانیاں ہیں ان لوگوں کے لیے جوغور وفکر کرتے ہیں",
+        "English" : "He is the One who spread out the earth and made mountains and rivers on it, and created in it the pairs of two from all the fruits. He makes the night cover the day. Surely, in that there are signs for a people who think."
+      },
+      {
+        "ayet_no" : 4,
+        "arbi" : "وَفِي الْاَرْضِ قِطَعٌ مُّتَجٰوِرٰتٌ وَّجَنّٰتٌ مِّنْ اَعْنَابٍ وَّزَرْعٌ وَّنَخِيْلٌ صِنْوَانٌ وَّغَيْرُ صِنْوَانٍ يُّسْقٰى بِمَاۗءٍ وَّاحِدٍ ۣ وَنُفَضِّلُ بَعْضَهَا عَلٰي بَعْضٍ فِي الْاُكُلِ ۭ اِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّقَوْمٍ يَّعْقِلُوْنَ",
+        "Urdu" : "اور زمین میں ٹکڑے ہیں ایک دسرے سے ملے ہوئے اور باغات ہیں انگوروں سے اور کھیتیاں ہیں اور کھجور کے درخت ہیں زیادہ تنوں والے (اور جڑ ایک) اور زیادہ تنوں کے بغیر (یعنی ایک تنے والے) انہیں سیراب کیا جاتا ہے ایک پانی سے اور ہم فضیلت دیتے ہیں ان میں سے بعض کو بعض پر (پھلوں کے) ذائقے میں بیشک اس میں یقینا نشانیاں ہیں ان لوگوں کے لیے جو سمجھتے ہیں",
+        "English" : "And in the earth are regions neighbouring and gardens of vines and cornfields, and palm-trees clustered and single, watered by the same water; yet some We make to excel others in food. Verily therein are signs for a people who reflect."
+      },
+      {
+        "ayet_no" : 5,
+        "arbi" : "وَاِنْ تَعْجَبْ فَعَجَبٌ قَوْلُهُمْ ءَاِذَا كُنَّا تُرٰبًا ءَاِنَّا لَفِيْ خَلْقٍ جَدِيْدٍ ڛ اُولٰۗىِٕكَ الَّذِيْنَ كَفَرُوْا بِرَبِّهِمْ ۚ وَاُولٰۗىِٕكَ الْاَغْلٰلُ فِيْٓ اَعْنَاقِهِمْ  ۚ وَاُولٰۗىِٕكَ اَصْحٰبُ النَّارِ ۚ هُمْ فِيْهَا خٰلِدُوْنَ",
+        "Urdu" : "اور اگر آپ تعجب کریں تو عجیب ہے ان کی یہ بات کہ کیا جب ہم ہوجائیں گے مٹی تو نئی پیدائش میں ہوں گے۔ یہ وہ لوگ ہیں جنہوں نے کفر کیا اپنے رب کیساتھ اور یہی لوگ ہیں کہ طوق ہوں گے ان کی گردنوں میں اور یہی لوگ دوزخ والے ہیں وہ اس میں ہمیشہ رہنے والے ہیں",
+        "English" : "If you wonder, then wondrous indeed is their saying, :Is it that, once we are dust, we are to be created anew? They are those who have disbelieved in their Lord, and they are those who (shall) have shackles around their necks, and they are the people of the Fire. They shall remain there forever."
+      },
+      {
+        "ayet_no" : 6,
+        "arbi" : "وَيَسْتَعْجِلُوْنَكَ بِالسَّيِّئَةِ قَبْلَ الْحَسَنَةِ وَقَدْ خَلَتْ مِنْ قَبْلِهِمُ الْمَثُلٰتُ ۭ وَاِنَّ رَبَّكَ لَذُوْ مَغْفِرَةٍ لِّلنَّاسِ عَلٰي ظُلْمِهِمْ ۚ وَاِنَّ رَبَّكَ لَشَدِيْدُ الْعِقَابِ",
+        "Urdu" : "اور وہ جلدی طلب کرتے ہیں آپ سے برائی کو بھلائی سے پہلے حالانکہ یقینا گزر چکی ہیں ان سے پہلے عذاب کی مثالیں اور بے شک تیرا رب یقینا مغفرت والا ہے لوگوں کے لیے ان کے ظلم پر یعنی ظلم کے باوجود اور بیشک تیرا رب یقینا بہت سخت سزا والا ہے",
+        "English" : "And they ask thee to hasten the evil before the good, while examples have already gone forth afore them. And thy Lord is Owner of forgiveness unto mankind despite their wrong-doing; and verily thy Lord is severe in requital."
+      },
+      {
+        "ayet_no" : 7,
+        "arbi" : " وَيَقُوْلُ الَّذِيْنَ كَفَرُوْا لَوْلَآ اُنْزِلَ عَلَيْهِ اٰيَةٌ مِّنْ رَّبِّهٖ  ۭ اِنَّمَآ اَنْتَ مُنْذِرٌ وَّلِكُلِّ قَوْمٍ هَادٍ",
+        "Urdu" : "اور کہتے ہیں وہ لوگ جنہوں نے کفرکیا، کیوں نہیں نازل کی گئی اس پر کوئی نشانی (معجزہ) اس کے رب کی طرف سے؟ بیشک صرف آپ ڈرانے والے ہیں اور ہر قوم کے لیے ایک رہنما ہے",
+        "English" : "The disbelievers say, :Why is it that no sign has been sent down to him from his Lord? You are but a warner; and for every people there is a guide."
+      },
+      {
+        "ayet_no" : 8,
+        "arbi" : "اَللّٰهُ يَعْلَمُ مَا تَحْمِلُ كُلُّ اُنْثٰى وَمَا تَغِيْضُ الْاَرْحَامُ وَمَا تَزْدَادُ ۭ وَكُلُّ شَيْءٍ عِنْدَهٗ بِمِقْدَارٍ",
+        "Urdu" : "اللہ جانتا ہے جو اٹھاتی ہے (پیٹ میں) ہرمادہ اور جو کم کرتے ہیں رحم اور جو زیادہ کرتے ہیں اور ہرچیز اس کے ہاں ایک اندازے کیساتھ ہے",
+        "English" : "Allah knows what every female bears, and by how much the wombs fall short (of their time or number) or exceed. Everything with Him is in (due) proportion."
+      },
+      {
+        "ayet_no" : 9,
+        "arbi" : "عٰلِمُ الْغَيْبِ وَالشَّهَادَةِ الْكَبِيْرُ الْمُتَعَالِ",
+        "Urdu" : "وہ جاننے والا ہے پوشیدہ اور ظاہر کا وہ بہت بڑا نہایت بلند ہے",
+        "English" : "He is the Knower of the hidden and the manifest. He is the Great, the High."
+      },
+      {
+        "ayet_no" : 10,
+        "arbi" : "سَوَاۗءٌ مِّنْكُمْ مَنْ اَسَرَّ الْقَوْلَ وَمَنْ جَهَرَ بِهٖ وَمَنْ هُوَ مُسْتَخْفٍۢ بِالَّيْلِ وَسَارِبٌۢ بِالنَّهَارِ",
+        "Urdu" : "برابر ہے اس پر تم میں سے جو کوئی چھپائے بات کو اور جو ظاہر کرے اس کو، اور جو شخص کہ وہ چھپنے والا ہو رات کو اورچلنے پھرنے والا ہو دن کو",
+        "English" : "Equal unto him is he among you who hide the word and he who publish it, and he who hide himself in the night and he who go about freely in the day."
+      },
+      {
+        "ayet_no" : 11,
+        "arbi" : "لَهٗ مُعَقِّبٰتٌ مِّنْۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهٖ يَحْفَظُوْنَهٗ مِنْ اَمْرِ اللّٰهِ ۭ اِنَّ اللّٰهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتّٰى يُغَيِّرُوْا مَا بِاَنْفُسِهِمْ ۭ وَاِذَآ اَرَادَ اللّٰهُ بِقَوْمٍ سُوْۗءًا فَلَا مَرَدَّ  لَهٗ  ۚ وَمَا لَهُمْ مِّنْ دُوْنِهٖ مِنْ وَّالٍ",
+        "Urdu" : "اس انسان کے لیے باری باری انے والے فرشتے ہیں اس کے آگے سے اور اس کے پیچھے سے وہ حفاظت کرتے ہیں اس کی اللہ کے حکم سے بیشک اللہ نہیں بدلتا اس نعمت کو جو کسی قوم کے پاس ہو یہاں تک وہ خود بدل لیں وہ کیفیت جو انکے دلوں کی ہے، او رجب ارادہ کرلےاللہ کسی قوم کے ساتھ برائی عذاب کا تو نہیں کوئی صورت ٹالنے کی اس کو اور نہیں ہے ان کے لیے اس کے سوا کوئی کارساز (مددگار)",
+        "English" : "For every one (from among you) there are angels replacing one another, in front of him and behind him, who guard him under the command of Allah. Surely, Allah does not change the condition of a people unless they change themselves. When Allah intends evil for a people, there is no way to turn it back, and for them there is no patron other than Him."
+      },
+      {
+        "ayet_no" : 12,
+        "arbi" : "هُوَ الَّذِيْ يُرِيْكُمُ الْبَرْقَ خَوْفًا وَّطَمَعًا وَّيُنْشِئُ السَّحَابَ الثِّقَالَ",
+        "Urdu" : "وہی ہے جو دکھاتا ہے تمہیں بجلی ڈرانے اور امید دلانے کے لیے اور وہ پیدا کرتا ہے بھاری بادل",
+        "English" : "He is the One who makes you see the lightening in fear and hope, and who forms the heavy clouds."
+      },
+      {
+        "ayet_no" : 13,
+        "arbi" : " وَيُسَبِّحُ الرَّعْدُ بِحَمْدِهٖ وَالْمَلٰۗىِٕكَةُ مِنْ خِيْفَتِهٖ ۚ وَيُرْسِلُ الصَّوَاعِقَ فَيُصِيْبُ بِهَا مَنْ يَّشَاۗءُ وَهُمْ يُجَادِلُوْنَ فِي اللّٰهِ ۚ وَهُوَ شَدِيْدُ الْمِحَالِ",
+        "Urdu" : "اور تسبیح بیان کرتی ہے گرج اس کی حمد کے ساتھ اور فرشتے بھی اس کے خوف سے اور وہ بھیجتا ہے کڑکتی بجلیاں پھر وہ ڈال دیتا ہے ان کو جس پر چاہتا ہے اور وہ کافر جھگڑا کرتے ہیں اللہ کے بارے میں اور وہ بہت سخت قوت والا ہے",
+        "English" : "The thunder proclaims His purity with His praise, and (so do) the angels, out of His awe. And He sends the thunderbolts and strikes with it whom He wills. They are quarrelling about Allah, and He is stern in His plan."
+      },
+      {
+        "ayet_no" : 14,
+        "arbi" : "لَهٗ دَعْوَةُ الْحَقِّ ۭ وَالَّذِيْنَ يَدْعُوْنَ مِنْ دُوْنِهٖ لَا يَسْتَجِيْبُوْنَ لَهُمْ بِشَيْءٍ اِلَّا كَبَاسِطِ كَفَّيْهِ اِلَى الْمَاۗءِ لِيَبْلُغَ فَاهُ وَمَا هُوَ بِبَالِغِهٖ ۭ وَمَا دُعَاۗءُ الْكٰفِرِيْنَ اِلَّا فِيْ ضَلٰلٍ",
+        "Urdu" : "اسی کے لیے ہے سچی پکار اور جنہیں مشرک پکارتے ہیں اس کے سوا نہیں وہ جواب دیتے قبول کرتے ان کو کسی چیز کا مگر اس شخص کی طرح جو پھیلانے والا ہواپنی دونوں ہتھیلیاں پانی کی طرف تاکہ وہ پانی پہنچ جائے اس کے منہ تک حالانکہ نہیں وہ ہرگز پہنچنے والا اس کے منہ تک اور نہیں ہے کافروں کا پکارنا مگر گمراہی میں (یعنی بے سود ہے)",
+        "English" : "True prayers are to be directed to Him alone; and those to whom they pray instead of Him do not respond to them at all, but they are like one who stretches his hands towards water so that it may reach his mouth (by itself), while it is not to reach it. And the prayer of the disbelievers (that they make to false gods) is nothing but straying in void."
+      },
+      {
+        "ayet_no" : 15,
+        "arbi" : "وَلِلّٰهِ يَسْجُدُ مَنْ فِي السَّمٰوٰتِ وَالْاَرْضِ طَوْعًا وَّكَرْهًا وَّظِلٰلُهُمْ بِالْغُدُوِّ وَالْاٰصَالِ ۞",
+        "Urdu" : "اور اللہ ہی کے لیے سجدہ کرتا ہے جو کوئی آسمانوں اور زمین میں ہے خوشی سے اور ناخوشی سے اور ان کے سائے بھی صبح اور شام کو",
+        "English" : "To Allah bow in prostration all who are in the heavens and the earth, willingly or unwillingly, and their shadows as well in morns and eves."
+      },
+      {
+        "ayet_no" : 16,
+        "arbi" : "قُلْ مَنْ رَّبُّ السَّمٰوٰتِ وَالْاَرْضِ ۭ قُلِ اللّٰهُ ۭ قُلْ اَفَاتَّخَذْتُمْ مِّنْ دُوْنِهٖٓ اَوْلِيَاۗءَ لَا يَمْلِكُوْنَ لِاَنْفُسِهِمْ نَفْعًا وَّلَا ضَرًّا ۭ قُلْ هَلْ يَسْتَوِي الْاَعْمٰى وَالْبَصِيْرُ ڏ اَمْ هَلْ تَسْتَوِي الظُّلُمٰتُ وَالنُّوْرُ ڬ اَمْ جَعَلُوْا لِلّٰهِ شُرَكَاۗءَ خَلَقُوْا كَخَلْقِهٖ فَتَشَابَهَ الْخَلْقُ عَلَيْهِمْ ۭ قُلِ اللّٰهُ خَالِقُ كُلِّ شَيْءٍ وَّهُوَ الْوَاحِدُ الْقَهَّارُ",
+        "Urdu" : "کہہ دیجیے (پوچھئے) کو ن ہے آسمانوں اور زمین کا رب کہہ دیجیے اللہ ہی ہے کہیے پھر کیا تم نے بنا رکھے ہیں اس کے سواکچھ کارساز جو کہ نیں وہ اختیار رکھتے اپنے نفسوں کے لیے نفع کا اور نہ نقصان کا کہہ دیجیے کیا برابر ہوسکتے ہیں اندھا اور دیکھنے والا؟ یا کیا برابر ہوسکتے ہیں اندھیرے اورروشنی؟ یا انہوں نے بنارکھے ہیں اللہ کے لیے ایسے شریک کہ انہوں نے پیدا کیا ہے اس کے پیدا کرنے کی طرح تو مشتبہ ہوگئی ہے پیدائش ان پر کہہ دیجیے اللہ ہی پیدا کرنے والا ہے ہر چیز کا اور وہی ایک اور نہایت غالب ہے",
+        "English" : "Say ( O Muhammad ): ( Who is the Lord of the heavens and the earth ?) Say: ((It is) Allah.) Say: (Have you then taken (for worship) Auliy) (protectors, etc.) other than Him, such as have no power either for benefit or for harm to themselves ?) Say: (Is the blind equal to the one who sees ? Or darkness equal to light ? Or do they assign toAllah partners who created the like of His creation, so that the creation (which they made and His creation) seemed alike to them.) Say: (Allah is the Creator of all things, He is the One, the Irresistible.)"
+      },
+      {
+        "ayet_no" : 17,
+        "arbi" : "اَنْزَلَ مِنَ السَّمَاۗءِ مَاۗءً فَسَالَتْ اَوْدِيَةٌۢ بِقَدَرِهَا فَاحْتَمَلَ السَّيْلُ زَبَدًا رَّابِيًا  ۭ وَمِمَّا يُوْقِدُوْنَ عَلَيْهِ فِي النَّارِ ابْتِغَاۗءَ حِلْيَةٍ اَوْ مَتَاعٍ زَبَدٌ مِّثْلُهٗ  ۭ كَذٰلِكَ يَضْرِبُ اللّٰهُ الْحَقَّ وَالْبَاطِلَ ڛ فَاَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاۗءً  ۚ وَاَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِي الْاَرْضِ  ۭ كَذٰلِكَ يَضْرِبُ اللّٰهُ الْاَمْثَالَ",
+        "Urdu" : "اس نے اتارا آسمان سے کچھ پانی تو بہہ پڑیں اس سے وادیاں اپنے اندازے کیساتھ پھر اٹھالیا سیلاب نے جھاگ ابھرا ہوا اور ان چیزوں سے جو کہ تپاتے ہیں انہیں آگ میں زیور یا سامان کو تلاش کرنے کے لیے جھاگ ہے اس (سیلاب کے جھاگ) کی مانند اسی طرح مثال بیان کرتا ہے اللہ حق اور باطل کی، پھر جوجھاگ ہے تو وہ چلاجاتا ہے بیکار اور رہی وہ چیز جو نفع دیتی ہے لوگوں کو تو وہ ٹھہر جاتی ہے زمین میں اس طرح بیان کرتا ہے اللہ مثالیں",
+        "English" : "He sent down water from the heavens, so the canals flowed according to their capacity, and the flood carried bulging scum. And a similar scum comes up from what they melt in the fire to obtain ornaments or other objects. This is how Allah depicts the truth and the untruth. As for the scum, it goes to be thrown away, while that which benefits people remains on the earth. This is how Allah brings out the parables."
+      },
+      {
+        "ayet_no" : 18,
+        "arbi" : "لِلَّذِيْنَ اسْتَجَابُوْا لِرَبِّهِمُ الْحُسْنٰى ڼ وَالَّذِيْنَ لَمْ يَسْتَجِيْبُوْا لَهٗ لَوْ اَنَّ لَهُمْ مَّا فِي الْاَرْضِ جَمِيْعًا وَّمِثْلَهٗ مَعَهٗ لَافْتَدَوْا بِهٖ ۭاُولٰۗىِٕكَ لَهُمْ سُوْۗءُ الْحِسَابِ ڏ وَمَاْوٰىهُمْ جَهَنَّمُ ۭ وَبِئْسَ الْمِهَادُ",
+        "Urdu" : "ان لوگوں کے لیے جنہوں نے قبول کیا حکم اپنے رب کا بھلائی ہے اور وہ لوگ جنہوں نے نہیں قبول کیا اس کا حکم اگر بیشک ہو ان کے لیے جو کچھ زمین میں ہے سارا اور اس کی مثل اس کے ساتھ(اور ہوتو) ضرور وہ بدلہ میں دے دیں اس کو یہ لوگ ہیں کہ ان کے لیے برا حساب ہے اور ان کا ٹھکانا جہنم ہے اور وہ برا ٹھکانا ہے",
+        "English" : "For those who obey their Lord there is the best of rewards; and those who do not obey Him (shall be in such a plight that) even if they possess all that is on earth, rather twice as much, they would offer it in ransom (to redeem themselves from the punishment). For these there is the worst of reckoning, and their abode is Hell, which is an evil bed to rest."
+      },
+      {
+        "ayet_no" : 19,
+        "arbi" : "اَفَمَنْ يَّعْلَمُ اَنَّمَآ اُنْزِلَ اِلَيْكَ مِنْ رَّبِّكَ الْحَقُّ كَمَنْ هُوَ اَعْمٰى ۭ اِنَّمَا يَتَذَكَّرُ اُولُوا الْاَلْبَابِ",
+        "Urdu" : "پھر کیا بھلاجو شخص جانتا ہو کہ بیشک جو کچھ نازل کیا گیا ہے آپ کی طرف آپ کے رب کی طرف سے وہی حق ہے اس شخص کی مانند ہوسکتا ہے جو کہ وہ اندھا ہے یقینا صرف نصیحت حاصل کرتے ہیں عقل والے ہی",
+        "English" : "Shall he then who know that which is sent down unto thee is the truth be like unto him who is blind! Only the men of understanding are admonished"
+      },
+      {
+        "ayet_no" : 20,
+        "arbi" : "الَّذِينَ يُوْفُوْنَ بِعَهْدِ اللّٰهِ وَلَا يَنْقُضُوْنَ الْمِيْثَاقَ",
+        "Urdu" : "وہ لوگ جو پورا کرتے ہیں اللہ کے عہد کو اور نہیں وہ توڑتے پختہ عہد کو",
+        "English" : "Those who fulfil the covenant of Allah, and violate not the bond."
+      },
+      {
+        "ayet_no" : 21,
+        "arbi" : " وَالَّذِيْنَ يَصِلُوْنَ مَآ اَمَرَ اللّٰهُ بِهٖٓ اَنْ يُّوْصَلَ وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُوْنَ سُوْۗءَ الْحِسَابِ",
+        "Urdu" : "اور وہ لوگ جو ملاتے ہیں اسے جو کہ حکم دیا اللہ نے اس کا یہ کہ ملایا جائے اسے اور وہ ڈرتے ہیں اپنے رب سے اور وہ خوف رکھتے ہیں برے حساب کا",
+        "English" : "And those who enjoin that which Allah hath commanded to be enjoined, and fear their Lord, and dread the evil reckoning."
+      },
+      {
+        "ayet_no" : 22,
+        "arbi" : "وَالَّذِيْنَ صَبَرُوا ابْتِغَاۗءَ وَجْهِ رَبِّهِمْ وَاَقَامُوا الصَّلٰوةَ وَاَنْفَقُوْا مِمَّا رَزَقْنٰهُمْ سِرًّا وَّعَلَانيَةً وَّيَدْرَءُوْنَ بِالْحَسَنَةِ السَّيِّئَةَ اُولٰۗىِٕكَ لَهُمْ عُقْبَى الدَّارِ",
+        "Urdu" : "اور وہ لوگ جنہوں نے صبر کیا اپنے رب کی رضامندی چاہنے کے لیے اور انہوں نے قائم کی نماز اور انہوں نے خرچ کیا اس سے جو ہم نے رزق دیا انہیں پوشیدہ اور ظاہری طور پر اور دور کرتے ہیں نیکی کے ساتھ برائی کو وہی لوگ ہیں کہو ان کے لیے اچھا انجا م ہے آخرت کے گھر کا",
+        "English" : "And those who persevere seeking the countenance of their Lord and establish prayer, and expend out of that wherewith We have provided them, secretly and openly, and combat evil with good. These! for them is the happy end in the Abode."
+      },
+      {
+        "ayet_no" : 23,
+        "arbi" : "جَنّٰتُ عَدْنٍ يَّدْخُلُوْنَهَا وَمَنْ صَلَحَ مِنْ اٰبَاۗىِٕهِمْ وَاَزْوَاجِهِمْ وَذُرِّيّٰــتِهِمْ وَالْمَلٰۗىِٕكَةُ يَدْخُلُوْنَ عَلَيْهِمْ مِّنْ كُلِّ بَابٍ",
+        "Urdu" : "باغات ہیں ہمیشگی کے وہ داخل ہوں گے ان میں اور جو نیک ہوئے ان کے باپ دادوں سے اور ان کی بیویوں اور ان کی اولاد سے (وہ بھی جنتوں میں داخل ہوں گے) اور فرشتے داخل ہوں گے ان پر جنت کے ہر دروازے سے",
+        "English" : "Gardens of Eden which they enter, along with all who do right of their fathers and their help meets and their seed. The angels enter unto them from every gate,"
+      },
+      {
+        "ayet_no" : 24,
+        "arbi" : "سَلٰمٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ فَنِعْمَ عُقْبَى الدَّارِ",
+        "Urdu" : "اور کہیں گے سلام ہو تم پر اس وجہ سے کہ تم نے صبر کیا تو کیا ہی اچھا ہے آخرت کے گھر کا انجام",
+        "English" : "Peace be upOn you for ye patiently persevered. Excellent then is the happy end in the Abode."
+      },
+      {
+        "ayet_no" : 25,
+        "arbi" : "وَالَّذِيْنَ يَنْقُضُوْنَ عَهْدَ اللّٰهِ مِنْۢ  بَعْدِ مِيْثَاقِهٖ وَيَقْطَعُوْنَ مَآ اَمَرَ اللّٰهُ بِهٖٓ اَنْ يُّوْصَلَ وَيُفْسِدُوْنَ فِي الْاَرْضِ ۙ اُولٰۗىِٕكَ لَهُمُ اللَّعْنَةُ وَلَهُمْ سُوْۗءُ الدَّارِ",
+        "Urdu" : "اور وہ لوگ جو توڑ دیتے ہیں اللہ کے عہد کو اس کی مضبوطی کے بعد اور قطع کرتے ہیں اسے جو کہ حکم دیا اللہ نے اس کا کہ ملایا جائے اسے اور وہ فساد کرتے ہیں زمین میں یہی لوگ ہیں کہ ان کے لیے لعنت ہے اور ان کے لیے آخرت کا براگھر ہے",
+        "English" : "And those who violate the covenant of Allah after the ratification thereof, and sunder that which Allah hath commanded to be conjoined, and act corruptly in the earth--these! unto them is a curse, and unto them shall be the evil Abode."
+      },
+      {
+        "ayet_no" : 26,
+        "arbi" : "اَللّٰهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَّشَاۗءُ وَيَــقْدِرُ ۭ وَفَرِحُوْا بِالْحَيٰوةِ الدُّنْيَا ۭ وَمَا الْحَيٰوةُ الدُّنْيَا فِي الْاٰخِرَةِ اِلَّا مَتَاعٌ",
+        "Urdu" : "اللہ کشادہ کرتا ہے رزق کو جسکے لیے وہ چاہتا ہےاور تنگ کردیتا ہے (جسکے لیے چاہتا ہے) اور کافر اتراتے ہیں دنیوی زندگی پر اور نہیں ہے دنیوی زندگی آخرت کے مقابلے میں مگر معمولی فائدہ",
+        "English" : "Allah expands the provision for whom He wills and narrows it (for whom He wills). They are happy with the worldly life, while the worldly life, compared to the Hereafter, is nothing but a little enjoyment."
+      },
+      {
+        "ayet_no" : 27,
+        "arbi" : " وَيَقُوْلُ الَّذِيْنَ كَفَرُوْا لَوْلَآ اُنْزِلَ عَلَيْهِ اٰيَةٌ مِّنْ رَّبِّهٖ ۭ قُلْ اِنَّ اللّٰهَ يُضِلُّ مَنْ يَّشَاۗءُ وَيَهْدِيْٓ اِلَيْهِ مَنْ اَنَابَ",
+        "Urdu" : "اور کہتے ہیں وہ لوگ جنہوں نے کفر کیا کیوں نہیں اتاری گئی اس پر کوئی نشانی اس کے رب کی طرف سے، کہہ دیجیے بیشک اللہ گمراہ کرتا ہے جسے چاہتا ہے اور راہ دکھاتا ہےاپنی طرف اسے جو رجوع کرے",
+        "English" : "Those who disbelieve say: If only a portent were sent down upon him from his Lord! Say: Lo! Allah send whom He will astray, and guide unto Himself all who turn (unto Him),"
+      },
+      {
+        "ayet_no" : 28,
+        "arbi" : "اَلَّذِيْنَ اٰمَنُوْا وَتَطْمَىِٕنُّ قُلُوْبُهُمْ بِذِكْرِ اللّٰهِ ۭ اَلَا بِذِكْرِ اللّٰهِ تَـطْمَىِٕنُّ الْقُلُوْبُ",
+        "Urdu" : "وہ لوگ جو ایمان لائے اور اطمینان پاتے ہیں ان کے دل اللہ کے ذکر سے سن لو! اللہ کے ذکر سے ہی دل اطمینان پاتے ہیں",
+        "English" : "They are those who believe and whose hearts find rest in the remembrance of Allah. Lo! in the remembrance of Allah hearts do find rest."
+      },
+      {
+        "ayet_no" : 29,
+        "arbi" : " اَلَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ طُوْبٰى لَهُمْ وَحُسْنُ مَاٰبٍ",
+        "Urdu" : "وہ لوگ جو ایمان لائے اور انہو ں نے نیک اعمال کیے خوشحالی ہے ان کے لیے اور اچھا ٹھکانہ ہے",
+        "English" : "Those who believe and work righteous works, for them is bliss and a happy resort."
+      },
+      {
+        "ayet_no" : 30,
+        "arbi" : "كَذٰلِكَ اَرْسَلْنٰكَ فِيْٓ اُمَّةٍ قَدْ خَلَتْ مِنْ قَبْلِهَآ اُمَمٌ لِّتَتْلُوَا۟ عَلَيْهِمُ الَّذِيْٓ اَوْحَيْنَآ اِلَيْكَ وَهُمْ يَكْفُرُوْنَ بِالرَّحْمٰنِ ۭ قُلْ هُوَ رَبِّيْ لَآ اِلٰهَ اِلَّا هُوَ ۚ عَلَيْهِ تَوَكَّلْتُ وَاِلَيْهِ مَتَابِ",
+        "Urdu" : "اسی طرح ہم نے بھیجا آپ کو ایسی امت میں کہ یقینا گزر چکیں اس سے پہلے کئی امتیں تاکہ آپ پڑھ کر سنائیں ان پر اسے جو ہم نے حی کی آپ کی طرف اس حال میں کہ وہ کفر کر رہے ہیں، بے حد مہربان سے کہہ دیجیے وہی میرا رب ہے نہیں کوئی سچا معبود مگر وہی، اسی پر میں نے بھروسا کیا اور اسی کی طرف میرا لوٹنا ہے",
+        "English" : "Thus We have sent thee unto a community before whom other communities have passed away, in order that thou mayest recite unto them that which We have Revealed unto thee; yet they disbelieve in the Compassionate. Say thou: He is my Lord, there is no god but he; on Him I rely, and unto Him is my return in penitence."
+      },
+      {
+        "ayet_no" : 31,
+        "arbi" : "وَلَوْ اَنَّ قُرْاٰنًا سُيِّرَتْ بِهِ الْجِبَالُ اَوْ قُطِّعَتْ بِهِ الْاَرْضُ اَوْ كُلِّمَ بِهِ الْمَوْتٰى  ۭ بَلْ لِّلّٰهِ الْاَمْرُ جَمِيْعًا  ۭاَفَلَمْ يَايْــــــَٔـسِ الَّذِيْنَ اٰمَنُوْٓا اَنْ لَّوْ يَشَاۗءُ اللّٰهُ لَهَدَى النَّاسَ جَمِيْعًا  ۭ وَلَا يَزَالُ الَّذِيْنَ كَفَرُوْا تُصِيْبُهُمْ بِمَا صَنَعُوْا قَارِعَةٌ اَوْ تَحُلُّ قَرِيْبًا مِّنْ دَارِهِمْ حَتّٰى يَاْتِيَ وَعْدُ اللّٰهِ  ۭ اِنَّ اللّٰهَ لَا يُخْلِفُ الْمِيْعَادَ",
+        "Urdu" : "اور اگر واقعی کوئی قران ایسا ہوتا کہ چلائے جاتے اس کے ذریعے پہاڑ یا قطع کی جاتی اس کے ذریعے زمین یا کلام کیا جاتا اس کے ذریعے مردوں سے (تو پھر بھی یہ نہ مانتے) بلکہ اللہ ہی کے لیے ہے معاملہ (اختیار) سارے کا سارا تو کیا ابھی تک نہیں اطمینان ہوا ان لوگوں کو جو ایمان لائے یہ کہ اگر اللہ چاہتا تو ضرور ہدایت دیتا سب لوگوں کو اور ہمیشہ رہیں گے وہ لوگ جنہوں نے کفر کیا اس حال میں کہ پہنچے گی انہیں اس وجہ سے جو انہوں نے کیا آفت یا اترے گی ان کے گھر کے قریب یہاں تک کہ آجائے اللہ کا وعدہ بیشک اللہ نہیں خلاف کرتا اپنے وعدے کے",
+        "English" : "And even if there were a Qur‘an wherewith the mountains could be moved, or the earth could be split apart, or wherewith the dead are spoken to, (they would not believe). In fact, every decision rests only with Allah. Are the believers not satisfied with the fact that, if Allah willed, He would have brought all the people to the right path? And the disbelievers are continually receiving affliction because of what they did, or it visits somewhere close to their homes, until Allah‘s promise will come to pass. Surely, Allah does not go back upon His promise."
+      },
+      {
+        "ayet_no" : 32,
+        "arbi" : "وَلَقَدِ اسْتُهْزِئَ بِرُسُلٍ مِّنْ قَبْلِكَ فَاَمْلَيْتُ لِلَّذِيْنَ كَفَرُوْا ثُمَّ اَخَذْتُهُمْ ۣ فَكَيْفَ كَانَ عِقَابِ",
+        "Urdu" : "اور بلاشبہ یقینا مذاق اڑایا گیا کئی رسولوں کا آپ سے پہلے تو میں نے مہلت دی ان لوگوں کو جنہوں نے کفر کیا ، پھر میں نے پکڑا انہیں تو کیسا سخت تھا میرا عذاب",
+        "English" : "Messengers have been mocked at before you, so I let the disbelievers go on for a while. Then I seized them. So, how was My punishment ?"
+      },
+      {
+        "ayet_no" : 33,
+        "arbi" : "اَفَمَنْ هُوَ قَاۗىِٕمٌ عَلٰي كُلِّ نَفْسٍۢ  بِمَا كَسَبَتْ ۚ وَجَعَلُوْا لِلّٰهِ شُرَكَاۗءَ  ۭ قُلْ سَمُّوْهُمْ  ۭ اَمْ تُنَبِّــــــُٔـوْنَهٗ بِمَا لَا يَعْلَمُ فِي الْاَرْضِ اَمْ بِظَاهِرٍ مِّنَ الْقَوْلِ ۭ بَلْ زُيِّنَ لِلَّذِيْنَ كَفَرُوْا مَكْرُهُمْ وَصُدُّوْا عَنِ السَّبِيْلِ ۭوَمَنْ يُّضْلِلِ اللّٰهُ فَمَا  لَهٗ مِنْ هَادٍ",
+        "Urdu" : "پھر کیا جو ذات کہ وہ نگران ہے ہر جان پر اس پر جو اس نے کمایا (کوئی اس کے برابر ہوسکتا ہے) اور انہوں نے بنائے اللہ کے لیے شرک کہہ دیجیے تم ان کے نام تو لو تم خبردیتے ہو اسے (یعنی اللہ کو اس چیز) کی جو وہ نہیں جانتا زمین میں یا اوپر اوپر ظاہری بات سے کہہ رہے ہو بلکہ مزین کردیا گیا ان لوگوں کے لیے جنہوں نے کفر کیا ان کا مکر اور وہ روک دیے گئے سیدھے راستے سےاور جسے گمراہ کردے اللہ تو نہیں اس کو کوئی ہدایت دینے والا",
+        "English" : "Is He, then, who is ever standing over every soul with that which he earneth, like unto other! And yet they have set up associates unto Allah. Say thou: name them; would ye inform Him of that which He know not on the earth ? or is it by way of outward saying ? Aye! fair-seeming unto those who disbelieve is made their plotting, and they have been hindered from the way.And whomsoever send astray, for him there is no guide."
+      },
+      {
+        "ayet_no" : 34,
+        "arbi" : "لَهُمْ عَذَابٌ فِي الْحَيٰوةِ الدُّنْيَا وَلَعَذَابُ الْاٰخِرَةِ اَشَقُّ ۚ وَمَا لَهُمْ مِّنَ اللّٰهِ مِنْ وَّاقٍ",
+        "Urdu" : "ان کے لیے عذاب ہے دنیوی زندگی میں اور یقینا آخرت کا عذاب بہت سخت ہے اور نہیں ہے ان کے لیے اللہ کے عذاب سے کوئی بچانے والا",
+        "English" : "For them there is punishment in the worldly life, and indeed the punishment of the Hereafter is even harder, and for them there is none to save them from Allah."
+      },
+      {
+        "ayet_no" : 35,
+        "arbi" : "مَثَلُ الْجَنَّةِ الَّتِيْ وُعِدَ الْمُتَّقُوْنَ  ۭ تَجْرِيْ مِنْ تَحْتِهَا الْاَنْهٰرُ ۭ اُكُلُهَا دَاۗىِٕمٌ وَّظِلُّهَا  ۭ تِلْكَ عُقْبَى الَّذِيْنَ اتَّقَوْاڰ وَّعُقْبَى الْكٰفِرِيْنَ النَّارُ",
+        "Urdu" : "مثال (صفت) اس جنت کی جس کا وعدہ کیا گیا ہے متقیوں سے یہ ہے کہ بہتی ہیں ان کے نیچے سے نہریں اس کا پھل دائمی ہے اور اس کا سایہ بھی یہ انجام ہے ان لوگوں کا جنہوں نے تقوی اختیار کیا اور کافروں کا انجام آگ ہے",
+        "English" : "Here is the description of the Paradise promised to the God-fearing: underneath it the rivers flow; its food is everlasting and (so is) its shade. This is the ultimate abode of the God-fearing while the ultimate abode of the disbelievers is Fire."
+      },
+      {
+        "ayet_no" : 36,
+        "arbi" : "وَالَّذِيْنَ اٰتَيْنٰهُمُ الْكِتٰبَ يَفْرَحُوْنَ بِمَآ اُنْزِلَ اِلَيْكَ وَمِنَ الْاَحْزَابِ مَنْ يُّنْكِرُ بَعْضَهٗ ۭ قُلْ اِنَّمَآ اُمِرْتُ اَنْ اَعْبُدَ اللّٰهَ وَلَآ اُشْرِكَ بِهٖ ۭ اِلَيْهِ اَدْعُوْا وَاِلَيْهِ مَاٰبِ",
+        "Urdu" : "اور وہ لوگ جو کہ ہم نے دی انہیں کتاب وہ خوش ہوتے ہیں اس پر جو اتارا گیا آپ کی طرف اور یہود ونصاری کے گروہوں میں سے ایسے بھی ہیں جو انکار کرتے ہیں اس کے بعض کا کہہ دیجیے مجھے تو صرف یہ حکم دیا گیا ہے کہ میں عبادت کروں اللہ کی اور نہ شریک ٹھہراوں اس کے ساتھ کسی کو بھی اسی کی طرف میں دعوت دیتا ہوں اور اسی کی طرف میرا لوٹنا ہے",
+        "English" : "Those to whom We have given the Book are happy with what has been sent down to you. And among their groups there are those who deny some of it. Say, :I am commanded only to worship Allah and not to ascribe partners to Him. To Him I call and to Him is my return."
+      },
+      {
+        "ayet_no" : 37,
+        "arbi" : "وَكَذٰلِكَ اَنْزَلْنٰهُ حُكْمًا عَرَبِيًّا  ۭ وَلَىِٕنِ اتَّبَعْتَ اَهْوَاۗءَهُمْ بَعْدَمَا جَاۗءَكَ مِنَ الْعِلْمِ ۙ مَا لَكَ مِنَ اللّٰهِ مِنْ وَّلِيٍّ وَّلَا وَاقٍ",
+        "Urdu" : "اور اسی طرح ہم نے اتارا ہے اسے عربی فرمان بناکر اور واقعی اگرتونے پیروی کی ان کی خواہشات کی اس کے بعد کہ آچکا تیرے پاس علم نہیں ہوگا آپ کے لیے اللہ کے عذاب سے کوئی حمایتی اور نہ کوئی بچانے والا",
+        "English" : "Thus We have sent it down, being a command in Arabic. And if you follow their desires, after the knowledge that has come to you, there shall be neither a friend for you against Allah, nor a savior."
+      },
+      {
+        "ayet_no" : 38,
+        "arbi" : "وَلَقَدْ اَرْسَلْنَا رُسُلًا مِّنْ قَبْلِكَ وَجَعَلْنَا لَهُمْ اَزْوَاجًا وَّذُرِّيَّةً ۭ وَمَا كَانَ لِرَسُوْلٍ اَنْ يَّاْتِيَ بِاٰيَةٍ اِلَّا بِاِذْنِ اللّٰهِ ۭ لِكُلِّ اَجَلٍ كِتَابٌ",
+        "Urdu" : "اور بلاشبہ یقینا ہم نے بھیجے کئی رسول آپ سے پہلے اور ہم نے بنائیں ان کے لیے بیویاں اور اولاد اور نہیں ہے کسی رسول کے لیے ممکن کہ وہ لے آئے کوئی نشانی مگر اللہ کے حکم سے ہر چیز کے مقرر وقت کو لکھا ہوا ہے",
+        "English" : "We have sent messengers before you, and gave them wives and children. It is not for a messenger to bring a verse without the will of Allah. For every age there are some rules prescribed."
+      },
+      {
+        "ayet_no" : 39,
+        "arbi" : "يَمْحُوا اللّٰهُ مَا يَشَاۗءُ وَيُثْبِتُ ښ وَعِنْدَهٗٓ اُمُّ الْكِتٰبِ",
+        "Urdu" : "مٹادیتا ہے اللہ جو چاہتا ہے او رقائم رکھتا ہے جو چاہتا ہے اور اسی کے پاس ہے اصل کتاب (لوح محفوظ)",
+        "English" : "Allah wipes off what He wills and affirms (what He wills), and with Him is the Mother Book."
+      },
+      {
+        "ayet_no" : 40,
+        "arbi" : "وَاِنْ مَّا نُرِيَنَّكَ بَعْضَ الَّذِيْ نَعِدُهُمْ اَوْ نَتَوَفَّيَنَّكَ فَاِنَّمَا عَلَيْكَ الْبَلٰغُ وَعَلَيْنَا الْحِسَابُ",
+        "Urdu" : "اور اگر ہم واقعی دکھادیں آپ کو بعض اس عذاب سے جسکا ہم وعدہ کرتے ہیں ان سے یاواقعی ہم فوت کردیں آپ کو تو بیشک آپ پر صرف پہنچادینا ہے اور ہم پر ہے حساب (لینا)",
+        "English" : "And if We show you (O prophet) some of what We have promised to them, or We take you back to Us (before that), in both cases you have only to convey the message, and We have to reckon."
+      },
+      {
+        "ayet_no" : 41,
+        "arbi" : "اَوَلَمْ يَرَوْا اَنَّا نَاْتِي الْاَرْضَ نَنْقُصُهَا مِنْ اَطْرَافِهَا  ۭوَاللّٰهُ يَحْكُمُ لَا مُعَقِّبَ لِحُكْمِهٖ ۭ وَهُوَ سَرِيْعُ الْحِسَابِ",
+        "Urdu" : "اور کیا انہوں نے نہیں دیکھا کہ بیشک ہم چلے آتے ہیں کفر زمین کی طرف ہم کم کر رہے ہیں اسے اس کے اطراف (کناروں) سے اور اللہ حکم کرتا ہے نہیں ہے کوئی ٹالنے والا اس کے حکم کو اور وہ جلد حساب لینے والا ہے",
+        "English" : "Have they not seen that We are coming to the land narrowing it down from all its sides? Allah judges; there is none to repel His judgement. And He is swift at reckoning."
+      },
+      {
+        "ayet_no" : 42,
+        "arbi" : "وَقَدْ مَكَرَ الَّذِيْنَ مِنْ قَبْلِهِمْ فَلِلّٰهِ الْمَكْرُ جَمِيْعًا ۭ يَعْلَمُ مَا تَكْسِبُ كُلُّ نَفْسٍ ۭ وَسَيَعْلَمُ الْكُفّٰرُ لِمَنْ عُقْبَى الدَّارِ",
+        "Urdu" : "اور بلاشبہ تدبیریں کیں ان لوگوں نے جو ان سے پہلے تھے پس اللہ ہی کے لیے ہیں اصل تدبیریں سب کی سب، وہ جانتا ہے جو کچھ کماتا ہے ہر نفس، اور عنقریب جان لیں گے کافر کس کے لیے ہے اچھا انجام آخرت کے گھر کا",
+        "English" : "Those before them did devise plans, but all the real plans belong only to Allah. He knows what every soul earns, and the disbelievers will soon know for whom is the excellent end."
+      },
+      {
+        "ayet_no" : 43,
+        "arbi" : "وَيَقُوْلُ الَّذِيْنَ كَفَرُوْا لَسْتَ مُرْسَلًا  ۭ قُلْ كَفٰى بِاللّٰهِ شَهِيْدًۢا  بَيْنِيْ وَبَيْنَكُمْ ۙ وَمَنْ عِنْدَهٗ عِلْمُ الْكِتٰبِ",
+        "Urdu" : "اور کہتے ہیں وہ لوگ جنہوں نے کفر کیا نہیں ہیں آپ رسول، کہہ دیجیے کافی اللہ بطور گواہ میرے درمیان اور تمہارے درمیان اور وہ بھی جس کے پاس کتاب کا علم",
+        "English" : "The disbelievers say, :You are not a messenger. Say, :Allah is sufficient as a witness between me and you, and those too (are my witnesses) who have the knowledge of the Book."
+      }
+
+    ]
+  }
+]
